@@ -14,19 +14,20 @@ Add blocks here:
 <table width="100%">
 <tr>
 
-<td style="vertical-align: top;"><!-- column 1 -->
+<td markdown="1" style="vertical-align: top;">
 
 **capforward**   img here? imx 4x here?
 
 </td>
 
-<td style="vertical-align: top;"><!-- column 2 -->
+<td markdown="1" style="vertical-align: top;">
 
 x colors (x pixels):
 
 - 12  img here? - rgb( 1, 1, 1)   / #44444
 - 4   img here?  - rgb( 1, 1, 1)  / #44444
-
+- 3   img here?
+  
 </td>
 </tr>
 <tr>
