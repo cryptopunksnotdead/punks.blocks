@@ -13,13 +13,11 @@ Add blocks here:
 
 <table width="100%">
 <tr>
-
 <td markdown="1" style="vertical-align: top;">
 
 **capforward**   img here? imx 4x here?
 
 </td>
-
 <td markdown="1" style="vertical-align: top;">
 
 x colors (x pixels):
@@ -31,7 +29,20 @@ x colors (x pixels):
 </td>
 </tr>
 <tr>
+<td markdown="1" style="vertical-align: top;">
 
+**capforward**   img here? imx 4x here?
+
+</td>
+<td markdown="1" style="vertical-align: top;">
+
+x colors (x pixels):
+
+- 12  img here? - rgb( 1, 1, 1)   / #44444
+- 4   img here?  - rgb( 1, 1, 1)  / #44444
+- 3   img here?
+  
+</td>
 </tr>
 </table>
 
