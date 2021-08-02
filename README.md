@@ -18,6 +18,6 @@ Let's make punk #7804 - a super rare alien with a capforward, smallshades and a 
 $ magick convert alien-male.png capforward.png smallshades.png pipe.png  -background none -flatten punk7804.png
 ```
 
-Now open up the new `punk7804.png`. Enjoy you million-$ punk look-a-alike. Yes, it's a 100% pixel original.
+Now open up the new `punk7804.png`. Enjoy your million-dollar punk look-a-alike. Yes, it's a 100% pixel original.
 
 
