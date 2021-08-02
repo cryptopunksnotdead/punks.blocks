@@ -11,16 +11,16 @@ Add blocks here:
 - two column layout possible? use html table
 
 
-<table>
+<table width="100%">
 <tr>
 
-<td><!-- column 1 -->
+<td style="vertical-align: top;"><!-- column 1 -->
 
 **capforward**   img here? imx 4x here?
 
 </td>
 
-<td><!-- column 2 -->
+<td style="vertical-align: top;"><!-- column 2 -->
 
 x colors (x pixels):
 
