@@ -11,7 +11,7 @@
 
 ##  DIY (Do-It-Yourself) - Yes, You Can! Design Your Own Punks Using the Punk (Building) Blocks
 
-Use the free [ImageMagick](https://imagemagick.org/) tools
+Use the [free ImageMagick tools](https://imagemagick.org)
 to make your own punks.
 
 
@@ -59,7 +59,7 @@ $ magick convert punk7804.png \
 $ magick convert punk7804.png -filter point -resize 200% punk7804x2.png
  -->
 
-![](i/punk7804x2)
+![](i/punk7804x2.png)
 
 And 4x (that is, 400%):
 
@@ -68,7 +68,7 @@ $ magick convert punk7804.png \
          -filter point -resize 400% punk7804x4.png
 ```
 
-![](i/punk7804x4)
+![](i/punk7804x4.png)
 
 <!--
 $ magick convert punk7804.png -filter point -resize 400% punk7804x4.png
