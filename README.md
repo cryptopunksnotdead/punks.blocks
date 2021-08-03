@@ -52,6 +52,22 @@ Aliens (Male) in red (0°), orange (30°),  yellow (60°),
 
 
 
+## All Caps Series (24x24)
+
+Caps in red (0°), orange (30°),
+chartreuse (90°),
+green (120°),
+blue (240°),
+magenta (300°),
+fuchsia (330°), and more.
+
+![](all-caps/cap_0.png)
+![](all-caps/cap_30.png)
+![](all-caps/cap_90.png)
+![](all-caps/cap_120.png)
+![](all-caps/cap_240.png)
+![](all-caps/cap_300.png)
+![](all-caps/cap_330.png)
 
 
 
@@ -124,7 +140,7 @@ $ magick convert punk7804.png -filter point -resize 400% punk7804x4.png
  -->
 
 
-Why stop? Let's add a smile!
+Why stop? Let's add a smile ![](original/smile.png)!
 
 ```
 $ magick convert punk7804.png \
@@ -214,6 +230,11 @@ $ magick convert alien-male.png cap.png -background none -flatten punk2890.png
 ![](i/punk2890.png)   2x, 4x:
 ![](i/punk2890x2.png)
 ![](i/punk2890x4.png)
+
+
+#### All Caps
+
+
 
 
 
