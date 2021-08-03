@@ -275,11 +275,13 @@ Or let's make a (light skintone) human punk
 ![](original/human-male_light.png)
 with a blue (240°) cap
 ![](original/cap_240.png)
-<!-- and a smile
+from scratch:
+
+<!-- todo/fix: and a smile
 ![](original/smile.png)
   todo/fix - smile depends on type (alien <=> human) !!!
 -->
-from scratch:
+
 
 ```
 $ magick convert human-male_light.png \
@@ -298,10 +300,8 @@ $ magick convert human_light.png -filter point -resize 200% human_lightx2.png
 ![](i/human_lightx4.png)
 
 
-Or try the dark skintone ![](original/human-male_dark.png) - `human-male_dark.png` -
-variant with
-a green (120°) cap ![](all-caps/cap_120.png)  -
-`cap_120.png`:
+Or try the dark skintone ![](original/human-male_dark.png) variant - `human-male_dark.png` -
+with a green (120°) cap ![](all-caps/cap_120.png)  - `cap_120.png`:
 
 
 <!--
