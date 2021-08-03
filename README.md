@@ -20,6 +20,17 @@ Apes (Male),
 Zombies (Male)
 ![](original/zombie-male.png).
 
+Attributes
+
+Cap Forward ![](original/capforward.png),
+Small Shades ![](original/smallshades.png),
+Pipe ![](original/pipe.png)
+
+<!-- note:
+       double check/todo: some attribute need a variant for females (width less by one or such)
+       e.g. shades and others!!!!
+-->
+
 
 
 ## Alien Invasion Series (24x24)
@@ -109,7 +120,8 @@ $ magick convert punk7804.png -filter point -resize 400% punk7804x4.png
  -->
 
 
-**Alien Invasion**
+
+### Alien Invasion
 
 Let's try the green (120°) variant.
 Let's make - a super rare alien
@@ -132,12 +144,15 @@ $ magick convert alien-male_120.png \
 
 <!--
 $ magick convert alien-male_120.png capforward.png smallshades.png pipe.png -background none -flatten punk7804_120.png
+
+$ magick convert punk7804_120.png -filter point -resize 200% punk7804_120x2.png
+
+$ magick convert punk7804_120.png -filter point -resize 400% punk7804_120x4.png
 -->
 
-
-2x, 4x:
-
-
+![](i/punk7804_120.png)   2x, 4x:
+![](i/punk7804_120x2.png)
+![](i/punk7804_120x4.png)
 
 
 
