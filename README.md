@@ -153,7 +153,8 @@ $ magick convert punk7804_120.png -filter point -resize 400% punk7804_120x4.png
 ![](i/punk7804_120x2.png)
 ![](i/punk7804_120x4.png)
 
-Or try the 90° and 150° variants:
+Or try the 90° ![](alien-invasion/alien-male_90.png)
+and 150° ![](alien-invasion/alien-male_150.png) variants:
 
 ![](i/punk7804_90.png)   2x, 4x:
 ![](i/punk7804_90x2.png)
@@ -162,7 +163,6 @@ Or try the 90° and 150° variants:
 ![](i/punk7804_150.png)   2x, 4x:
 ![](i/punk7804_150x2.png)
 ![](i/punk7804_150x4.png)
-
 
 
 
