@@ -20,9 +20,8 @@ Apes (Male),
 Zombies (Male)
 ![](original/zombie-male.png).
 
-Attributes
 
-Cap Forward ![](original/capforward.png),
+Attributes - Cap Forward ![](original/capforward.png),
 Small Shades ![](original/smallshades.png),
 Pipe ![](original/pipe.png)
 
@@ -153,6 +152,16 @@ $ magick convert punk7804_120.png -filter point -resize 400% punk7804_120x4.png
 ![](i/punk7804_120.png)   2x, 4x:
 ![](i/punk7804_120x2.png)
 ![](i/punk7804_120x4.png)
+
+Or try the 90° and 150° variants:
+
+![](i/punk7804_90.png)   2x, 4x:
+![](i/punk7804_90x2.png)
+![](i/punk7804_90x4.png)
+
+![](i/punk7804_150.png)   2x, 4x:
+![](i/punk7804_150x2.png)
+![](i/punk7804_150x4.png)
 
 
 
