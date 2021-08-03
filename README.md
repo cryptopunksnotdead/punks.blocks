@@ -23,7 +23,9 @@ Zombies (Male)
 
 Attributes - Cap Forward ![](original/capforward.png),
 Small Shades ![](original/smallshades.png),
-Pipe ![](original/pipe.png)
+Pipe ![](original/pipe.png),
+Smile ![](original/smile.png)
+
 
 <!-- note:
        double check/todo: some attribute need a variant for females (width less by one or such)
@@ -82,7 +84,7 @@ $ magick convert alien-male.png capforward.png smallshades.png pipe.png -backgro
 -->
 
 Now open up the new `punk7804.png`. Enjoy your million-dollar punk look-a-alike. Yes, it's
-a 100% true authentic pixel original.
+a 100% true authentic pixel ~~copy~~ original.
 
 ![](i/punk7804.png)
 
@@ -117,6 +119,25 @@ $ magick convert punk7804.png \
 <!--
 $ magick convert punk7804.png -filter point -resize 400% punk7804x4.png
  -->
+
+
+Why stop? Let's add a smile!
+
+```
+$ magick convert punk7804.png \
+                 smile.png \
+         -background none -flatten punk7804_smile.png
+```
+
+<!--
+$ magick convert punk7804.png smile.png  -background none -flatten punk7804_smile.png
+-->
+
+![](i/punk7804_smile.png)   2x, 4x:
+![](i/punk7804_smilex2.png)
+![](i/punk7804_smilex4.png)
+
+
 
 
 
