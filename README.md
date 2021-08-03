@@ -232,14 +232,91 @@ $ magick convert alien-male.png cap.png -background none -flatten punk2890.png
 ![](i/punk2890x4.png)
 
 
+
 #### All Caps
 
+Let's try the red (0°) variant.
+Let's make - a super rare alien
+![](alien-invasion/alien-male.png)
+with a cap
+![](all-caps/cap_0.png)
+from scratch:
+
+```
+$ magick convert alien-male.png \
+                 cap_0.png \
+         -background none -flatten punk2890_0.png
+```
+
+<!--
+$ magick convert alien-male.png cap_0.png -background none -flatten punk2890_0.png
+
+$ magick convert punk2890_0.png -filter point -resize 200% punk2890_0x2.png
+
+$ magick convert punk2890_0.png -filter point -resize 400% punk2890_0x4.png
+-->
+
+![](i/punk2890_0.png)   2x, 4x:
+![](i/punk2890_0x2.png)
+![](i/punk2890_0x4.png)
+
+
+Or try the blue (240°) ![](all-caps/cap_240.png) variant - `cap_240.png`:
+
+![](i/punk2890_240.png)   2x, 4x:
+![](i/punk2890_240x2.png)
+![](i/punk2890_240x4.png)
 
 
 
+### Humans with Cap
+
+Or let's make a (light skintone) human punk
+![](original/human-male_light.png)
+with a blue (240°) cap
+![](original/cap_240.png)
+<!-- and a smile
+![](original/smile.png)
+  todo/fix - smile depends on type (alien <=> human) !!!
+-->
+from scratch:
+
+```
+$ magick convert human-male_light.png \
+                 cap_0.png \
+         -background none -flatten human_light.png
+```
+
+<!--
+$ magick convert human-male_light.png cap_0.png -background none -flatten human_light.png
+
+$ magick convert human_light.png -filter point -resize 200% human_lightx2.png
+-->
+
+![](i/human_light.png)   2x, 4x:
+![](i/human_lightx2.png)
+![](i/human_lightx4.png)
 
 
-That's it.
+Or try the dark skintone ![](original/human-male_dark.png) - `human-male_dark.png` -
+variant with
+a green (120°) cap ![](all-caps/cap_120.png)  -
+`cap_120.png`:
+
+
+<!--
+$ magick convert human-male_dark.png cap_120.png -background none -flatten human_dark.png
+-->
+
+
+![](i/human_dark.png)   2x, 4x:
+![](i/human_darkx2.png)
+![](i/human_darkx4.png)
+
+
+And so on. Yes, you can.
+
+
 
 
 
