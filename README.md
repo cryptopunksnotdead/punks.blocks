@@ -21,7 +21,8 @@ Zombies (Male)
 ![](original/zombie-male.png).
 
 
-Attributes - Cap Forward ![](original/capforward.png),
+Attributes - Cap ![](original/cap.png),
+Cap Forward ![](original/capforward.png),
 Small Shades ![](original/smallshades.png),
 Pipe ![](original/pipe.png),
 Smile ![](original/smile.png)
@@ -60,6 +61,8 @@ Aliens (Male) in red (0°), orange (30°),  yellow (60°),
 Use the [free ImageMagick tools](https://imagemagick.org)
 to make your own punks.
 
+
+### Alien with Cap Forward, Small Shades & Pipe
 
 Let's make punk #7804 - a super rare alien
 ![](original/alien-male.png)
@@ -141,7 +144,7 @@ $ magick convert punk7804.png smile.png  -background none -flatten punk7804_smil
 
 
 
-### Alien Invasion
+#### Alien Invasion
 
 Let's try the green (120°) variant.
 Let's make - a super rare alien
@@ -185,6 +188,33 @@ Or 150° ![](alien-invasion/alien-male_150.png) - `alien-male_150.png`:
 ![](i/punk7804_150.png)   2x, 4x:
 ![](i/punk7804_150x2.png)
 ![](i/punk7804_150x4.png)
+
+
+
+
+### Alien with Cap
+
+Let's make punk #2890 - another super rare alien
+![](original/alien-male.png)
+with a cap
+![](original/cap.png)
+from scratch:
+
+```
+$ magick convert alien-male.png \
+                 cap.png \
+         -background none -flatten punk2890.png
+```
+
+<!--
+$ magick convert alien-male.png cap.png -background none -flatten punk2890.png
+-->
+
+
+![](i/punk2890.png)   2x, 4x:
+![](i/punk2890x2.png)
+![](i/punk2890x4.png)
+
 
 
 
