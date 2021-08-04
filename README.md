@@ -320,13 +320,13 @@ And so on. Yes, you can.
 
 ## Bonus - ImageMagick Special Effects
 
-Use [free ImageMagick tools](https://imagemagick.org)
+Use the [free ImageMagick tools](https://imagemagick.org)
 to script special effects (on the command line).
 
 
 ### Polaroid-Like Photos
 
-Let's start with a "plain vanilla" punk, that is, #2890 ![i/punk2890.png] and
+Let's start with a "plain vanilla" punk, that is, #2890 ![](i/punk2890.png) and
 let's use the 4x (96x96) version
 and turn it into a captioned polaroid-like photo:
 
