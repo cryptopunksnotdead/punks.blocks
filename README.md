@@ -318,6 +318,45 @@ And so on. Yes, you can.
 
 
 
+## Bonus - ImageMagick Special Effects
+
+Use [free ImageMagick tools](https://imagemagick.org)
+to script special effects (on the command line).
+
+
+### Polaroid-Like Photos
+
+Let's start with a "plain vanilla" punk, that is, #2890 ![i/punk2890.png] and
+let's use the 4x (96x96) version
+and turn it into a captioned polaroid-like photo:
+
+```
+$ magick convert punk2890x4.png \
+          -gravity center -set caption "Punk #2890" \
+          -caption '%c' \
+          -border 5x5 \
+          -bordercolor AliceBlue -background black  +polaroid \
+          polaroid2890.png
+```
+
+![](i/polaroid2890.png)
+
+
+And let's try some more:
+
+![](i/polaroid7804.png)
+![](i/polaroid_human_light.png)
+![](i/polaroid_human_dark.png)
+
+
+
+
+And so on. Yes, you can.
+
+
+
+
+
 ## Questions? Comments?
 
 Post them on the [CryptoPunksDev reddit](https://old.reddit.com/r/CryptoPunksDev). Thanks.
