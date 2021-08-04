@@ -273,8 +273,8 @@ Or try the blue (240°) ![](all-caps/cap_240.png) variant - `cap_240.png`:
 
 Or let's make a (light skintone) human punk
 ![](original/human-male_light.png)
-with a blue (240°) cap
-![](original/cap_240.png)
+with a red (0°) cap
+![](all-caps/cap_0.png)
 and a smile
 ![](original/smile.png)
 from scratch:
