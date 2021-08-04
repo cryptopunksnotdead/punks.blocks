@@ -140,16 +140,16 @@ $ magick convert punk7804.png -filter point -resize 400% punk7804x4.png
  -->
 
 
-Why stop? Let's add a smile ![](original/smile.png)!
+Why stop? Let's add a smile ![](misc/smile-alien.png)!
 
 ```
 $ magick convert punk7804.png \
-                 smile.png \
+                 smile-alien.png \
          -background none -flatten punk7804_smile.png
 ```
 
 <!--
-$ magick convert punk7804.png smile.png  -background none -flatten punk7804_smile.png
+$ magick convert punk7804.png smile-alien.png  -background none -flatten punk7804_smile.png
 -->
 
 ![](i/punk7804_smile.png)   2x, 4x:
@@ -275,22 +275,20 @@ Or let's make a (light skintone) human punk
 ![](original/human-male_light.png)
 with a blue (240°) cap
 ![](original/cap_240.png)
-from scratch:
-
-<!-- todo/fix: and a smile
+and a smile
 ![](original/smile.png)
-  todo/fix - smile depends on type (alien <=> human) !!!
--->
+from scratch:
 
 
 ```
 $ magick convert human-male_light.png \
                  cap_0.png \
+                 smile.png \
          -background none -flatten human_light.png
 ```
 
 <!--
-$ magick convert human-male_light.png cap_0.png -background none -flatten human_light.png
+$ magick convert human-male_light.png cap_0.png smile.png -background none -flatten human_light.png
 
 $ magick convert human_light.png -filter point -resize 200% human_lightx2.png
 -->
@@ -305,7 +303,7 @@ with a green (120°) cap ![](all-caps/cap_120.png)  - `cap_120.png`:
 
 
 <!--
-$ magick convert human-male_dark.png cap_120.png -background none -flatten human_dark.png
+$ magick convert human-male_dark.png cap_120.png smile.png -background none -flatten human_dark.png
 -->
 
 
