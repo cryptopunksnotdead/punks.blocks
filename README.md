@@ -21,8 +21,11 @@ Zombies (Male)
 ![](original/zombie-male.png).
 
 
-Attributes - Cap ![](original/cap.png),
+Attributes - Crazy Hair ![](original/crazyhair.png),
+Cap ![](original/cap.png),
 Cap Forward ![](original/capforward.png),
+Knitted Cap ![](original/knittedcap.png),
+Headband ![](original/headband.png),
 Small Shades ![](original/smallshades.png),
 Pipe ![](original/pipe.png),
 Smile ![](original/smile.png)
