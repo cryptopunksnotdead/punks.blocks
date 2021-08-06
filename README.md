@@ -96,14 +96,14 @@ Robot (male / female) ![](more/more_robot-male.png) ![](more/more_robot-female.p
 
 ## Normie Series (24x24)
 
-_Left-facing? Right-facing? Normie designs use the golden middle_
+_Left-facing? Right-facing? Normie designs use the golden middle. Male? Female? Non-binary? Normie designs are unisex.
 
-Human (male) ![](normies/normie_human-male_lighter.png) ![](normies/normie_human-male_light.png) ![](normies/normie_human-male_dark.png) ![](normies/normie_human-male_darker.png),
-Alien (male) ![](normies/normie_alien-male.png),
-Ape (male) ![](normies/normie_ape-male.png),
-Zombie (male) ![](normies/normie_zombie-male.png),
-Demon (male) ![](normies/normie_demon-male.png),
-Skeleton (male) ![](normies/normie_skeleton-male.png)
+Human ![](normies/normie_human_lighter.png) ![](normies/normie_human_light.png) ![](normies/normie_human_dark.png) ![](normies/normie_human_darker.png),
+Alien ![](normies/normie_alien.png),
+Ape ![](normies/normie_ape.png),
+Zombie  ![](normies/normie_zombie.png),
+Demon  ![](normies/normie_demon.png),
+Skeleton  ![](normies/normie_skeleton.png)
 
 
 
