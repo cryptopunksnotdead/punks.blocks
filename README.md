@@ -382,10 +382,12 @@ $ magick convert dodge-zombie_notop.png \
 ![](i/dodge2066x2.png)
 ![](i/dodge2066x4.png)
 
+
+
 Or let's make a classic
 ![](dodge/dodge.png)
 with a 3d glasses
-![](dodge/3dglasses.png)
+![](dodge/3dglasses-dodge.png)
 from scratch:
 
 
@@ -400,6 +402,11 @@ $ magick convert dodge.png \
 
  $ magick convert dodge_3dglasses.png -filter point -resize 200% dodge_3dglassesx2.png
   -->
+
+
+![](i/dodge_3dglasses.png) 2x, 4x:
+![](i/dodge_3dglassesx2.png)
+![](i/dodge_3dglassesx4.png)
 
 
 
