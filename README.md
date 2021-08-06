@@ -334,6 +334,75 @@ $ magick convert human-male_dark.png cap_120.png smile.png -background none -fla
 ![](i/human_darkx4.png)
 
 
+### Dodge Shiba Inu - Much Wow
+
+Let's make a dodge punk  - a super rare alien
+![](dodge/dodge-alien.png)
+with a headband
+![](dodge/headband-dodge.png)
+from scratch:
+
+```
+$ magick convert dodge-alien.png \
+                 headband-dodge.png \
+         -background none -flatten dodge3100.png
+```
+
+<!--
+ $ magick convert dodge-alien.png headband-dodge.png -background none -flatten dodge3100.png
+
+ $ magick convert dodge3100.png -filter point -resize 200% dodge3100x2.png
+  -->
+
+![](i/dodge3100.png) 2x, 4x:
+![](i/dodge3100x2.png)
+![](i/dodge3100x4.png)
+
+
+Or let's make a zombie
+![](dodge/dodge-zombie-notop.png)
+with a knitted cap
+![](dodge/knittedcap-dodge.png)
+from scratch:
+
+
+```
+$ magick convert dodge-zombie_notop.png \
+                 knittedcap-dodge.png \
+         -background none -flatten dodge2066.png
+```
+
+<!--
+ $ magick convert dodge-zombie_notop.png knittedcap-dodge.png -background none -flatten dodge2066.png
+
+ $ magick convert dodge2066.png -filter point -resize 200% dodge2066x2.png
+  -->
+
+![](i/dodge2066.png) 2x, 4x:
+![](i/dodge2066x2.png)
+![](i/dodge2066x4.png)
+
+Or let's make a classic
+![](dodge/dodge.png)
+with a 3d glasses
+![](dodge/3dglasses.png)
+from scratch:
+
+
+```
+$ magick convert dodge.png \
+                 3dglasses-dodge.png \
+         -background none -flatten dodge_3dglasses.png
+```
+
+<!--
+ $ magick convert dodge.png 3dglasses-dodge.png -background none -flatten dodge_3dglasses.png
+
+ $ magick convert dodge_3dglasses.png -filter point -resize 200% dodge_3dglassesx2.png
+  -->
+
+
+
 And so on. Yes, you can.
 
 
