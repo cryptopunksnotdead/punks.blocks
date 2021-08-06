@@ -76,19 +76,18 @@ fuchsia (330°), and more.
 
 ## Dodge Series (32x32)
 
-Shiba Inu, Alien, Zombie and more.
+Shiba Inu, Zombie, Alien, and more.
 
 ![](dodge/dodge.png)
 ![](dodge/dodge-dark.png)
 ![](dodge/dodge-zombie.png)
 ![](dodge/dodge-alien.png)
 
-Attributes:
-
+Attributes -
 Beanie ![](dodge/beanie-dodge.png),
 Cap  ![](dodge/cap-dodge.png),
 Knitted Cap ![](dodge/knittedcap-dodge.png),
-Headband ![](dodge/headband.png),
+Headband ![](dodge/headband-dodge.png),
 3D Glasses ![](dodge/3dglasses-dodge.png)
 
 
