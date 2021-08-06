@@ -40,6 +40,8 @@ Smile ![](original/smile.png)
 
 ## Alien Invasion Series (24x24)
 
+_Aliens in more colors (by degree on the HSL color wheel)_
+
 Aliens (Male) in red (0°), orange (30°),  yellow (60°),
 , chartreuse (90°), green (120°), magenta (°300), fuchsia (°330), and more.
 
@@ -56,6 +58,8 @@ Aliens (Male) in red (0°), orange (30°),  yellow (60°),
 
 
 ## All Caps Series (24x24)
+
+_(Baseball) caps in more colors (by degree on the HSL color wheel)_
 
 Caps in red (0°), orange (30°),
 chartreuse (90°),
@@ -74,9 +78,40 @@ fuchsia (330°), and more.
 
 
 
+## More Series (24x24)
+
+_New species, new attributes_
+
+Alien (female) ![](more/more_alien-female.png),
+Ape (female) ![](more/more_ape-female.png),
+Zombie (female) ![](more/more_zombie-female.png),
+Demon (male / female) ![](more/more_demon-male.png) ![](more/more_demon-female.png),
+Vampire (male / female) ![](more/more_vampire-male.png) ![](more/more_vampire-female.png),
+Orc (male / female) ![](more/more_orc-male.png) ![](more/more_orc-female.png),
+Skeleton (male / female) ![](more/more_skeleton-male.png) ![](more/more_skeleton-female.png),
+Mummy (male / female) ![](more/more_mummy-male.png) ![](more/more_mummy-female.png),
+Robot (male / female) ![](more/more_robot-male.png) ![](more/more_robot-female.png)
+
+
+
+## Normie Series (24x24)
+
+_Left-facing? Right-facing? Normie designs use the golden middle_
+
+Human (male) ![](normies/normie_human-male_lighter.png) ![](normies/normie_human-male_light.png) ![](normies/normie_human-male_dark.png) ![](normies/normie_human-male_darker.png),
+Alien (male) ![](normies/normie_alien-male.png),
+Ape (male) ![](normies/normie_ape-male.png),
+Zombie (male) ![](normies/normie_zombie-male.png),
+Demon (male) ![](normies/normie_demon-male.png),
+Skeleton (male) ![](normies/normie_skeleton-male.png)
+
+
+
 ## Dodge Series (32x32)
 
-Shiba Inu, Zombie, Alien, and more.
+_Shiba Inu dogs - Much wow_
+
+Classic, Dark, Zombie, Alien, and more.
 
 ![](dodge/dodge.png)
 ![](dodge/dodge-dark.png)
