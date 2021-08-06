@@ -111,12 +111,12 @@ Skeleton (male) ![](normies/normie_skeleton-male.png)
 
 _Shiba Inu dogs - Much wow_
 
-Classic, Dark, Zombie, Alien, and more.
+Classic ![](dodge/dodge.png),
+Dark ![](dodge/dodge-dark.png),
+Zombie ![](dodge/dodge-zombie.png),
+Alien ![](dodge/dodge-alien.png)
 
-![](dodge/dodge.png)
-![](dodge/dodge-dark.png)
-![](dodge/dodge-zombie.png)
-![](dodge/dodge-alien.png)
+
 
 Attributes -
 Beanie ![](dodge/beanie-dodge.png),
