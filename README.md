@@ -491,6 +491,69 @@ And let's try some more:
 
 
 
+
+### Magnify 2x, 3x 4x with (Smooth) Pixel Art Scaling Algorithm
+
+Let's start with a "plain vanilla" punk, that is, #2890 ![](i/punk2890.png) and
+let's use 2x magnified (48x48) version
+using a (smooth) [pixel art scaling algorithm¹](https://en.wikipedia.org/wiki/Pixel-art_scaling_algorithms)):
+
+Note¹: ImageMagic uses the [scale2x](http://www.scale2x.it/algorithm) algorithm
+
+<!--
+  more on github @ https://github.com/amadvance/scale2x/
+  -->
+
+
+```
+$ magick convert punk2890.png \
+          -magnify \
+          punk2890_magnify2x.png
+```
+
+![](i/punk2890_magnify2x.png)
+
+
+And doubling again (4x):
+
+```
+$ magick convert punk2890.png \
+          -magnify -magnify \
+          punk2890_magnify4x.png
+```
+
+![](i/punk2890_magnify4x.png)
+
+And doubling again (8x):
+
+```
+$ magick convert punk2890.png \
+          -magnify -magnify -magnify \
+          punk2890_magnify8x.png
+```
+
+![](i/punk2890_magnify8x.png)
+
+
+
+And let's try some more:
+
+![](i/punk7804_magnify2x.png)
+![](i/punk7804_magnify4x.png)
+![](i/punk7804_magnify8x.png)
+
+<!--
+![](i/polaroid_human_light.png)
+-->
+
+![](i/dodge_magnify2x.png)
+![](i/dodge_magnify4x.png)
+![](i/dodge_magnify8x.png)
+
+
+
+
+
 And so on. Yes, you can.
 
 
