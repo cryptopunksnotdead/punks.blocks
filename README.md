@@ -131,7 +131,7 @@ Big Shades  ![](dodge/bigshades-dodge.png),
 Eye Patch   ![](dodge/eyepatch-dodge.png),
 Nerd Glasses  ![](dodge/nerdglasses-dodge.png),
 3D Glasses ![](dodge/3dglasses-dodge.png),
-Tiara ![](doge/tiara-dodge.png)
+Tiara ![](dodge/tiara-dodge.png)
 
 
 
