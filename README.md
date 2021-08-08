@@ -541,10 +541,10 @@ And let's try some more:
 ![](i/punk7804_magnify2x.png)
 ![](i/punk7804_magnify4x.png)
 ![](i/punk7804_magnify8x.png)
+![](i/human_light_magnify2x.png)
+![](i/human_light_magnify4x.png)
+![](i/human_light_magnify8x.png)
 
-<!--
-![](i/polaroid_human_light.png)
--->
 
 ![](i/dodge_magnify2x.png)
 ![](i/dodge_magnify4x.png)
