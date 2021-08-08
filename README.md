@@ -122,9 +122,16 @@ Attributes -
 Beanie ![](dodge/beanie-dodge.png),
 Cap  ![](dodge/cap-dodge.png),
 Knitted Cap ![](dodge/knittedcap-dodge.png),
+Cowboy Hat ![](dodge/cowboyhat-dodge.png),
 Headband ![](dodge/headband-dodge.png),
-3D Glasses ![](dodge/3dglasses-dodge.png)
-
+Regular Shades  ![](dodge/regularshades-dodge.png),
+Classic Shades ![](dodge/classicshades-dodge.png),
+Small Shades  ![](dodge/smallshades-dodge.png),
+Big Shades  ![](dodge/bigshades-dodge.png),
+Eye Patch   ![](dodge/eyepatch-dodge.png),
+Nerd Glasses  ![](dodge/nerdglasses-dodge.png),
+3D Glasses ![](dodge/3dglasses-dodge.png),
+Tiara ![](doge/tiara-dodge.png)
 
 
 
