@@ -552,7 +552,7 @@ And let's try some more:
 
 
 
-Power Tip - Let's retry with the [high quality scale (hpx)
+Power Tip - Let's retry with the [high quality scale (hqx)
 pixel art scaling algorithm family](https://en.wikipedia.org/wiki/Hqx) in the 2x, 3x and 4x variants.
 
 Note:  A free ImageMagick tools installation gets you
@@ -561,47 +561,45 @@ a copy of ffmpeg. Let's try:
 ```
 $ ffmpeg -i punk2890.png \
           -filter_complex hqx=2 \
-          punk2890_hq2x.png
+          punk2890_hqx2.png
 ```
 
-![](i/punk2890_hq2x.png)
+![](i/punk2890_hqx2.png)
 
 And 3x:
 
 ```
 $ ffmpeg -i punk2890.png \
           -filter_complex hqx=3 \
-          punk2890_hq3x.png
+          punk2890_hqx3.png
 ```
 
-![](i/punk2890_hq3x.png)
+![](i/punk2890_hqx3.png)
 
 And 4x:
 
 ```
 $ ffmpeg -i punk2890.png \
           -filter_complex hqx=4 \
-          punk2890_hq4x.png
+          punk2890_hqx4.png
 ```
 
-![](i/punk2890_hq4x.png)
+![](i/punk2890_hqx4.png)
 
 
 And let's try some more:
 
-![](i/punk7804_hq2x.png)
-![](i/punk7804_hq3x.png)
-![](i/punk7804_hq4x.png)
-![](i/human_light_hq2x.png)
-![](i/human_light_hq3x.png)
-![](i/human_light_hq4x.png)
+![](i/punk7804_hqx2.png)
+![](i/punk7804_hqx3.png)
+![](i/punk7804_hqx4.png)
+![](i/human_light_hqx2.png)
+![](i/human_light_hqx3.png)
+![](i/human_light_hqx4.png)
 
 
-![](i/dodge_hq2x.png)
-![](i/dodge_hq3x.png)
-![](i/dodge_hq4x.png)
-
-
+![](i/dodge_hqx2.png)
+![](i/dodge_hqx3.png)
+![](i/dodge_hqx4.png)
 
 
 
