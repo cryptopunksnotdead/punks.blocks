@@ -111,27 +111,32 @@ Skeleton  ![](normies/normie_skeleton.png)
 
 _Shiba Inu dogs - Much wow_
 
-Classic ![](dodge/dodge.png),
-Dark ![](dodge/dodge-dark.png),
-Zombie ![](dodge/dodge-zombie.png),
-Alien ![](dodge/dodge-alien.png)
+Classic ![](dodge/classic.png),
+Dark ![](dodge/dark.png),
+Zombie ![](dodge/zombie.png),
+Alien ![](dodge/alien.png)
 
 
 
 Attributes -
-Beanie ![](dodge/beanie-dodge.png),
-Cap  ![](dodge/cap-dodge.png),
-Knitted Cap ![](dodge/knittedcap-dodge.png),
-Cowboy Hat ![](dodge/cowboyhat-dodge.png),
-Headband ![](dodge/headband-dodge.png),
-Regular Shades  ![](dodge/regularshades-dodge.png),
-Classic Shades ![](dodge/classicshades-dodge.png),
-Small Shades  ![](dodge/smallshades-dodge.png),
-Big Shades  ![](dodge/bigshades-dodge.png),
-Eye Patch   ![](dodge/eyepatch-dodge.png),
-Nerd Glasses  ![](dodge/nerdglasses-dodge.png),
-3D Glasses ![](dodge/3dglasses-dodge.png),
-Tiara ![](dodge/tiara-dodge.png)
+Crazy Hair ![](dodge/crazyhair.png),
+Beanie ![](dodge/beanie.png),
+Cap  ![](dodge/cap.png),
+Cap Forward ![](dodge/capforward.png),
+Knitted Cap ![](dodge/knittedcap.png),
+Fedora ![](dodge/fedora.png),
+Cowboy Hat ![](dodge/cowboyhat.png),
+Top Hat ![](dodge/tophat.png),
+Bandana ![](dodge/bandana.png),
+Headband ![](dodge/headband.png),
+Regular Shades  ![](dodge/regularshades.png),
+Classic Shades ![](dodge/classicshades.png),
+Small Shades  ![](dodge/smallshades.png),
+Big Shades  ![](dodge/bigshades.png),
+Eye Patch   ![](dodge/eyepatch.png),
+Nerd Glasses  ![](dodge/nerdglasses.png),
+3D Glasses ![](dodge/3dglasses.png),
+Tiara ![](dodge/tiara.png)
 
 
 
@@ -379,19 +384,19 @@ $ magick convert human-male_dark.png cap_120.png smile.png -background none -fla
 ### Dodge Shiba Inu - Much Wow
 
 Let's make a dodge punk  - a super rare alien
-![](dodge/dodge-alien.png)
+![](dodge/alien.png)
 with a headband
-![](dodge/headband-dodge.png)
+![](dodge/headband.png)
 from scratch:
 
 ```
-$ magick convert dodge-alien.png \
-                 headband-dodge.png \
+$ magick convert alien.png \
+                 headband.png \
          -background none -flatten dodge3100.png
 ```
 
 <!--
- $ magick convert dodge-alien.png headband-dodge.png -background none -flatten dodge3100.png
+ $ magick convert alien.png headband.png -background none -flatten dodge3100.png
 
  $ magick convert dodge3100.png -filter point -resize 200% dodge3100x2.png
   -->
@@ -402,20 +407,20 @@ $ magick convert dodge-alien.png \
 
 
 Or let's make a zombie
-![](dodge/dodge-zombie-notop.png)
+![](dodge/zombie.png)
 with a knitted cap
-![](dodge/knittedcap-dodge.png)
+![](dodge/knittedcap.png)
 from scratch:
 
 
 ```
-$ magick convert dodge-zombie_notop.png \
-                 knittedcap-dodge.png \
+$ magick convert zombie_notop.png \
+                 knittedcap.png \
          -background none -flatten dodge2066.png
 ```
 
 <!--
- $ magick convert dodge-zombie_notop.png knittedcap-dodge.png -background none -flatten dodge2066.png
+ $ magick convert zombie_notop.png knittedcap.png -background none -flatten dodge2066.png
 
  $ magick convert dodge2066.png -filter point -resize 200% dodge2066x2.png
   -->
@@ -427,20 +432,20 @@ $ magick convert dodge-zombie_notop.png \
 
 
 Or let's make a classic
-![](dodge/dodge.png)
+![](dodge/classic.png)
 with a 3d glasses
-![](dodge/3dglasses-dodge.png)
+![](dodge/3dglasses.png)
 from scratch:
 
 
 ```
-$ magick convert dodge.png \
-                 3dglasses-dodge.png \
+$ magick convert classic.png \
+                 3dglasses.png \
          -background none -flatten dodge_3dglasses.png
 ```
 
 <!--
- $ magick convert dodge.png 3dglasses-dodge.png -background none -flatten dodge_3dglasses.png
+ $ magick convert classic.png 3dglasses.png -background none -flatten dodge_3dglasses.png
 
  $ magick convert dodge_3dglasses.png -filter point -resize 200% dodge_3dglassesx2.png
   -->
