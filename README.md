@@ -23,8 +23,6 @@ Zombies (Male)
 
 Attributes - Crazy Hair ![](original/crazyhair.png),
 Beanie ![](original/beanie.png),
-
-
 Cap ![](original/cap.png),
 Cap Forward ![](original/capforward.png),
 Knitted Cap ![](original/knittedcap.png),
@@ -39,7 +37,7 @@ Small Shades ![](original/smallshades.png),
 Regular Shades ![](original/regularshades.png),
 Classic Shades ![](original/classicshades.png),
 Big Shades ![](original/bigshades.png),
-Eye Patch ![](original/eypatch.png),
+Eye Patch ![](original/eyepatch.png),
 Pipe ![](original/pipe.png),
 Smile ![](original/smile.png)
 
