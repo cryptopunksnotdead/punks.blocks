@@ -118,6 +118,18 @@ Skeleton  ![](normies/normie_skeleton.png)
 
 
 
+## Wall Street Bets Series (24x24)
+
+_Power to the Punks_
+
+Hair  ![](wallstreetbets/wallstreetbets-hair.png) ![](wallstreetbets/wallstreetbets-hair_dark.png),
+Crazy Hair  ![](wallstreetbets/wallstreetbets-crazyhair.png) ![](wallstreetbets/wallstreetbets-crazyhair_dark.png),
+Shades   ![](wallstreetbets/wallstreetbets-shades.png)
+
+
+
+
+
 ## Dodge Series (32x32)
 
 _Shiba Inu dogs - Much wow_
