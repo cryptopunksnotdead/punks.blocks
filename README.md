@@ -105,6 +105,16 @@ Robot (male / female) ![](more/more_robot-male.png) ![](more/more_robot-female.p
 
 
 
+## Planet of the Apes Series (24x24)
+
+_The rise of more new punk apes_
+
+Ape Zombie (male) ![](planet-apes/ape-zombie.png),
+Ape Alien (male) ![](planet-apes/ape-alien.png)
+
+
+
+
 ## Normie Series (24x24)
 
 _Left-facing? Right-facing? Normie designs use the golden middle. Male? Female? Non-binary? Normie designs are unisex_
