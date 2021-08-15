@@ -423,6 +423,12 @@ $ magick convert alien-male.png cap.png -background none -flatten punk2890.png
 ![](i/punk2890x2.png)
 ![](i/punk2890x4.png)
 
+Try the natural version ![](natural/alien-male-natural.png):
+
+![](i/punk2890_natural.png)   2x, 4x:
+![](i/punk2890_naturalx2.png)
+![](i/punk2890_naturalx4.png)
+
 
 
 #### All Caps
