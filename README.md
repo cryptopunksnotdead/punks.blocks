@@ -179,6 +179,14 @@ Ape Alien (male) ![](planet-apes/ape-alien-male.png)
 
 
 
+## Natural Series (24x24)
+
+_More skin is the new black_
+
+Alien (male) ![](natural/alien-male-natural.png)
+
+
+
 
 ## Normie Series (24x24)
 
@@ -336,6 +344,11 @@ $ magick convert punk7804.png smile-alien.png  -background none -flatten punk780
 ![](i/punk7804_smilex4.png)
 
 
+Try the natural version ![](natural/alien-male-natural.png):
+
+![](i/punk7804_natural.png)   2x, 4x:
+![](i/punk7804_naturalx2.png)
+![](i/punk7804_naturalx4.png)
 
 
 
