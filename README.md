@@ -57,17 +57,42 @@ Skin Tones (Classic Series) -
 Light Warm Olive ![](world-women/woman-light_warm_olive.png),
 Medium Olive ![](world-women/woman-medium_olive.png),
 Medium Gold ![](world-women/woman-medium_gold.png),
+Deep Warm Gold ![](world-women/woman-deep_warm_gold.png),
+Deep Bronze ![](world-women/woman-deep_bronze.png),
+Deep Neutral ![](world-women/woman-deep_neutral.png),
+Golden ![](world-women/woman-golden.png),
+Burning Red ![](world-women/woman-burning_red.png),
+Cyper Green ![](world-women/woman-cyber_green.png),
+Cool Blue ![](world-women/woman-cool_blue.png),
+Night Goddess ![](world-women/woman-night_goddess.png)
 
 
 Skin Tones II (Big Eyes Series) -
 ![](world-women/woman-light_warm_olive-ii.png)
-![](world-women/woman-medium_olive-ii.png),
-![](world-women/woman-medium_gold-ii.png),
+![](world-women/woman-medium_olive-ii.png)
+![](world-women/woman-medium_gold-ii.png)
+![](world-women/woman-deep_warm_gold-ii.png)
+![](world-women/woman-deep_bronze-ii.png)
+![](world-women/woman-deep_neutral-ii.png)
+![](world-women/woman-golden-ii.png)
+![](world-women/woman-burning_red-ii.png)
+![](world-women/woman-cyber_green-ii.png)
+![](world-women/woman-cool_blue-ii.png)
+![](world-women/woman-night_goddess-ii.png)
+
 
 Skin Tones III (Natural Series) -
 ![](world-women/woman-light_warm_olive-iii.png)
-![](world-women/woman-medium_olive-iii.png),
-![](world-women/woman-medium_gold-iii.png),
+![](world-women/woman-medium_olive-iii.png)
+![](world-women/woman-medium_gold-iii.png)
+![](world-women/woman-deep_warm_gold-iii.png)
+![](world-women/woman-deep_bronze-iii.png)
+![](world-women/woman-deep_neutral-iii.png)
+![](world-women/woman-golden-iii.png)
+![](world-women/woman-burning_red-iii.png)
+![](world-women/woman-cyber_green-iii.png)
+![](world-women/woman-cool_blue-iii.png)
+![](world-women/woman-night_goddess-iii.png)
 
 
 Eyes -
