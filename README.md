@@ -49,6 +49,44 @@ Smile ![](original/smile.png)
 
 
 
+## World of Women Series (24x24)
+
+_New skin tones, new eye colors, new Lipsticks_
+
+Skin Tones - Classic Series:
+
+Light Warm Olive ![](world-women/women-light_warm_olive.png),
+Medium Olive ![](world-women/women-medium_olive.png),
+Medium Gold ![](world-women/women-medium_gold.png),
+
+
+
+Skin Tones II - Big Eyes Series:
+
+![](world-women/light_warm_olive-ii.png)
+![](world-women/women-medium_olive-ii.png),
+![](world-women/women-medium_gold-ii.png),
+
+Skin Tones III - Natural Series:
+
+
+Eyes:
+
+Blue ![](world-women/eyes-blue.png),
+Purple ![](world-women/eyes-purple.png),
+Brown ![](world-women/eyes-brown.png),
+Green ![](world-women/eyes-green.png)
+
+Lipsticks:
+
+Party Pink ![](world-women/lipstick-party_pink.png),
+Passion Red ![](world-women/lipstick-passion_red.png),
+Burgundy ![](world-women/lipstick-burgundy.png),
+
+
+
+
+
 ## Alien Invasion Series (24x24)
 
 _Aliens in more colors (by degree on the HSL color wheel)_
