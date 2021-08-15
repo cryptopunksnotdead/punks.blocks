@@ -109,8 +109,12 @@ Robot (male / female) ![](more/more_robot-male.png) ![](more/more_robot-female.p
 
 _The rise of more new punk apes_
 
-Ape Zombie (male) ![](planet-apes/ape-zombie.png),
-Ape Alien (male) ![](planet-apes/ape-alien.png)
+Ape (male¹,/female²) ![](planet-apes/ape-male.png) ![](planet-apes/ape-female.png),
+Ape Zombie (male) ![](planet-apes/ape-zombie-male.png),
+Ape Alien (male) ![](planet-apes/ape-alien-male.png)
+
+¹: From the original series<br>
+²: From the more series
 
 
 
@@ -134,7 +138,11 @@ _Power to the punks_
 
 Hair  ![](wallstreetbets/wallstreetbets-hair.png) ![](wallstreetbets/wallstreetbets-hair_dark.png),
 Crazy Hair  ![](wallstreetbets/wallstreetbets-crazyhair.png) ![](wallstreetbets/wallstreetbets-crazyhair_dark.png),
-Shades   ![](wallstreetbets/wallstreetbets-shades.png)
+Regular Shades¹  ![](wallstreetbets/wallstreetbets-regularshades.png)
+Big Shades   ![](wallstreetbets/wallstreetbets-bigshades.png)
+
+¹: From the original series
+
 
 
 
