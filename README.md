@@ -51,34 +51,32 @@ Smile ![](original/smile.png)
 
 ## World of Women Series (24x24)
 
-_New skin tones, new eye colors, new Lipsticks_
+_New skin tones, new eye colors, new lipsticks_
 
-Skin Tones - Classic Series:
-
-Light Warm Olive ![](world-women/women-light_warm_olive.png),
-Medium Olive ![](world-women/women-medium_olive.png),
-Medium Gold ![](world-women/women-medium_gold.png),
-
+Skin Tones (Classic Series) -
+Light Warm Olive ![](world-women/woman-light_warm_olive.png),
+Medium Olive ![](world-women/woman-medium_olive.png),
+Medium Gold ![](world-women/woman-medium_gold.png),
 
 
-Skin Tones II - Big Eyes Series:
+Skin Tones II (Big Eyes Series) -
+![](world-women/woman-light_warm_olive-ii.png)
+![](world-women/woman-medium_olive-ii.png),
+![](world-women/woman-medium_gold-ii.png),
 
-![](world-women/light_warm_olive-ii.png)
-![](world-women/women-medium_olive-ii.png),
-![](world-women/women-medium_gold-ii.png),
+Skin Tones III (Natural Series) -
+![](world-women/woman-light_warm_olive-iii.png)
+![](world-women/woman-medium_olive-iii.png),
+![](world-women/woman-medium_gold-iii.png),
 
-Skin Tones III - Natural Series:
 
-
-Eyes:
-
+Eyes -
 Blue ![](world-women/eyes-blue.png),
 Purple ![](world-women/eyes-purple.png),
 Brown ![](world-women/eyes-brown.png),
 Green ![](world-women/eyes-green.png)
 
-Lipsticks:
-
+Lipsticks -
 Party Pink ![](world-women/lipstick-party_pink.png),
 Passion Red ![](world-women/lipstick-passion_red.png),
 Burgundy ![](world-women/lipstick-burgundy.png),
