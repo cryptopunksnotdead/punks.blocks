@@ -187,11 +187,11 @@ Human (male) ![](natural/human-male-lighter-natural.png)
              ![](natural/human-male-light-natural.png)
              ![](natural/human-male-dark-natural.png)
              ![](natural/human-male-darker-natural.png),
-Alien (male) ![](natural/alien-male-natural.png),
-Ape (male)   ![](natural/ape-male-natural.png)
-             ![](natural/ape-alien-male-natural.png)
-             ![](natural/ape-zombie-male-natural.png),
-Zombie (male)  ![](natural/zombie-male-natural.png),
+Alien (male) ![](natural/alien-male-natural.png)
+              ![](natural/ape-alien-male-natural.png),
+Ape (male)   ![](natural/ape-male-natural.png),
+Zombie (male)  ![](natural/zombie-male-natural.png)
+               ![](natural/ape-zombie-male-natural.png),
 Skeleton (male)  ![](natural/skeleton-male-natural.png),
 Demon (male)     ![](natural/demon-male-natural.png)
 
