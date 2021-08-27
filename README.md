@@ -235,7 +235,7 @@ Laser Eyes ![](lasereyes/lasereyes.png) ![](lasereyes/lasereyes_light.png)
 
 
 
-## Dodge Series (32x32)
+## Dodge Series (24x24)
 
 _Shiba Inu dogs - Much wow_
 
