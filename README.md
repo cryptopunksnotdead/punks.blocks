@@ -289,7 +289,7 @@ Attributes (by category and a-z):
   Purple Hair (f)
   ![](expansion/f/purplehair.png),
   Shaved Head (f)
-  ![](expansion/f/shavedhead.png),
+  ![](expansion/f/shavedhead.png)
 - Eyes -
   Small Shades (f)
   ![](expansion/f/smallshades.png)
