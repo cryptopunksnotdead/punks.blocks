@@ -268,11 +268,31 @@ Alien (female) ![](expansion/alien-female.png).
 
 Attributes (by category and a-z):
 
-
-
-
-
-
+- Hat -
+  Beanie (f)
+  ![](expansion/f/beanie.png),
+  Cap Forward (f)
+  ![](expansion/f/capforward.png),
+  Cowboy Hat (f)
+  ![](expansion/f/cowboyhat.png),
+  Do-rag (f)
+  ![](expansion/f/dorag.png),
+  Fedora (f)
+  ![](expansion/f/fedora.png),
+  Hoodie (f)
+  ![](expansion/f/hoodie.png),
+  Police Cap (f)
+  ![](expansion/f/policecap.png),
+  Top Hat (f)
+  ![](expansion/f/tophat.png)
+- Hair -
+  Purple Hair (f)
+  ![](expansion/f/purplehair.png),
+  Shaved Head (f)
+  ![](expansion/f/shavedhead.png),
+- Eyes -
+  Small Shades (f)
+  ![](expansion/f/smallshades.png)
 
 
 
