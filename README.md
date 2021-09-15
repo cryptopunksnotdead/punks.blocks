@@ -276,7 +276,7 @@ Attributes (by category and a-z):
 
 
 
-## World of Women Series (24x24)
+## World of Women Series (24×24)
 
 _New skin tones, new eye colors, new lipsticks_
 
@@ -337,7 +337,7 @@ Burgundy ![](world-women/lipstick-burgundy.png),
 
 
 
-## Alien Invasion Series (24x24)
+## Alien Invasion Series (24×24)
 
 _Aliens in more colors (by degree on the HSL color wheel)_
 
@@ -356,7 +356,7 @@ Aliens (Male) in red (0°), orange (30°),  yellow (60°),
 
 
 
-## All Caps Series (24x24)
+## All Caps Series (24×24)
 
 _(Baseball) caps in more colors (by degree on the HSL color wheel)_
 
@@ -377,7 +377,7 @@ fuchsia (330°), and more.
 
 
 
-## More Series (24x24)
+## More Series (24×24)
 
 _New species, new attributes_
 
@@ -391,7 +391,7 @@ Robot (male / female) ![](more/robot-male.png) ![](more/robot-female.png)
 
 
 
-## Planet of the Apes Series (24x24)
+## Planet of the Apes Series (24×24)
 
 _The rise of more new punk apes_
 
@@ -404,7 +404,7 @@ Ape Alien (male) ![](planet-apes/ape-alien-male.png)
 
 
 
-## All Natural Series (24x24)
+## All Natural Series (24×24)
 
 _More skin is the new black_
 
@@ -423,7 +423,7 @@ Demon (male)     ![](natural/demon-male-natural.png)
 
 
 
-## Normie Series (24x24)
+## Normie Series (24×24)
 
 _Left-facing? Right-facing? Normie designs use the golden middle. Male? Female? Non-binary? Normie designs are unisex_
 
@@ -436,7 +436,7 @@ Skeleton  ![](normies/normie_skeleton.png)
 
 
 
-## Wall Street Bets Series (24x24)
+## Wall Street Bets Series (24×24)
 
 _Power to the punks_
 
@@ -450,7 +450,7 @@ Big Shades   ![](wallstreetbets/wallstreetbets-bigshades.png)
 
 
 
-## Laser Eyes Series (24x24)
+## Laser Eyes Series (24×24)
 
 _Punks with super powers_
 
@@ -460,7 +460,7 @@ Laser Eyes ![](lasereyes/lasereyes.png) ![](lasereyes/lasereyes_light.png)
 
 
 
-## Dodge Series (24x24)
+## Dodge Series (24×24)
 
 _Shiba Inu dogs - Much wow_
 
@@ -846,7 +846,7 @@ to script special effects (on the command line).
 ### Polaroid-Like Photos
 
 Let's start with a "plain vanilla" punk, that is, #2890 ![](i/punk2890.png) and
-let's use the 4x (96x96) version
+let's use the 4x (96×96) version
 and turn it into a captioned polaroid-like photo:
 
 ```
@@ -874,7 +874,7 @@ And let's try some more:
 ### Magnify 2x, 3x 4x with (Smooth) Pixel Art Scaling Algorithm
 
 Let's start with a "plain vanilla" punk, that is, #2890 ![](i/punk2890.png) and
-let's use 2x magnified (48x48) version
+let's use 2x magnified (48×48) version
 using a (smooth) [pixel art scaling algorithm¹](https://en.wikipedia.org/wiki/Pixel-art_scaling_algorithms)):
 
 Note¹: ImageMagic uses the [scale2x](http://www.scale2x.it/algorithm) algorithm
