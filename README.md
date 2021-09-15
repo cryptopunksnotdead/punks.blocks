@@ -21,31 +21,235 @@ Zombies (Male)
 ![](original/zombie-male.png).
 
 
-Attributes - Crazy Hair ![](original/crazyhair.png),
-Beanie ![](original/beanie.png),
-Cap ![](original/cap.png),
-Cap Forward ![](original/capforward.png),
-Knitted Cap ![](original/knittedcap.png),
-Fedora ![](original/fedora.png),
-Cowboy Hat ![](original/cowboyhat.png),
-Top Hat ![](original/tophat.png),
-Bandana ![](original/bandana.png),
-Headband ![](original/headband.png),
-Nerd Glasses ![](original/nerdglasses.png),
-3D Glasses ![](original/3dglasses.png),
-Small Shades ![](original/smallshades.png),
-Regular Shades ![](original/regularshades.png),
-Classic Shades ![](original/classicshades.png),
-Big Shades ![](original/bigshades.png),
-Eye Patch ![](original/eyepatch.png),
-Pipe ![](original/pipe.png),
-Smile ![](original/smile.png)
-
 
 <!-- note:
-       double check/todo: some attribute need a variant for females (width less by one or such)
-       e.g. shades and others!!!!
+  sort attributes a-z for now - why? why not?
 -->
+
+Attributes (by category and a-z):
+- Hat -
+  Bandana (m/f)
+  ![](original/m/bandana.png)
+  ![](original/f/bandana.png),
+  Beanie (m)
+  ![](original/m/beanie.png),
+  Cap (m/f)
+  ![](original/m/cap.png)
+  ![](original/f/cap.png),
+  Cap Forward (m)
+  ![](original/m/capforward.png),
+  Cowboy Hat (m)
+  ![](original/m/cowboyhat.png),
+  Do-rag (m)
+  ![](original/m/dorag.png),
+  Fedora (m)
+  ![](original/m/fedora.png),
+  Headband (m/f)
+  ![](original/m/headband.png)
+  ![](original/f/headband.png),
+  Hoodie (m)
+  ![](original/m/hoodie.png),
+  Knitted Cap (m/f)
+  ![](original/m/knittedcap.png)
+  ![](original/f/knittedcap.png),
+  Pilot Helmet (f)
+  ![](original/f/pilothelmet.png),
+  Police Cap (m)
+  ![](original/m/policecap.png),
+  Tassle Hat (f)
+  ![](original/f/tasslehat.png),
+  Tiara (f)
+  ![](original/f/tiara.png),
+  Top Hat (m)
+  ![](original/m/tophat.png)
+- Hair -
+  Blonde Bob (f)
+  ![](original/f/blondebob.png),
+  Blonde Short (f)
+  ![](original/f/blondeshort.png),
+  Clown Hair Green (m/f)
+  ![](original/m/clownhairgreen.png)
+  ![](original/f/clownhairgreen.png),
+  Crazy Hair (m/f)
+  ![](original/m/crazyhair.png)
+  ![](original/f/crazyhair.png),
+  Dark Hair (f)
+  ![](original/f/darkhair.png),
+  Frumpy Hair (m/f)
+  ![](original/m/frumpyhair.png)
+  ![](original/f/frumpyhair.png),
+  Half Shaved (f)
+  ![](original/f/halfshaved.png),
+  Messy Hair (m/f)
+  ![](original/m/messyhair.png)
+  ![](original/f/messyhair.png),
+  Mohawk (m/f)
+  ![](original/m/mohawk.png)
+  ![](original/f/mohawk.png),
+  Mohawk Dark (m/f)
+  ![](original/m/mohawkdark.png)
+  ![](original/f/mohawkdark.png),
+  Mohawk Thin (m/f)
+  ![](original/m/mohawkthin.png)
+  ![](original/f/mohawkthin.png),
+  Orange Side (f)
+  ![](original/f/orangeside.png),
+  Peak Spike (m)
+  ![](original/m/peakspike.png),
+  Pigtails (f)
+  ![](original/f/pigtails.png),
+  Pink With Hat (f)
+  ![](original/f/pinkwithhat.png),
+  Purple Hair (m)
+  ![](original/m/purplehair.png),
+  Red Mohawk (f)
+  ![](original/f/redmohawk.png),
+  Shaved Head (m)
+  ![](original/m/shavedhead.png),
+  Straight Hair (f)
+  ![](original/f/straighthair.png),
+  Straight Hair Blonde (f)
+  ![](original/f/straighthairblonde.png),
+  Straight Hair Dark (f)
+  ![](original/f/straighthairdark.png),
+  Stringy Hair (m/f)
+  ![](original/m/stringyhair.png)
+  ![](original/f/stringyhair.png),
+  Vampire Hair (m)
+  ![](original/m/vampirehair.png),
+  Wild Blonde (f)
+  ![](original/f/wildblonde.png),
+  Wild Hair (m/f)
+  ![](original/m/wildhair.png)
+  ![](original/f/wildhair.png),
+  Wild White Hair (f)
+  ![](original/f/wildwhitehair.png)
+- Eyes -
+  3D Glasses (m/f)
+   ![](original/m/3dglasses.png)
+   ![](original/f/3dglasses.png),
+  Big Shades (m/f)
+  ![](original/m/bigshades.png)
+  ![](original/f/bigshades.png),
+  Classic Shades (m/f)
+  ![](original/m/classicshades.png)
+  ![](original/f/classicshades.png),
+  Eye Mask (m/f)
+  ![](original/m/eyemask.png)
+  ![](original/f/eyemask.png),
+  Eye Patch (m/f)
+  ![](original/m/eyepatch.png)
+  ![](original/f/eyepatch.png),
+  Horned Rim Glasses (m/f)
+  ![](original/m/hornedrimglasses.png)
+  ![](original/f/hornedrimglasses.png),
+  Nerd Glasses (m/f)
+  ![](original/m/nerdglasses.png)
+  ![](original/f/nerdglasses.png),
+  Regular Shades (m/f)
+  ![](original/m/regularshades.png)
+  ![](original/f/regularshades.png),
+  Small Shades (m)
+  ![](original/m/smallshades.png),
+  VR (m/f)
+  ![](original/m/vr.png)
+  ![](original/f/vr.png),
+  Welding Goggles (f)
+  ![](original/f/weldinggoggles.png)
+- Eyes (Makeup) -
+  Blue Eye Shadow (f)
+  ![](original/f/blueeyeshadow.png),
+  Clown Eyes Blue (m/f)
+  ![](original/m/clowneyesblue.png)
+  ![](original/f/clowneyesblue.png),
+  Clown Eyes Green (m/f)
+  ![](original/m/clowneyesgreen.png)
+  ![](original/f/clowneyesgreen.png),
+  Green Eye Shadow (f)
+  ![](original/f/greeneyeshadow.png),
+  Purple Eye Shadow (f)
+  ![](original/f/purpleeyeshadow.png)
+- Blemishes -
+  Mole (m/f)
+   ![](original/m/mole.png)
+   ![](original/f/mole.png),
+  Rosy Cheeks (m/f)
+   ![](original/m/rosycheeks.png)
+   ![](original/f/rosycheeks.png),
+  Spots (m/f)
+   ![](original/m/spots.png)
+   ![](original/f/spots.png)
+- Nose -
+  Clown Nose (m/f)
+   ![](original/m/clownnose.png)
+   ![](original/f/clownnose.png),
+- Ears -
+  Earring (m/f)
+   ![](original/m/earring.png)
+   ![](original/f/earring.png)
+- Mouth -
+  Buck Teeth (m)
+   ![](original/m/buckteeth.png),
+  Frown (m)
+   ![](original/m/frown.png),
+  Smile (m)
+   ![](original/m/smile.png)
+- Mouth (Makeup) -
+  Black Lipstick (f)
+   ![](original/f/blacklipstick.png),
+  Hot Lipstick (f)
+   ![](original/f/hotlipstick.png),
+  Purple Lipstick (f)
+   ![](original/f/purplelipstick.png)
+- Mouth Prop -
+  Cigarette (m/f)
+   ![](original/m/cigarette.png)
+   ![](original/f/cigarette.png),
+  Medical Mask (m/f)
+   ![](original/m/medicalmask.png)
+   ![](original/f/medicalmask.png),
+  Pipe (m/f)
+   ![](original/m/pipe.png)
+   ![](original/f/pipe.png),
+  Vape (m/f)
+   ![](original/m/vape.png)
+   ![](original/f/vape.png)
+- Beard -
+  Big Beard (m)
+   ![](original/m/bigbeard.png),
+  Chinstrap (m)
+   ![](original/m/chinstrap.png),
+  Front Beard (m)
+   ![](original/m/frontbeard.png),
+  Front Beard Dark (m)
+   ![](original/m/frontbearddark.png),
+  Goat (m)
+   ![](original/m/goat.png),
+  Handlebars (m)
+   ![](original/m/handlebars.png),
+  Luxurious Beard (m)
+   ![](original/m/luxuriousbeard.png),
+  Mustache (m)
+   ![](original/m/mustache.png),
+  Muttonchops (m)
+   ![](original/m/muttonchops.png),
+  Normal Beard (m)
+   ![](original/m/normalbeard.png),
+  Normal Beard Black (m)
+   ![](original/m/normalbeardblack.png),
+  Shadow Beard (m)
+   ![](original/m/shadowbeard.png)
+- Neck Accessory -
+  Choker (f)
+   ![](original/f/choker.png),
+  Gold Chain (m/f)
+   ![](original/m/goldchain.png)
+   ![](original/f/goldchain.png),
+  Silver Chain (m/f)
+   ![](original/m/silverchain.png)
+   ![](original/f/silverchain.png)
+
+
 
 
 
@@ -246,25 +450,35 @@ Zombie ![](dodge/zombie.png)
 
 
 
-Attributes -
-Crazy Hair ![](dodge/crazyhair.png),
-Beanie ![](dodge/beanie.png),
-Cap  ![](dodge/cap.png),
-Cap Forward ![](dodge/capforward.png),
-Knitted Cap ![](dodge/knittedcap.png),
-Fedora ![](dodge/fedora.png),
-Cowboy Hat ![](dodge/cowboyhat.png),
-Top Hat ![](dodge/tophat.png),
-Bandana ![](dodge/bandana.png),
-Headband ![](dodge/headband.png),
-Regular Shades  ![](dodge/regularshades.png),
-Classic Shades ![](dodge/classicshades.png),
-Small Shades  ![](dodge/smallshades.png),
-Big Shades  ![](dodge/bigshades.png),
-Eye Patch   ![](dodge/eyepatch.png),
-Nerd Glasses  ![](dodge/nerdglasses.png),
-3D Glasses ![](dodge/3dglasses.png),
-Tiara ![](dodge/tiara.png)
+<!-- note:
+  sort attributes a-z for now - why? why not?
+-->
+
+Attributes (by category and a-z):
+
+- Hat  -
+  Bandana ![](dodge/bandana.png),
+  Beanie ![](dodge/beanie.png),
+  Cap  ![](dodge/cap.png),
+  Cap Forward ![](dodge/capforward.png),
+  Cowboy Hat ![](dodge/cowboyhat.png),
+  Fedora ![](dodge/fedora.png),
+  Headband ![](dodge/headband.png),
+  Knitted Cap ![](dodge/knittedcap.png),
+  Tiara ![](dodge/tiara.png),
+  Top Hat ![](dodge/tophat.png)
+- Hair -
+  Crazy Hair ![](dodge/crazyhair.png)
+- Eyes -
+  3D Glasses ![](dodge/3dglasses.png),
+  Big Shades  ![](dodge/bigshades.png),
+  Classic Shades ![](dodge/classicshades.png),
+  Eye Patch   ![](dodge/eyepatch.png),
+  Nerd Glasses  ![](dodge/nerdglasses.png),
+  Regular Shades  ![](dodge/regularshades.png),
+  Small Shades  ![](dodge/smallshades.png)
+
+
 
 
 
