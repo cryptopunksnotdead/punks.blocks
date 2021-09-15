@@ -184,7 +184,7 @@ Attributes (by category and a-z):
 - Nose -
   Clown Nose (m/f)
    ![](basic/m/clownnose.png)
-   ![](basic/f/clownnose.png),
+   ![](basic/f/clownnose.png)
 - Ears -
   Earring (m/f)
    ![](basic/m/earring.png)
