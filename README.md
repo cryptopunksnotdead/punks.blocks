@@ -2,23 +2,25 @@
 
 
 
-## Original CryptoPunks Series (24×24)
+## Basic Punk Series (24×24)
+
+_Formerly known as ~Original CryptoPunks~_
 
 Humans (Male/Female)
-![](original/human-male_lighter.png)
-![](original/human-male_light.png)
-![](original/human-male_dark.png)
-![](original/human-male_darker.png)
-![](original/human-female_lighter.png)
-![](original/human-female_light.png)
-![](original/human-female_dark.png)
-![](original/human-female_darker.png),
-Aliens (Male)
-![](original/alien-male.png),
-Apes (Male),
-![](original/ape-male.png),
+![](basic/human-male_lighter.png)
+![](basic/human-male_light.png)
+![](basic/human-male_dark.png)
+![](basic/human-male_darker.png)
+![](basic/human-female_lighter.png)
+![](basic/human-female_light.png)
+![](basic/human-female_dark.png)
+![](basic/human-female_darker.png),
 Zombies (Male)
-![](original/zombie-male.png).
+![](basic/zombie-male.png),
+Apes (Male),
+![](basic/ape-male.png),
+Aliens (Male)
+![](basic/alien-male.png).
 
 
 
@@ -29,225 +31,246 @@ Zombies (Male)
 Attributes (by category and a-z):
 - Hat -
   Bandana (m/f)
-  ![](original/m/bandana.png)
-  ![](original/f/bandana.png),
+  ![](basic/m/bandana.png)
+  ![](basic/f/bandana.png),
   Beanie (m)
-  ![](original/m/beanie.png),
+  ![](basic/m/beanie.png),
   Cap (m/f)
-  ![](original/m/cap.png)
-  ![](original/f/cap.png),
+  ![](basic/m/cap.png)
+  ![](basic/f/cap.png),
   Cap Forward (m)
-  ![](original/m/capforward.png),
+  ![](basic/m/capforward.png),
   Cowboy Hat (m)
-  ![](original/m/cowboyhat.png),
+  ![](basic/m/cowboyhat.png),
   Do-rag (m)
-  ![](original/m/dorag.png),
+  ![](basic/m/dorag.png),
   Fedora (m)
-  ![](original/m/fedora.png),
+  ![](basic/m/fedora.png),
   Headband (m/f)
-  ![](original/m/headband.png)
-  ![](original/f/headband.png),
+  ![](basic/m/headband.png)
+  ![](basic/f/headband.png),
   Hoodie (m)
-  ![](original/m/hoodie.png),
+  ![](basic/m/hoodie.png),
   Knitted Cap (m/f)
-  ![](original/m/knittedcap.png)
-  ![](original/f/knittedcap.png),
+  ![](basic/m/knittedcap.png)
+  ![](basic/f/knittedcap.png),
   Pilot Helmet (f)
-  ![](original/f/pilothelmet.png),
+  ![](basic/f/pilothelmet.png),
   Police Cap (m)
-  ![](original/m/policecap.png),
+  ![](basic/m/policecap.png),
   Tassle Hat (f)
-  ![](original/f/tasslehat.png),
+  ![](basic/f/tasslehat.png),
   Tiara (f)
-  ![](original/f/tiara.png),
+  ![](basic/f/tiara.png),
   Top Hat (m)
-  ![](original/m/tophat.png)
+  ![](basic/m/tophat.png)
 - Hair -
   Blonde Bob (f)
-  ![](original/f/blondebob.png),
+  ![](basic/f/blondebob.png),
   Blonde Short (f)
-  ![](original/f/blondeshort.png),
+  ![](basic/f/blondeshort.png),
   Clown Hair Green (m/f)
-  ![](original/m/clownhairgreen.png)
-  ![](original/f/clownhairgreen.png),
+  ![](basic/m/clownhairgreen.png)
+  ![](basic/f/clownhairgreen.png),
   Crazy Hair (m/f)
-  ![](original/m/crazyhair.png)
-  ![](original/f/crazyhair.png),
+  ![](basic/m/crazyhair.png)
+  ![](basic/f/crazyhair.png),
   Dark Hair (f)
-  ![](original/f/darkhair.png),
+  ![](basic/f/darkhair.png),
   Frumpy Hair (m/f)
-  ![](original/m/frumpyhair.png)
-  ![](original/f/frumpyhair.png),
+  ![](basic/m/frumpyhair.png)
+  ![](basic/f/frumpyhair.png),
   Half Shaved (f)
-  ![](original/f/halfshaved.png),
+  ![](basic/f/halfshaved.png),
   Messy Hair (m/f)
-  ![](original/m/messyhair.png)
-  ![](original/f/messyhair.png),
+  ![](basic/m/messyhair.png)
+  ![](basic/f/messyhair.png),
   Mohawk (m/f)
-  ![](original/m/mohawk.png)
-  ![](original/f/mohawk.png),
+  ![](basic/m/mohawk.png)
+  ![](basic/f/mohawk.png),
   Mohawk Dark (m/f)
-  ![](original/m/mohawkdark.png)
-  ![](original/f/mohawkdark.png),
+  ![](basic/m/mohawkdark.png)
+  ![](basic/f/mohawkdark.png),
   Mohawk Thin (m/f)
-  ![](original/m/mohawkthin.png)
-  ![](original/f/mohawkthin.png),
+  ![](basic/m/mohawkthin.png)
+  ![](basic/f/mohawkthin.png),
   Orange Side (f)
-  ![](original/f/orangeside.png),
+  ![](basic/f/orangeside.png),
   Peak Spike (m)
-  ![](original/m/peakspike.png),
+  ![](basic/m/peakspike.png),
   Pigtails (f)
-  ![](original/f/pigtails.png),
+  ![](basic/f/pigtails.png),
   Pink With Hat (f)
-  ![](original/f/pinkwithhat.png),
+  ![](basic/f/pinkwithhat.png),
   Purple Hair (m)
-  ![](original/m/purplehair.png),
+  ![](basic/m/purplehair.png),
   Red Mohawk (f)
-  ![](original/f/redmohawk.png),
+  ![](basic/f/redmohawk.png),
   Shaved Head (m)
-  ![](original/m/shavedhead.png),
+  ![](basic/m/shavedhead.png),
   Straight Hair (f)
-  ![](original/f/straighthair.png),
+  ![](basic/f/straighthair.png),
   Straight Hair Blonde (f)
-  ![](original/f/straighthairblonde.png),
+  ![](basic/f/straighthairblonde.png),
   Straight Hair Dark (f)
-  ![](original/f/straighthairdark.png),
+  ![](basic/f/straighthairdark.png),
   Stringy Hair (m/f)
-  ![](original/m/stringyhair.png)
-  ![](original/f/stringyhair.png),
+  ![](basic/m/stringyhair.png)
+  ![](basic/f/stringyhair.png),
   Vampire Hair (m)
-  ![](original/m/vampirehair.png),
+  ![](basic/m/vampirehair.png),
   Wild Blonde (f)
-  ![](original/f/wildblonde.png),
+  ![](basic/f/wildblonde.png),
   Wild Hair (m/f)
-  ![](original/m/wildhair.png)
-  ![](original/f/wildhair.png),
+  ![](basic/m/wildhair.png)
+  ![](basic/f/wildhair.png),
   Wild White Hair (f)
-  ![](original/f/wildwhitehair.png)
+  ![](basic/f/wildwhitehair.png)
 - Eyes -
   3D Glasses (m/f)
-   ![](original/m/3dglasses.png)
-   ![](original/f/3dglasses.png),
+   ![](basic/m/3dglasses.png)
+   ![](basic/f/3dglasses.png),
   Big Shades (m/f)
-  ![](original/m/bigshades.png)
-  ![](original/f/bigshades.png),
+  ![](basic/m/bigshades.png)
+  ![](basic/f/bigshades.png),
   Classic Shades (m/f)
-  ![](original/m/classicshades.png)
-  ![](original/f/classicshades.png),
+  ![](basic/m/classicshades.png)
+  ![](basic/f/classicshades.png),
   Eye Mask (m/f)
-  ![](original/m/eyemask.png)
-  ![](original/f/eyemask.png),
+  ![](basic/m/eyemask.png)
+  ![](basic/f/eyemask.png),
   Eye Patch (m/f)
-  ![](original/m/eyepatch.png)
-  ![](original/f/eyepatch.png),
+  ![](basic/m/eyepatch.png)
+  ![](basic/f/eyepatch.png),
   Horned Rim Glasses (m/f)
-  ![](original/m/hornedrimglasses.png)
-  ![](original/f/hornedrimglasses.png),
+  ![](basic/m/hornedrimglasses.png)
+  ![](basic/f/hornedrimglasses.png),
   Nerd Glasses (m/f)
-  ![](original/m/nerdglasses.png)
-  ![](original/f/nerdglasses.png),
+  ![](basic/m/nerdglasses.png)
+  ![](basic/f/nerdglasses.png),
   Regular Shades (m/f)
-  ![](original/m/regularshades.png)
-  ![](original/f/regularshades.png),
+  ![](basic/m/regularshades.png)
+  ![](basic/f/regularshades.png),
   Small Shades (m)
-  ![](original/m/smallshades.png),
+  ![](basic/m/smallshades.png),
   VR (m/f)
-  ![](original/m/vr.png)
-  ![](original/f/vr.png),
+  ![](basic/m/vr.png)
+  ![](basic/f/vr.png),
   Welding Goggles (f)
-  ![](original/f/weldinggoggles.png)
+  ![](basic/f/weldinggoggles.png)
 - Eyes (Makeup) -
   Blue Eye Shadow (f)
-  ![](original/f/blueeyeshadow.png),
+  ![](basic/f/blueeyeshadow.png),
   Clown Eyes Blue (m/f)
-  ![](original/m/clowneyesblue.png)
-  ![](original/f/clowneyesblue.png),
+  ![](basic/m/clowneyesblue.png)
+  ![](basic/f/clowneyesblue.png),
   Clown Eyes Green (m/f)
-  ![](original/m/clowneyesgreen.png)
-  ![](original/f/clowneyesgreen.png),
+  ![](basic/m/clowneyesgreen.png)
+  ![](basic/f/clowneyesgreen.png),
   Green Eye Shadow (f)
-  ![](original/f/greeneyeshadow.png),
+  ![](basic/f/greeneyeshadow.png),
   Purple Eye Shadow (f)
-  ![](original/f/purpleeyeshadow.png)
+  ![](basic/f/purpleeyeshadow.png)
 - Blemishes -
   Mole (m/f)
-   ![](original/m/mole.png)
-   ![](original/f/mole.png),
+   ![](basic/m/mole.png)
+   ![](basic/f/mole.png),
   Rosy Cheeks (m/f)
-   ![](original/m/rosycheeks.png)
-   ![](original/f/rosycheeks.png),
+   ![](basic/m/rosycheeks.png)
+   ![](basic/f/rosycheeks.png),
   Spots (m/f)
-   ![](original/m/spots.png)
-   ![](original/f/spots.png)
+   ![](basic/m/spots.png)
+   ![](basic/f/spots.png)
 - Nose -
   Clown Nose (m/f)
-   ![](original/m/clownnose.png)
-   ![](original/f/clownnose.png),
+   ![](basic/m/clownnose.png)
+   ![](basic/f/clownnose.png),
 - Ears -
   Earring (m/f)
-   ![](original/m/earring.png)
-   ![](original/f/earring.png)
+   ![](basic/m/earring.png)
+   ![](basic/f/earring.png)
 - Mouth -
   Buck Teeth (m)
-   ![](original/m/buckteeth.png),
+   ![](basic/m/buckteeth.png),
   Frown (m)
-   ![](original/m/frown.png),
+   ![](basic/m/frown.png),
   Smile (m)
-   ![](original/m/smile.png)
+   ![](basic/m/smile.png)
 - Mouth (Makeup) -
   Black Lipstick (f)
-   ![](original/f/blacklipstick.png),
+   ![](basic/f/blacklipstick.png),
   Hot Lipstick (f)
-   ![](original/f/hotlipstick.png),
+   ![](basic/f/hotlipstick.png),
   Purple Lipstick (f)
-   ![](original/f/purplelipstick.png)
+   ![](basic/f/purplelipstick.png)
 - Mouth Prop -
   Cigarette (m/f)
-   ![](original/m/cigarette.png)
-   ![](original/f/cigarette.png),
+   ![](basic/m/cigarette.png)
+   ![](basic/f/cigarette.png),
   Medical Mask (m/f)
-   ![](original/m/medicalmask.png)
-   ![](original/f/medicalmask.png),
+   ![](basic/m/medicalmask.png)
+   ![](basic/f/medicalmask.png),
   Pipe (m/f)
-   ![](original/m/pipe.png)
-   ![](original/f/pipe.png),
+   ![](basic/m/pipe.png)
+   ![](basic/f/pipe.png),
   Vape (m/f)
-   ![](original/m/vape.png)
-   ![](original/f/vape.png)
+   ![](basic/m/vape.png)
+   ![](basic/f/vape.png)
 - Beard -
   Big Beard (m)
-   ![](original/m/bigbeard.png),
+   ![](basic/m/bigbeard.png),
   Chinstrap (m)
-   ![](original/m/chinstrap.png),
+   ![](basic/m/chinstrap.png),
   Front Beard (m)
-   ![](original/m/frontbeard.png),
+   ![](basic/m/frontbeard.png),
   Front Beard Dark (m)
-   ![](original/m/frontbearddark.png),
+   ![](basic/m/frontbearddark.png),
   Goat (m)
-   ![](original/m/goat.png),
+   ![](basic/m/goat.png),
   Handlebars (m)
-   ![](original/m/handlebars.png),
+   ![](basic/m/handlebars.png),
   Luxurious Beard (m)
-   ![](original/m/luxuriousbeard.png),
+   ![](basic/m/luxuriousbeard.png),
   Mustache (m)
-   ![](original/m/mustache.png),
+   ![](basic/m/mustache.png),
   Muttonchops (m)
-   ![](original/m/muttonchops.png),
+   ![](basic/m/muttonchops.png),
   Normal Beard (m)
-   ![](original/m/normalbeard.png),
+   ![](basic/m/normalbeard.png),
   Normal Beard Black (m)
-   ![](original/m/normalbeardblack.png),
+   ![](basic/m/normalbeardblack.png),
   Shadow Beard (m)
-   ![](original/m/shadowbeard.png)
+   ![](basic/m/shadowbeard.png)
 - Neck Accessory -
   Choker (f)
-   ![](original/f/choker.png),
+   ![](basic/f/choker.png),
   Gold Chain (m/f)
-   ![](original/m/goldchain.png)
-   ![](original/f/goldchain.png),
+   ![](basic/m/goldchain.png)
+   ![](basic/f/goldchain.png),
   Silver Chain (m/f)
-   ![](original/m/silverchain.png)
-   ![](original/f/silverchain.png)
+   ![](basic/m/silverchain.png)
+   ![](basic/f/silverchain.png)
+
+
+
+
+## Female 50/50 Expansion Series (24×24)
+
+_New female species, new female attributes_
+
+Zombie (female) ![](expansion/zombie-female.png),
+Ape (female) ![](expansion/ape-female.png),
+Alien (female) ![](expansion/alien-female.png).
+
+<!-- note:
+  sort attributes a-z for now - why? why not?
+-->
+
+Attributes (by category and a-z):
+
+
+
+
 
 
 
@@ -358,15 +381,13 @@ fuchsia (330°), and more.
 
 _New species, new attributes_
 
-Alien (female) ![](more/more_alien-female.png),
-Ape (female) ![](more/more_ape-female.png),
-Zombie (female) ![](more/more_zombie-female.png),
-Demon (male / female) ![](more/more_demon-male.png) ![](more/more_demon-female.png),
-Vampire (male / female) ![](more/more_vampire-male.png) ![](more/more_vampire-female.png),
-Orc (male / female) ![](more/more_orc-male.png) ![](more/more_orc-female.png),
-Skeleton (male / female) ![](more/more_skeleton-male.png) ![](more/more_skeleton-female.png),
-Mummy (male / female) ![](more/more_mummy-male.png) ![](more/more_mummy-female.png),
-Robot (male / female) ![](more/more_robot-male.png) ![](more/more_robot-female.png)
+Demon (male / female) ![](more/demon-male.png) ![](more/demon-female.png),
+Vampire (male / female) ![](more/vampire-male.png) ![](more/vampire-female.png),
+Orc (male / female) ![](more/orc-male.png) ![](more/orc-female.png),
+Skeleton (male / female) ![](more/skeleton-male.png) ![](more/skeleton-female.png),
+Mummy (male / female) ![](more/mummy-male.png) ![](more/mummy-female.png),
+Robot (male / female) ![](more/robot-male.png) ![](more/robot-female.png)
+
 
 
 
@@ -378,8 +399,8 @@ Ape (male¹,/female²) ![](planet-apes/ape-male.png) ![](planet-apes/ape-female.
 Ape Zombie (male) ![](planet-apes/ape-zombie-male.png),
 Ape Alien (male) ![](planet-apes/ape-alien-male.png)
 
-¹: From the original series<br>
-²: From the more series
+¹: From the basic series<br>
+²: From the female 50/50 expansion series
 
 
 
@@ -424,7 +445,7 @@ Crazy Hair  ![](wallstreetbets/wallstreetbets-crazyhair.png) ![](wallstreetbets/
 Regular Shades¹  ![](wallstreetbets/wallstreetbets-regularshades.png)
 Big Shades   ![](wallstreetbets/wallstreetbets-bigshades.png)
 
-¹: From the original series
+¹: From the basic series
 
 
 
@@ -492,13 +513,13 @@ to make your own punks.
 ### Alien with Cap Forward, Small Shades & Pipe
 
 Let's make punk #7804 - a super rare alien
-![](original/alien-male.png)
+![](basic/alien-male.png)
 with a capforward
-![](original/capforward.png),
+![](basic/m/capforward.png),
 smallshades
-![](original/smallshades.png)
+![](basic/m/smallshades.png)
 and a pipe
-![](original/pipe.png)
+![](basic/m/pipe.png)
 from scratch:
 
 ```
@@ -582,11 +603,11 @@ Let's try the green (120°) variant.
 Let's make - a super rare alien
 ![](alien-invasion/alien-male_120.png)
 with a capforward
-![](original/capforward.png),
+![](basic/m/capforward.png),
 smallshades
-![](original/smallshades.png)
+![](basic/m/smallshades.png)
 and a pipe
-![](original/pipe.png)
+![](basic/m/pipe.png)
 from scratch:
 
 ```
@@ -627,9 +648,9 @@ Or 150° ![](alien-invasion/alien-male_150.png) - `alien-male_150.png`:
 ### Alien with Cap
 
 Let's make punk #2890 - another super rare alien
-![](original/alien-male.png)
+![](basic/alien-male.png)
 with a cap
-![](original/cap.png)
+![](basic/m/cap.png)
 from scratch:
 
 ```
@@ -694,11 +715,11 @@ Or try the blue (240°) ![](all-caps/cap_240.png) variant - `cap_240.png`:
 ### Humans with Cap
 
 Or let's make a (light skintone) human punk
-![](original/human-male_light.png)
+![](basic/human-male_light.png)
 with a red (0°) cap
 ![](all-caps/cap_0.png)
 and a smile
-![](original/smile.png)
+![](basic/m/smile.png)
 from scratch:
 
 
@@ -720,7 +741,7 @@ $ magick convert human_light.png -filter point -resize 200% human_lightx2.png
 ![](i/human_lightx4.png)
 
 
-Or try the dark skintone ![](original/human-male_dark.png) variant - `human-male_dark.png` -
+Or try the dark skintone ![](basic/human-male_dark.png) variant - `human-male_dark.png` -
 with a green (120°) cap ![](all-caps/cap_120.png)  - `cap_120.png`:
 
 
