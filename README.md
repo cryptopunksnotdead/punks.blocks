@@ -549,23 +549,23 @@ Let's try 2x (that is, 200%):
 
 ```
 $ magick convert punk7804.png \
-         -filter point -resize 200% punk7804x2.png
+         -filter point -resize 200% punk7804@2x.png
 ```
 
 <!--
 $ magick convert punk7804.png -filter point -resize 200% punk7804x2.png
  -->
 
-![](i/punk7804x2.png)
+![](i/punk7804@2x.png)
 
 And 4x (that is, 400%):
 
 ```
 $ magick convert punk7804.png \
-         -filter point -resize 400% punk7804x4.png
+         -filter point -resize 400% punk7804@4x.png
 ```
 
-![](i/punk7804x4.png)
+![](i/punk7804@4x.png)
 
 <!--
 $ magick convert punk7804.png -filter point -resize 400% punk7804x4.png
@@ -585,15 +585,15 @@ $ magick convert punk7804.png smile-alien.png  -background none -flatten punk780
 -->
 
 ![](i/punk7804_smile.png)   2x, 4x:
-![](i/punk7804_smilex2.png)
-![](i/punk7804_smilex4.png)
+![](i/punk7804_smile@2x.png)
+![](i/punk7804_smile@4x.png)
 
 
 Try the natural version ![](natural/alien-male-natural.png):
 
 ![](i/punk7804_natural.png)   2x, 4x:
-![](i/punk7804_naturalx2.png)
-![](i/punk7804_naturalx4.png)
+![](i/punk7804_natural@2x.png)
+![](i/punk7804_natural@4x.png)
 
 
 
@@ -627,20 +627,20 @@ $ magick convert punk7804_120.png -filter point -resize 400% punk7804_120x4.png
 -->
 
 ![](i/punk7804_120.png)   2x, 4x:
-![](i/punk7804_120x2.png)
-![](i/punk7804_120x4.png)
+![](i/punk7804_120@2x.png)
+![](i/punk7804_120@4x.png)
 
 Or try the 90° ![](alien-invasion/alien-male_90.png) variant - `alien-male_90.png`:
 
 ![](i/punk7804_90.png)   2x, 4x:
-![](i/punk7804_90x2.png)
-![](i/punk7804_90x4.png)
+![](i/punk7804_90@2x.png)
+![](i/punk7804_90@4x.png)
 
 Or 150° ![](alien-invasion/alien-male_150.png) - `alien-male_150.png`:
 
 ![](i/punk7804_150.png)   2x, 4x:
-![](i/punk7804_150x2.png)
-![](i/punk7804_150x4.png)
+![](i/punk7804_150@2x.png)
+![](i/punk7804_150@4x.png)
 
 
 
@@ -665,14 +665,14 @@ $ magick convert alien-male.png cap.png -background none -flatten punk2890.png
 
 
 ![](i/punk2890.png)   2x, 4x:
-![](i/punk2890x2.png)
-![](i/punk2890x4.png)
+![](i/punk2890@2x.png)
+![](i/punk2890@4x.png)
 
 Try the natural version ![](natural/alien-male-natural.png):
 
 ![](i/punk2890_natural.png)   2x, 4x:
-![](i/punk2890_naturalx2.png)
-![](i/punk2890_naturalx4.png)
+![](i/punk2890_natural@2x.png)
+![](i/punk2890_natural@4x.png)
 
 
 
@@ -700,15 +700,15 @@ $ magick convert punk2890_0.png -filter point -resize 400% punk2890_0x4.png
 -->
 
 ![](i/punk2890_0.png)   2x, 4x:
-![](i/punk2890_0x2.png)
-![](i/punk2890_0x4.png)
+![](i/punk2890_0@2x.png)
+![](i/punk2890_0@4x.png)
 
 
 Or try the blue (240°) ![](all-caps/cap_240.png) variant - `cap_240.png`:
 
 ![](i/punk2890_240.png)   2x, 4x:
-![](i/punk2890_240x2.png)
-![](i/punk2890_240x4.png)
+![](i/punk2890_240@2x.png)
+![](i/punk2890_240@4x.png)
 
 
 
@@ -737,8 +737,8 @@ $ magick convert human_light.png -filter point -resize 200% human_lightx2.png
 -->
 
 ![](i/human_light.png)   2x, 4x:
-![](i/human_lightx2.png)
-![](i/human_lightx4.png)
+![](i/human_light@2x.png)
+![](i/human_light@4x.png)
 
 
 Or try the dark skintone ![](basic/human-male_dark.png) variant - `human-male_dark.png` -
@@ -751,8 +751,8 @@ $ magick convert human-male_dark.png cap_120.png smile.png -background none -fla
 
 
 ![](i/human_dark.png)   2x, 4x:
-![](i/human_darkx2.png)
-![](i/human_darkx4.png)
+![](i/human_dark@2x.png)
+![](i/human_dark@4x.png)
 
 
 ### Dodge Shiba Inu - Much Wow
@@ -776,8 +776,8 @@ $ magick convert alien.png \
   -->
 
 ![](i/dodge3100.png) 2x, 4x:
-![](i/dodge3100x2.png)
-![](i/dodge3100x4.png)
+![](i/dodge3100@2x.png)
+![](i/dodge3100@4x.png)
 
 
 Or let's make a zombie
@@ -800,8 +800,8 @@ $ magick convert zombie_notop.png \
   -->
 
 ![](i/dodge2066.png) 2x, 4x:
-![](i/dodge2066x2.png)
-![](i/dodge2066x4.png)
+![](i/dodge2066@2x.png)
+![](i/dodge2066@4x.png)
 
 
 
@@ -826,8 +826,8 @@ $ magick convert classic.png \
 
 
 ![](i/dodge_3dglasses.png) 2x, 4x:
-![](i/dodge_3dglassesx2.png)
-![](i/dodge_3dglassesx4.png)
+![](i/dodge_3dglasses@2x.png)
+![](i/dodge_3dglasses@4x.png)
 
 
 
@@ -887,10 +887,10 @@ Note¹: ImageMagic uses the [scale2x](http://www.scale2x.it/algorithm) algorithm
 ```
 $ magick convert punk2890.png \
           -magnify \
-          punk2890_magnify2x.png
+          punk2890@magnify2x.png
 ```
 
-![](i/punk2890_magnify2x.png)
+![](i/punk2890@magnify2x.png)
 
 
 And doubling again (4x):
@@ -898,36 +898,36 @@ And doubling again (4x):
 ```
 $ magick convert punk2890.png \
           -magnify -magnify \
-          punk2890_magnify4x.png
+          punk2890@magnify4x.png
 ```
 
-![](i/punk2890_magnify4x.png)
+![](i/punk2890@magnify4x.png)
 
 And doubling again (8x):
 
 ```
 $ magick convert punk2890.png \
           -magnify -magnify -magnify \
-          punk2890_magnify8x.png
+          punk2890@magnify8x.png
 ```
 
-![](i/punk2890_magnify8x.png)
+![](i/punk2890@magnify8x.png)
 
 
 
 And let's try some more:
 
-![](i/punk7804_magnify2x.png)
-![](i/punk7804_magnify4x.png)
-![](i/punk7804_magnify8x.png)
-![](i/human_light_magnify2x.png)
-![](i/human_light_magnify4x.png)
-![](i/human_light_magnify8x.png)
+![](i/punk7804@magnify2x.png)
+![](i/punk7804@magnify4x.png)
+![](i/punk7804@magnify8x.png)
+![](i/human_light@magnify2x.png)
+![](i/human_light@magnify4x.png)
+![](i/human_light@magnify8x.png)
 
 
-![](i/dodge_magnify2x.png)
-![](i/dodge_magnify4x.png)
-![](i/dodge_magnify8x.png)
+![](i/dodge@magnify2x.png)
+![](i/dodge@magnify4x.png)
+![](i/dodge@magnify8x.png)
 
 
 
@@ -940,45 +940,45 @@ a copy of ffmpeg. Let's try:
 ```
 $ ffmpeg -i punk2890.png \
           -filter_complex hqx=2 \
-          punk2890_hqx2.png
+          punk2890@hq2x.png
 ```
 
-![](i/punk2890_hqx2.png)
+![](i/punk2890@hq2x.png)
 
 And 3x:
 
 ```
 $ ffmpeg -i punk2890.png \
           -filter_complex hqx=3 \
-          punk2890_hqx3.png
+          punk2890@hq3x.png
 ```
 
-![](i/punk2890_hqx3.png)
+![](i/punk2890@hq3x.png)
 
 And 4x:
 
 ```
 $ ffmpeg -i punk2890.png \
           -filter_complex hqx=4 \
-          punk2890_hqx4.png
+          punk2890@hq4x.png
 ```
 
-![](i/punk2890_hqx4.png)
+![](i/punk2890@hq4x.png)
 
 
 And let's try some more:
 
-![](i/punk7804_hqx2.png)
-![](i/punk7804_hqx3.png)
-![](i/punk7804_hqx4.png)
-![](i/human_light_hqx2.png)
-![](i/human_light_hqx3.png)
-![](i/human_light_hqx4.png)
+![](i/punk7804@hq2x.png)
+![](i/punk7804@hq3x.png)
+![](i/punk7804@hq4x.png)
+![](i/human_light@hq2x.png)
+![](i/human_light@hq3x.png)
+![](i/human_light@hq4x.png)
 
 
-![](i/dodge_hqx2.png)
-![](i/dodge_hqx3.png)
-![](i/dodge_hqx4.png)
+![](i/dodge@hq2x.png)
+![](i/dodge@hq3x.png)
+![](i/dodge@hq4x.png)
 
 
 
