@@ -400,7 +400,7 @@ Burgundy ![](world-women/lipstick-burgundy.png),
 _Aliens in more colors (by degree on the HSL color wheel)_
 
 Aliens (Male/Female) in red (0°), orange (30°),  yellow (60°),
-, yellow green (90°), green (120°),
+yellow green (90°), green (120°),
 cyan green (°150), cyan (°180),
 cyan blue (°210),
 blue (°240),
@@ -458,11 +458,11 @@ Alien Apes (Male)
 _(Baseball) caps in more colors (by degree on the HSL color wheel)_
 
 Caps in red (0°), orange (30°),
-chartreuse (90°),
+yellow green (90°),
 green (120°),
 blue (240°),
 magenta (300°),
-fuchsia (330°), and more.
+red magenta (330°).
 
 ![](all-caps/cap_0.png)
 ![](all-caps/cap_30.png)
