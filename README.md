@@ -399,8 +399,13 @@ Burgundy ![](world-women/lipstick-burgundy.png),
 
 _Aliens in more colors (by degree on the HSL color wheel)_
 
-Aliens (Male) in red (0°), orange (30°),  yellow (60°),
-, chartreuse (90°), green (120°), magenta (°300), fuchsia (°330), and more.
+Aliens (Male/Female) in red (0°), orange (30°),  yellow (60°),
+, yellow green (90°), green (120°),
+cyan green (°150), cyan (°180),
+cyan blue (°210),
+blue (°240),
+violet (°270),
+magenta (°300) and red magenta (°330).
 
 ![](alien-invasion/alien-male_0.png)
 ![](alien-invasion/alien-male_30.png)
@@ -409,8 +414,42 @@ Aliens (Male) in red (0°), orange (30°),  yellow (60°),
 ![](alien-invasion/alien-male_120.png)
 ![](alien-invasion/alien-male_150.png)
 ![](alien-invasion/alien-male_180.png)
+![](alien-invasion/alien-male_210.png)
+![](alien-invasion/alien-male_240.png)
+![](alien-invasion/alien-male_270.png)
 ![](alien-invasion/alien-male_300.png)
 ![](alien-invasion/alien-male_330.png)
+
+![](alien-invasion/alien-female_0.png)
+![](alien-invasion/alien-female_30.png)
+![](alien-invasion/alien-female_60.png)
+![](alien-invasion/alien-female_90.png)
+![](alien-invasion/alien-female_120.png)
+![](alien-invasion/alien-female_150.png)
+![](alien-invasion/alien-female_180.png)
+![](alien-invasion/alien-female_210.png)
+![](alien-invasion/alien-female_240.png)
+![](alien-invasion/alien-female_270.png)
+![](alien-invasion/alien-female_300.png)
+![](alien-invasion/alien-female_330.png)
+
+
+Alien Apes (Male)
+
+![](alien-invasion/alien-ape-male_0.png)
+![](alien-invasion/alien-ape-male_30.png)
+![](alien-invasion/alien-ape-male_60.png)
+![](alien-invasion/alien-ape-male_90.png)
+![](alien-invasion/alien-ape-male_120.png)
+![](alien-invasion/alien-ape-male_150.png)
+![](alien-invasion/alien-ape-male_180.png)
+![](alien-invasion/alien-ape-male_210.png)
+![](alien-invasion/alien-ape-male_240.png)
+![](alien-invasion/alien-ape-male_270.png)
+![](alien-invasion/alien-ape-male_300.png)
+![](alien-invasion/alien-ape-male_330.png)
+
+
 
 
 
