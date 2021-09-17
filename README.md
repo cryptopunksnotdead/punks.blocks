@@ -295,6 +295,44 @@ Attributes (by category and a-z):
   ![](expansion/f/smallshades.png)
 
 
+## Int'l Headwear Series (24×24)
+
+_New international headwear from around the world_
+
+Australian Cork Hat (f) ![](intl/australiancorkhat.png),
+Ayam (f)  ![](intl/ayam.png),
+Bamboo Hat (f)  ![](intl/bamboohat.png),
+Baseball Cap (f) ![](intl/baseballcap.png),
+Bear Skin (f)  ![](intl/bearskin.png),
+Beer Bong (f) ![](intl/beerbong.png),
+Beret (f)  ![](intl/beret.png),
+Boater (f)  ![](intl/boater.png),
+Bororo (f)  ![](intl/bororo.png),
+Chichak Helmet (f)  ![](intl/chichakhelment.png),
+Chinese Landlords Hat (f)  ![](intl/chineselandlordshat.png),
+Chullo (f)  ![](intl/chullo.png),
+Fez (f)  ![](intl/fez.png),
+Fisherman Cap (f)  ![](intl/fishermancap.png),
+Flamenco Hat (f)  ![](intl/flamencohat.png),
+Gat (f)  ![](intl/gat.png),
+Gaucho (f)  ![](intl/gaucho.png),
+Isicholo (f)  ![](intl/isicholo.png),
+Jaapi (f)  ![](intl/jaapi.png),
+Krakowiak (f)  ![](intl/krakowiak.png),
+Misango Cap (f)  ![](intl/misangocap.png),
+Panama Hat (f)  ![](intl/panamahat.png),
+Rasta (f)  ![](intl/rasta.png),
+Sibenik (f)  ![](intl/sibenik.png),
+Sombrero (f)  ![](intl/sombrero.png),
+Tam-O-Shanter (f)  ![](intl/tamoshanter.png),
+Trapper Hat (f)  ![](intl/trapperhat.png),
+Tuque (f)  ![](intl/tuque.png),
+Turban (f)  ![](intl/turban.png),
+Tyrolean (f)  ![](intl/tyrolean.png),
+Ushanka (f)  ![](intl/ushanka.png),
+Viking Hat (f)  ![](intl/vikinghat.png),
+
+
 
 ## World of Women Series (24×24)
 
