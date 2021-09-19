@@ -234,7 +234,7 @@ Bororo (m/f)  ![](intl/m/bororo.png) ![](intl/f/bororo.png),
 Chichak Helmet (m/f)  ![](intl/m/chichakhelmet.png) ![](intl/f/chichakhelmet.png),
 Chinese Landlords Hat (m/f)  ![](intl/m/chineselandlordshat.png) ![](intl/f/chineselandlordshat.png),
 Chullo (m/f)  ![](intl/m/chullo.png) ![](intl/f/chullo.png),
-Fedora (m/f)  ![](intl/m/fedora.png) ![](intl/f/fedora.png),
+Fedora¹ (m/f)  ![](intl/m/fedora2.png) ![](intl/f/fedora2.png),
 Fez (m/f)  ![](intl/m/fez.png) ![](intl/f/fez.png),
 Fisherman Cap (m/f)  ![](intl/m/fishermancap.png) ![](intl/f/fishermancap.png),
 Flamenco Hat (m/f)  ![](intl/m/flamencohat.png) ![](intl/f/flamencohat.png),
@@ -252,25 +252,31 @@ Panama Hat (m/f)  ![](intl/m/panamahat.png) ![](intl/f/panamahat.png),
 Rasta (m/f)  ![](intl/m/rasta.png) ![](intl/f/rasta.png),
 Royal Cocktail Hat (f)  ![](intl/f/royalcocktailhat.png),
 Sibenik (m/f)  ![](intl/m/sibenik.png) ![](intl/f/sibenik.png),
-Sombrero (m/f)  ![](intl/m/sombrero.png) ![](intl/f/sombrero.png),
+Sombrero 1 (m/f)  ![](intl/m/sombrero1.png) ![](intl/f/sombrero1.png),
+Sombrero 2 (m/f) ![](intl/m/sombrero2.png) ![](intl/f/sombrero2.png),
 Tam-O-Shanter (m/f)  ![](intl/m/tamoshanter.png) ![](intl/f/tamoshanter.png),
-Top Hat (m/f)  ![](intl/m/tophat.png) ![](intl/f/tophat.png),
+Top Hat¹ (m/f)  ![](intl/m/tophat2.png) ![](intl/f/tophat2.png),
 Trapper Hat (m/f)  ![](intl/m/trapperhat.png) ![](intl/f/trapperhat.png),
 Tuque (m/f)  ![](intl/m/tuque.png) ![](intl/f/tuque.png),
 Turban (m/f)  ![](intl/m/turban.png) ![](intl/f/turban.png),
 Tyrolean (m/f)  ![](intl/m/tyrolean.png) ![](intl/f/tyrolean.png),
 Ushanka (m/f)  ![](intl/m/ushanka.png) ![](intl/f/ushanka.png),
-Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
+Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png),
+Viking Helmet (m/f) ![](intl/m/vikinghelmet.png) ![](intl/f/vikinghelmet.png)
+
+¹: Alternatives to the basic series
 
 
 
-## More Hats & More Series (24×24)
 
-_New attributes_
+## More Series (24×24)
+
+_New hat, eyes, ears & more_
 
 <!-- note:
   sort attributes a-z for now - why? why not?
 -->
+
 
 Attributes (by category and a-z):
 - Hat -
@@ -282,10 +288,8 @@ Attributes (by category and a-z):
   Frog Hood (m/f) ![](more/m/froghood.png) ![](more/f/froghood.png),
   Jester Hat (m/f) ![](more/m/jesterhat.png) ![](more/f/jesterhat.png),
   Santa Hat (m/f) ![](more/m/santahat.png) ![](more/f/santahat.png),
-  Sombrero (m/f) ![](more/m/sombrero.png) ![](more/f/sombrero.png),
   Sun Hat (m/f) ![](more/m/sunhat.png) ![](more/f/sunhat.png),
-  Superhero Tiara (f) ![](more/f/superherotiara.png),
-  Viking Helmet (m/f) ![](more/m/vikinghelmet.png) ![](more/f/vikinghelmet.png),
+  Superhero Tiara (f) ![](more/f/superherotiara.png)
   Winter Hat (m/f) ![](more/m/winterhat.png) ![](more/f/winterhat.png)
 - Eyes -
   Heart Shades (m/f)  ![](more/m/heartshades.png) ![](more/f/heartshades.png),
@@ -302,6 +306,22 @@ Attributes (by category and a-z):
   Cigar (m/f) ![](more/m/cigar.png) ![](more/f/cigar.png)
 - Neck Accessory -
   Gold Diamond Necklace (m/f) ![](more/m/golddiamondnecklace.png)  ![](more/f/golddiamondnecklace.png)
+
+
+
+
+## More Hair Style & Color Series (24×24)
+
+_Is orange the new black?_
+
+
+Bob (f) ![](hair/bob.png)
+
+Short (f) ![](hair/short.png)
+
+
+
+
 
 
 
