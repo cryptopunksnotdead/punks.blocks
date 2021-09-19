@@ -18,3 +18,16 @@ by Jeremy Posvar
 
 
 
+
+
+
+## Changes / History
+
+
+Merged Female 50/50 Expansion Series (24×24) into Basic
+
+_New female species, new female attributes_
+
+
+Keep? Why? Why not?
+

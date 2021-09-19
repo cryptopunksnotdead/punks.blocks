@@ -6,7 +6,7 @@
 
 _Formerly known as ~Original CryptoPunks~_
 
-Humans (Male/Female)
+Humans (m/f)
 ![](basic/human-male_lighter.png)
 ![](basic/human-male_light.png)
 ![](basic/human-male_dark.png)
@@ -15,12 +15,12 @@ Humans (Male/Female)
 ![](basic/human-female_light.png)
 ![](basic/human-female_dark.png)
 ![](basic/human-female_darker.png),
-Zombies (Male)
-![](basic/zombie-male.png),
-Apes (Male),
-![](basic/ape-male.png),
-Aliens (Male)
-![](basic/alien-male.png).
+Zombies (m/f)
+![](basic/zombie-male.png) ![](basic/zombie-female.png),
+Apes (m/f),
+![](basic/ape-male.png) ![](basic/ape-female.png),
+Aliens (m/f)
+![](basic/alien-male.png) ![](basic/alien-female.png).
 
 
 
@@ -31,69 +31,58 @@ Aliens (Male)
 Attributes (by category and a-z):
 - Hat -
   Bandana (m/f)
-  ![](basic/m/bandana.png)
-  ![](basic/f/bandana.png),
-  Beanie (m)
-  ![](basic/m/beanie.png),
+  ![](basic/m/bandana.png) ![](basic/f/bandana.png),
+  Beanie (m/f)
+  ![](basic/m/beanie.png) ![](basic/f/beanie.png),
   Cap (m/f)
-  ![](basic/m/cap.png)
-  ![](basic/f/cap.png),
-  Cap Forward (m)
-  ![](basic/m/capforward.png),
-  Cowboy Hat (m)
-  ![](basic/m/cowboyhat.png),
-  Do-rag (m)
-  ![](basic/m/dorag.png),
-  Fedora (m)
-  ![](basic/m/fedora.png),
+  ![](basic/m/cap.png) ![](basic/f/cap.png),
+  Cap Forward (m/f)
+  ![](basic/m/capforward.png) ![](basic/f/capforward.png),
+  Cowboy Hat (m/f)
+  ![](basic/m/cowboyhat.png) ![](basic/f/cowboyhat.png),
+  Do-rag (m/f)
+  ![](basic/m/dorag.png) ![](basic/f/dorag.png),
+  Fedora (m/f)
+  ![](basic/m/fedora.png) ![](basic/f/fedora.png),
   Headband (m/f)
-  ![](basic/m/headband.png)
-  ![](basic/f/headband.png),
-  Hoodie (m)
-  ![](basic/m/hoodie.png),
+  ![](basic/m/headband.png) ![](basic/f/headband.png),
+  Hoodie (m/f)
+  ![](basic/m/hoodie.png) ![](basic/f/hoodie.png),
   Knitted Cap (m/f)
-  ![](basic/m/knittedcap.png)
-  ![](basic/f/knittedcap.png),
+  ![](basic/m/knittedcap.png) ![](basic/f/knittedcap.png),
   Pilot Helmet (f)
   ![](basic/f/pilothelmet.png),
-  Police Cap (m)
-  ![](basic/m/policecap.png),
+  Police Cap (m/f)
+  ![](basic/m/policecap.png) ![](basic/f/policecap.png),
   Tassle Hat (f)
   ![](basic/f/tasslehat.png),
   Tiara (f)
   ![](basic/f/tiara.png),
-  Top Hat (m)
-  ![](basic/m/tophat.png)
+  Top Hat (m/f)
+  ![](basic/m/tophat.png) ![](basic/f/tophat.png)
 - Hair -
   Blonde Bob (f)
   ![](basic/f/blondebob.png),
   Blonde Short (f)
   ![](basic/f/blondeshort.png),
   Clown Hair Green (m/f)
-  ![](basic/m/clownhairgreen.png)
-  ![](basic/f/clownhairgreen.png),
+  ![](basic/m/clownhairgreen.png) ![](basic/f/clownhairgreen.png),
   Crazy Hair (m/f)
-  ![](basic/m/crazyhair.png)
-  ![](basic/f/crazyhair.png),
+  ![](basic/m/crazyhair.png) ![](basic/f/crazyhair.png),
   Dark Hair (f)
   ![](basic/f/darkhair.png),
   Frumpy Hair (m/f)
-  ![](basic/m/frumpyhair.png)
-  ![](basic/f/frumpyhair.png),
+  ![](basic/m/frumpyhair.png) ![](basic/f/frumpyhair.png),
   Half Shaved (f)
   ![](basic/f/halfshaved.png),
   Messy Hair (m/f)
-  ![](basic/m/messyhair.png)
-  ![](basic/f/messyhair.png),
+  ![](basic/m/messyhair.png) ![](basic/f/messyhair.png),
   Mohawk (m/f)
-  ![](basic/m/mohawk.png)
-  ![](basic/f/mohawk.png),
+  ![](basic/m/mohawk.png) ![](basic/f/mohawk.png),
   Mohawk Dark (m/f)
-  ![](basic/m/mohawkdark.png)
-  ![](basic/f/mohawkdark.png),
+  ![](basic/m/mohawkdark.png) ![](basic/f/mohawkdark.png),
   Mohawk Thin (m/f)
-  ![](basic/m/mohawkthin.png)
-  ![](basic/f/mohawkthin.png),
+  ![](basic/m/mohawkthin.png) ![](basic/f/mohawkthin.png),
   Orange Side (f)
   ![](basic/f/orangeside.png),
   Peak Spike (m)
@@ -102,12 +91,12 @@ Attributes (by category and a-z):
   ![](basic/f/pigtails.png),
   Pink With Hat (f)
   ![](basic/f/pinkwithhat.png),
-  Purple Hair (m)
-  ![](basic/m/purplehair.png),
+  Purple Hair (m/f)
+  ![](basic/m/purplehair.png) ![](basic/f/purplehair.png),
   Red Mohawk (f)
   ![](basic/f/redmohawk.png),
-  Shaved Head (m)
-  ![](basic/m/shavedhead.png),
+  Shaved Head (m/f)
+  ![](basic/m/shavedhead.png) ![](basic/f/shavedhead.png),
   Straight Hair (f)
   ![](basic/f/straighthair.png),
   Straight Hair Blonde (f)
@@ -115,80 +104,62 @@ Attributes (by category and a-z):
   Straight Hair Dark (f)
   ![](basic/f/straighthairdark.png),
   Stringy Hair (m/f)
-  ![](basic/m/stringyhair.png)
-  ![](basic/f/stringyhair.png),
+  ![](basic/m/stringyhair.png) ![](basic/f/stringyhair.png),
   Vampire Hair (m)
   ![](basic/m/vampirehair.png),
   Wild Blonde (f)
   ![](basic/f/wildblonde.png),
   Wild Hair (m/f)
-  ![](basic/m/wildhair.png)
-  ![](basic/f/wildhair.png),
+  ![](basic/m/wildhair.png) ![](basic/f/wildhair.png),
   Wild White Hair (f)
   ![](basic/f/wildwhitehair.png)
 - Eyes -
   3D Glasses (m/f)
-   ![](basic/m/3dglasses.png)
-   ![](basic/f/3dglasses.png),
+   ![](basic/m/3dglasses.png) ![](basic/f/3dglasses.png),
   Big Shades (m/f)
-  ![](basic/m/bigshades.png)
-  ![](basic/f/bigshades.png),
+  ![](basic/m/bigshades.png) ![](basic/f/bigshades.png),
   Classic Shades (m/f)
-  ![](basic/m/classicshades.png)
-  ![](basic/f/classicshades.png),
+  ![](basic/m/classicshades.png) ![](basic/f/classicshades.png),
   Eye Mask (m/f)
-  ![](basic/m/eyemask.png)
-  ![](basic/f/eyemask.png),
+  ![](basic/m/eyemask.png) ![](basic/f/eyemask.png),
   Eye Patch (m/f)
-  ![](basic/m/eyepatch.png)
-  ![](basic/f/eyepatch.png),
+  ![](basic/m/eyepatch.png) ![](basic/f/eyepatch.png),
   Horned Rim Glasses (m/f)
-  ![](basic/m/hornedrimglasses.png)
-  ![](basic/f/hornedrimglasses.png),
+  ![](basic/m/hornedrimglasses.png) ![](basic/f/hornedrimglasses.png),
   Nerd Glasses (m/f)
-  ![](basic/m/nerdglasses.png)
-  ![](basic/f/nerdglasses.png),
+  ![](basic/m/nerdglasses.png) ![](basic/f/nerdglasses.png),
   Regular Shades (m/f)
-  ![](basic/m/regularshades.png)
-  ![](basic/f/regularshades.png),
-  Small Shades (m)
-  ![](basic/m/smallshades.png),
+  ![](basic/m/regularshades.png) ![](basic/f/regularshades.png),
+  Small Shades (m/f)
+  ![](basic/m/smallshades.png) ![](basic/f/smallshades.png),
   VR (m/f)
-  ![](basic/m/vr.png)
-  ![](basic/f/vr.png),
+  ![](basic/m/vr.png) ![](basic/f/vr.png),
   Welding Goggles (f)
   ![](basic/f/weldinggoggles.png)
 - Eyes (Makeup) -
   Blue Eye Shadow (f)
   ![](basic/f/blueeyeshadow.png),
   Clown Eyes Blue (m/f)
-  ![](basic/m/clowneyesblue.png)
-  ![](basic/f/clowneyesblue.png),
+  ![](basic/m/clowneyesblue.png) ![](basic/f/clowneyesblue.png),
   Clown Eyes Green (m/f)
-  ![](basic/m/clowneyesgreen.png)
-  ![](basic/f/clowneyesgreen.png),
+  ![](basic/m/clowneyesgreen.png) ![](basic/f/clowneyesgreen.png),
   Green Eye Shadow (f)
   ![](basic/f/greeneyeshadow.png),
   Purple Eye Shadow (f)
   ![](basic/f/purpleeyeshadow.png)
 - Blemishes -
   Mole (m/f)
-   ![](basic/m/mole.png)
-   ![](basic/f/mole.png),
+   ![](basic/m/mole.png) ![](basic/f/mole.png),
   Rosy Cheeks (m/f)
-   ![](basic/m/rosycheeks.png)
-   ![](basic/f/rosycheeks.png),
+   ![](basic/m/rosycheeks.png) ![](basic/f/rosycheeks.png),
   Spots (m/f)
-   ![](basic/m/spots.png)
-   ![](basic/f/spots.png)
+   ![](basic/m/spots.png) ![](basic/f/spots.png)
 - Nose -
   Clown Nose (m/f)
-   ![](basic/m/clownnose.png)
-   ![](basic/f/clownnose.png)
+   ![](basic/m/clownnose.png) ![](basic/f/clownnose.png)
 - Ears -
   Earring (m/f)
-   ![](basic/m/earring.png)
-   ![](basic/f/earring.png)
+   ![](basic/m/earring.png) ![](basic/f/earring.png)
 - Mouth -
   Buck Teeth (m)
    ![](basic/m/buckteeth.png),
@@ -205,17 +176,13 @@ Attributes (by category and a-z):
    ![](basic/f/purplelipstick.png)
 - Mouth Prop -
   Cigarette (m/f)
-   ![](basic/m/cigarette.png)
-   ![](basic/f/cigarette.png),
+   ![](basic/m/cigarette.png) ![](basic/f/cigarette.png),
   Medical Mask (m/f)
-   ![](basic/m/medicalmask.png)
-   ![](basic/f/medicalmask.png),
+   ![](basic/m/medicalmask.png) ![](basic/f/medicalmask.png),
   Pipe (m/f)
-   ![](basic/m/pipe.png)
-   ![](basic/f/pipe.png),
+   ![](basic/m/pipe.png) ![](basic/f/pipe.png),
   Vape (m/f)
-   ![](basic/m/vape.png)
-   ![](basic/f/vape.png)
+   ![](basic/m/vape.png) ![](basic/f/vape.png)
 - Beard -
   Big Beard (m)
    ![](basic/m/bigbeard.png),
@@ -245,54 +212,10 @@ Attributes (by category and a-z):
   Choker (f)
    ![](basic/f/choker.png),
   Gold Chain (m/f)
-   ![](basic/m/goldchain.png)
-   ![](basic/f/goldchain.png),
+   ![](basic/m/goldchain.png) ![](basic/f/goldchain.png),
   Silver Chain (m/f)
-   ![](basic/m/silverchain.png)
-   ![](basic/f/silverchain.png)
+   ![](basic/m/silverchain.png) ![](basic/f/silverchain.png)
 
-
-
-
-## Female 50/50 Expansion Series (24×24)
-
-_New female species, new female attributes_
-
-Zombie (female) ![](expansion/zombie-female.png),
-Ape (female) ![](expansion/ape-female.png),
-Alien (female) ![](expansion/alien-female.png).
-
-<!-- note:
-  sort attributes a-z for now - why? why not?
--->
-
-Attributes (by category and a-z):
-
-- Hat -
-  Beanie (f)
-  ![](expansion/f/beanie.png),
-  Cap Forward (f)
-  ![](expansion/f/capforward.png),
-  Cowboy Hat (f)
-  ![](expansion/f/cowboyhat.png),
-  Do-rag (f)
-  ![](expansion/f/dorag.png),
-  Fedora (f)
-  ![](expansion/f/fedora.png),
-  Hoodie (f)
-  ![](expansion/f/hoodie.png),
-  Police Cap (f)
-  ![](expansion/f/policecap.png),
-  Top Hat (f)
-  ![](expansion/f/tophat.png)
-- Hair -
-  Purple Hair (f)
-  ![](expansion/f/purplehair.png),
-  Shaved Head (f)
-  ![](expansion/f/shavedhead.png)
-- Eyes -
-  Small Shades (f)
-  ![](expansion/f/smallshades.png)
 
 
 ## Int'l Headwear Series (24×24)
@@ -340,17 +263,10 @@ Ushanka (m/f)  ![](intl/m/ushanka.png) ![](intl/f/ushanka.png),
 Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
 
 
-## More Series (24×24)
 
-_New species, new attributes_
+## More Hats & More Series (24×24)
 
-Demon (male / female) ![](more/demon-male.png) ![](more/demon-female.png),
-Vampire (male / female) ![](more/vampire-male.png) ![](more/vampire-female.png),
-Orc (male / female) ![](more/orc-male.png) ![](more/orc-female.png),
-Skeleton (male / female) ![](more/skeleton-male.png) ![](more/skeleton-female.png),
-Mummy (male / female) ![](more/mummy-male.png) ![](more/mummy-female.png),
-Robot (male / female) ![](more/robot-male.png) ![](more/robot-female.png)
-
+_New attributes_
 
 <!-- note:
   sort attributes a-z for now - why? why not?
@@ -374,67 +290,6 @@ Attributes (by category and a-z):
 - Eyes -
   Heart Shades (m/f) ![](more/m/heartshades.png) ![](more/f/heartshades.png),
   Ski Googles (m/f) ![](more/m/skigoogles.png) ![](more/f/skigoogles.png)
-
-
-
-
-## World of Women Series (24×24)
-
-_New skin tones, new eye colors, new lipsticks_
-
-Skin Tones (Classic Series) -
-Light Warm Olive ![](world-women/woman-light_warm_olive.png),
-Medium Olive ![](world-women/woman-medium_olive.png),
-Medium Gold ![](world-women/woman-medium_gold.png),
-Deep Warm Gold ![](world-women/woman-deep_warm_gold.png),
-Deep Bronze ![](world-women/woman-deep_bronze.png),
-Deep Neutral ![](world-women/woman-deep_neutral.png),
-Golden ![](world-women/woman-golden.png),
-Burning Red ![](world-women/woman-burning_red.png),
-Cyper Green ![](world-women/woman-cyber_green.png),
-Cool Blue ![](world-women/woman-cool_blue.png),
-Night Goddess ![](world-women/woman-night_goddess.png)
-
-
-Skin Tones II (Big Eyes Series) -
-![](world-women/woman-light_warm_olive-ii.png)
-![](world-women/woman-medium_olive-ii.png)
-![](world-women/woman-medium_gold-ii.png)
-![](world-women/woman-deep_warm_gold-ii.png)
-![](world-women/woman-deep_bronze-ii.png)
-![](world-women/woman-deep_neutral-ii.png)
-![](world-women/woman-golden-ii.png)
-![](world-women/woman-burning_red-ii.png)
-![](world-women/woman-cyber_green-ii.png)
-![](world-women/woman-cool_blue-ii.png)
-![](world-women/woman-night_goddess-ii.png)
-
-
-Skin Tones III (Natural Series) -
-![](world-women/woman-light_warm_olive-iii.png)
-![](world-women/woman-medium_olive-iii.png)
-![](world-women/woman-medium_gold-iii.png)
-![](world-women/woman-deep_warm_gold-iii.png)
-![](world-women/woman-deep_bronze-iii.png)
-![](world-women/woman-deep_neutral-iii.png)
-![](world-women/woman-golden-iii.png)
-![](world-women/woman-burning_red-iii.png)
-![](world-women/woman-cyber_green-iii.png)
-![](world-women/woman-cool_blue-iii.png)
-![](world-women/woman-night_goddess-iii.png)
-
-
-Eyes -
-Blue ![](world-women/eyes-blue.png),
-Purple ![](world-women/eyes-purple.png),
-Brown ![](world-women/eyes-brown.png),
-Green ![](world-women/eyes-green.png)
-
-Lipsticks -
-Party Pink ![](world-women/lipstick-party_pink.png),
-Passion Red ![](world-women/lipstick-passion_red.png),
-Burgundy ![](world-women/lipstick-burgundy.png),
-
 
 
 
@@ -523,12 +378,86 @@ red magenta (330°).
 
 _The rise of more new punk apes_
 
-Ape (male¹,/female²) ![](planet-apes/ape-male.png) ![](planet-apes/ape-female.png),
+Ape (male¹,/female¹) ![](planet-apes/ape-male.png) ![](planet-apes/ape-female.png),
 Ape Zombie (male) ![](planet-apes/ape-zombie-male.png),
 Ape Alien (male) ![](planet-apes/ape-alien-male.png)
 
-¹: From the basic series<br>
-²: From the female 50/50 expansion series
+¹: From the basic series
+
+
+
+## More Species Series (24×24)
+
+_New species_
+
+
+Demon (male / female) ![](more/demon-male.png) ![](more/demon-female.png),
+Vampire (male / female) ![](more/vampire-male.png) ![](more/vampire-female.png),
+Orc (male / female) ![](more/orc-male.png) ![](more/orc-female.png),
+Skeleton (male / female) ![](more/skeleton-male.png) ![](more/skeleton-female.png),
+Mummy (male / female) ![](more/mummy-male.png) ![](more/mummy-female.png),
+Robot (male / female) ![](more/robot-male.png) ![](more/robot-female.png)
+
+
+
+
+
+## World of Women Series (24×24)
+
+_New skin tones, new eye colors, new lipsticks_
+
+Skin Tones (Classic Series) -
+Light Warm Olive ![](world-women/woman-light_warm_olive.png),
+Medium Olive ![](world-women/woman-medium_olive.png),
+Medium Gold ![](world-women/woman-medium_gold.png),
+Deep Warm Gold ![](world-women/woman-deep_warm_gold.png),
+Deep Bronze ![](world-women/woman-deep_bronze.png),
+Deep Neutral ![](world-women/woman-deep_neutral.png),
+Golden ![](world-women/woman-golden.png),
+Burning Red ![](world-women/woman-burning_red.png),
+Cyper Green ![](world-women/woman-cyber_green.png),
+Cool Blue ![](world-women/woman-cool_blue.png),
+Night Goddess ![](world-women/woman-night_goddess.png)
+
+
+Skin Tones II (Big Eyes Series) -
+![](world-women/woman-light_warm_olive-ii.png)
+![](world-women/woman-medium_olive-ii.png)
+![](world-women/woman-medium_gold-ii.png)
+![](world-women/woman-deep_warm_gold-ii.png)
+![](world-women/woman-deep_bronze-ii.png)
+![](world-women/woman-deep_neutral-ii.png)
+![](world-women/woman-golden-ii.png)
+![](world-women/woman-burning_red-ii.png)
+![](world-women/woman-cyber_green-ii.png)
+![](world-women/woman-cool_blue-ii.png)
+![](world-women/woman-night_goddess-ii.png)
+
+
+Skin Tones III (Natural Series) -
+![](world-women/woman-light_warm_olive-iii.png)
+![](world-women/woman-medium_olive-iii.png)
+![](world-women/woman-medium_gold-iii.png)
+![](world-women/woman-deep_warm_gold-iii.png)
+![](world-women/woman-deep_bronze-iii.png)
+![](world-women/woman-deep_neutral-iii.png)
+![](world-women/woman-golden-iii.png)
+![](world-women/woman-burning_red-iii.png)
+![](world-women/woman-cyber_green-iii.png)
+![](world-women/woman-cool_blue-iii.png)
+![](world-women/woman-night_goddess-iii.png)
+
+
+Eyes -
+Blue ![](world-women/eyes-blue.png),
+Purple ![](world-women/eyes-purple.png),
+Brown ![](world-women/eyes-brown.png),
+Green ![](world-women/eyes-green.png)
+
+Lipsticks -
+Party Pink ![](world-women/lipstick-party_pink.png),
+Passion Red ![](world-women/lipstick-passion_red.png),
+Burgundy ![](world-women/lipstick-burgundy.png),
 
 
 
