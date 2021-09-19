@@ -289,7 +289,9 @@ Attributes (by category and a-z):
   Winter Hat (m/f) ![](more/m/winterhat.png) ![](more/f/winterhat.png)
 - Eyes -
   Heart Shades (m/f) ![](more/m/heartshades.png) ![](more/f/heartshades.png),
+  Laser Eyes (m) ![](more/m/lasereyes.png) ![](more/m/lasereyesgold.png),
   Ski Googles (m/f) ![](more/m/skigoogles.png) ![](more/f/skigoogles.png)
+
 
 
 
@@ -503,15 +505,6 @@ Regular Shades¹  ![](wallstreetbets/wallstreetbets-regularshades.png)
 Big Shades   ![](wallstreetbets/wallstreetbets-bigshades.png)
 
 ¹: From the basic series
-
-
-
-
-## Laser Eyes Series (24×24)
-
-_Punks with super powers_
-
-Laser Eyes ![](lasereyes/lasereyes.png) ![](lasereyes/lasereyes_light.png)
 
 
 

@@ -29,5 +29,10 @@ Merged Female 50/50 Expansion Series (24×24) into Basic
 _New female species, new female attributes_
 
 
-Keep? Why? Why not?
+Merged Laser Eyes Series (24×24) into More
 
+_Punks with super powers_
+
+
+
+Keep? Why? Why not?
