@@ -288,11 +288,10 @@ Attributes (by category and a-z):
   Viking Helmet (m/f) ![](more/m/vikinghelmet.png) ![](more/f/vikinghelmet.png),
   Winter Hat (m/f) ![](more/m/winterhat.png) ![](more/f/winterhat.png)
 - Eyes -
-  Heart Shades (m/f) ![](more/m/heartshades.png) ![](more/f/heartshades.png),
-  Laser Eyes (m) ![](more/m/lasereyes.png) ![](more/m/lasereyesgold.png),
-  Ski Googles (m/f) ![](more/m/skigoogles.png) ![](more/f/skigoogles.png)
-
-
+  Heart Shades (m/f)  ![](more/m/heartshades.png) ![](more/f/heartshades.png),
+  Laser Eyes (m)      ![](more/m/lasereyes.png),
+  Laser Eyes Gold (m) ![](more/m/lasereyesgold.png),
+  Ski Googles (m/f)   ![](more/m/skigoogles.png) ![](more/f/skigoogles.png)
 
 
 
