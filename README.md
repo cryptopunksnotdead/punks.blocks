@@ -291,7 +291,18 @@ Attributes (by category and a-z):
   Heart Shades (m/f)  ![](more/m/heartshades.png) ![](more/f/heartshades.png),
   Laser Eyes (m)      ![](more/m/lasereyes.png),
   Laser Eyes Gold (m) ![](more/m/lasereyesgold.png),
-  Ski Googles (m/f)   ![](more/m/skigoogles.png) ![](more/f/skigoogles.png)
+  Ski Googles (m/f)   ![](more/m/skigoogles.png) ![](more/f/skigoogles.png),
+  Tears (m/f)         ![](more/m/tears.png) ![](more/f/tears.png)
+- Ears -
+  Silver Earring (m/f) ![](more/m/silverearring.png) ![](more/f/silverearring.png)
+- Mouth (Makeup) -
+  Pink Lipstick (f) ![](more/f/pinklipstick.png),
+  Red Lipstick (f) ![](more/f/redlipstick.png)
+- Mouth Prop -
+  Cigar (m/f) ![](more/m/cigar.png) ![](more/f/cigar.png)
+- Neck Accessory -
+  Gold Diamond Necklace (m/f) ![](more/m/golddiamondnecklace.png)  ![](more/f/golddiamondnecklace.png)
+
 
 
 
