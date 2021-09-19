@@ -311,18 +311,60 @@ Attributes (by category and a-z):
 
 
 
+
 ## More Hair Style & Color Series (24×24)
 
 _Is orange the new black?_
 
 
-Bob (f) ![](hair/f/bob.png)
+Clown (m/f)  ![](hair/m/clown.png) ![](hair/f/clown.png)
+
+Crazy  (m/f)  ![](hair/m/crazy.png) ![](hair/f/crazy.png)
+
+Frumpy (m/f)   ![](hair/m/frumpy.png) ![](hair/f/frumpy.png)
+
+Half Shaved (f)  ![](hair/f/halfshaved.png)
+
+Messy (m/f)  ![](hair/m/messy.png) ![](hair/f/messy.png)
+
+Mohawk (m/f)  ![](hair/m/mohawk.png)  ![](hair/f/mohawk.png)
+
+Peak Spike (m)  ![](hair/m/peakspike.png)
+
+Pigtails (f)  ![](hair/f/pigtails.png)
 
 Short (f) ![](hair/f/short.png)
 
+Side (f)  ![](hair/f/side.png)
+
+Straight (f)  ![](hair/f/straight.png)
+
+Stringy (m/f) ![](hair/m/stringy.png) ![](hair/f/stringy.png)
+
+Vampire (m)  ![](hair/m/vampire.png)
+
+Wild 1 (m/f)  ![](hair/m/wild1.png) ![](hair/f/wild1.png)  <!-- was Wild Blonde in basic -->
+
+Wild 2 (f)  ![](hair/f/wild2.png)  <!-- was Wild Hair in basic -->
+
+Wild 3 (f)  ![](hair/f/wild3.png)  <!-- was  Wild White Hair in basic  -->
 
 
+More
 
+Style 1 (m/f)  ![](hair/m/style1.png) ![](hair/f/style1.png)  <!-- was Purple Hair in basic -->
+
+Style 2 (f)  ![](hair/f/style2.png)   <!-- was Blonde Bob in basic -->
+
+Style 3 (f)  ![](hair/f/style3.png)  <!-- was Dark Hair in basic -->
+
+
+<!--
+ todo/fix:  use a red pixel color or such
+                 for pixels that will always stay black
+                  and NOT get recolored
+                  e.g. recheck in vampire? and others?
+-->
 
 
 
