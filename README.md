@@ -252,8 +252,7 @@ Panama Hat (m/f)  ![](intl/m/panamahat.png) ![](intl/f/panamahat.png),
 Rasta (m/f)  ![](intl/m/rasta.png) ![](intl/f/rasta.png),
 Royal Cocktail Hat (f)  ![](intl/f/royalcocktailhat.png),
 Sibenik (m/f)  ![](intl/m/sibenik.png) ![](intl/f/sibenik.png),
-Sombrero 1 (m/f)  ![](intl/m/sombrero1.png) ![](intl/f/sombrero1.png),
-Sombrero 2 (m/f) ![](intl/m/sombrero2.png) ![](intl/f/sombrero2.png),
+Sombrero (m/f)  ![](intl/m/sombrero.png) ![](intl/f/sombrero.png),
 Tam-O-Shanter (m/f)  ![](intl/m/tamoshanter.png) ![](intl/f/tamoshanter.png),
 Top Hat¹ (m/f)  ![](intl/m/tophat2.png) ![](intl/f/tophat2.png),
 Trapper Hat (m/f)  ![](intl/m/trapperhat.png) ![](intl/f/trapperhat.png),
@@ -261,8 +260,7 @@ Tuque (m/f)  ![](intl/m/tuque.png) ![](intl/f/tuque.png),
 Turban (m/f)  ![](intl/m/turban.png) ![](intl/f/turban.png),
 Tyrolean (m/f)  ![](intl/m/tyrolean.png) ![](intl/f/tyrolean.png),
 Ushanka (m/f)  ![](intl/m/ushanka.png) ![](intl/f/ushanka.png),
-Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png),
-Viking Helmet (m/f) ![](intl/m/vikinghelmet.png) ![](intl/f/vikinghelmet.png)
+Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
 
 ¹: Alternatives to the basic series
 
@@ -288,8 +286,10 @@ Attributes (by category and a-z):
   Frog Hood (m/f) ![](more/m/froghood.png) ![](more/f/froghood.png),
   Jester Hat (m/f) ![](more/m/jesterhat.png) ![](more/f/jesterhat.png),
   Santa Hat (m/f) ![](more/m/santahat.png) ![](more/f/santahat.png),
+  Sombrero¹ (m/f) ![](more/m/sombrero2.png) ![](more/f/sombrero2.png),
   Sun Hat (m/f) ![](more/m/sunhat.png) ![](more/f/sunhat.png),
   Superhero Tiara (f) ![](more/f/superherotiara.png)
+  Viking Helmet (m/f) ![](more/m/vikinghelmet.png) ![](more/f/vikinghelmet.png),
   Winter Hat (m/f) ![](more/m/winterhat.png) ![](more/f/winterhat.png)
 - Eyes -
   Heart Shades (m/f)  ![](more/m/heartshades.png) ![](more/f/heartshades.png),
@@ -307,6 +307,7 @@ Attributes (by category and a-z):
 - Neck Accessory -
   Gold Diamond Necklace (m/f) ![](more/m/golddiamondnecklace.png)  ![](more/f/golddiamondnecklace.png)
 
+¹: Alternative to the int'l headwear series
 
 
 
@@ -315,9 +316,9 @@ Attributes (by category and a-z):
 _Is orange the new black?_
 
 
-Bob (f) ![](hair/bob.png)
+Bob (f) ![](hair/f/bob.png)
 
-Short (f) ![](hair/short.png)
+Short (f) ![](hair/f/short.png)
 
 
 
