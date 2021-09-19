@@ -340,6 +340,43 @@ Ushanka (m/f)  ![](intl/m/ushanka.png) ![](intl/f/ushanka.png),
 Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
 
 
+## More Series (24×24)
+
+_New species, new attributes_
+
+Demon (male / female) ![](more/demon-male.png) ![](more/demon-female.png),
+Vampire (male / female) ![](more/vampire-male.png) ![](more/vampire-female.png),
+Orc (male / female) ![](more/orc-male.png) ![](more/orc-female.png),
+Skeleton (male / female) ![](more/skeleton-male.png) ![](more/skeleton-female.png),
+Mummy (male / female) ![](more/mummy-male.png) ![](more/mummy-female.png),
+Robot (male / female) ![](more/robot-male.png) ![](more/robot-female.png)
+
+
+<!-- note:
+  sort attributes a-z for now - why? why not?
+-->
+
+Attributes (by category and a-z):
+- Hat -
+  Bear Hood (m/f) ![](more/m/bearhood.png) ![](more/f/bearhood.png),
+  Birthday Hat (m/f) ![](more/m/birthdayhat.png) ![](more/f/birthdayhat.png),
+  Bow (f)  ![](more/f/bow.png),
+  Crown (m/f) ![](more/m/crown.png) ![](more/f/crown.png),
+  Flowers (f)  ![](more/f/flowers.png),
+  Frog Hood (m/f) ![](more/m/froghood.png) ![](more/f/froghood.png),
+  Jester Hat (m/f) ![](more/m/jesterhat.png) ![](more/f/jesterhat.png),
+  Santa Hat (m/f) ![](more/m/santahat.png) ![](more/f/santahat.png),
+  Sombrero (m/f) ![](more/m/sombrero.png) ![](more/f/sombrero.png),
+  Sun Hat (m/f) ![](more/m/sunhat.png) ![](more/f/sunhat.png),
+  Superhero Tiara (f) ![](more/f/superherotiara.png),
+  Viking Helmet (m/f) ![](more/m/vikinghelmet.png) ![](more/f/vikinghelmet.png),
+  Winter Hat (m/f) ![](more/m/winterhat.png) ![](more/f/winterhat.png)
+- Eyes -
+  Heart Shades (m/f) ![](more/m/heartshades.png) ![](more/f/heartshades.png),
+  Ski Googles (m/f) ![](more/m/skigoogles.png) ![](more/f/skigoogles.png)
+
+
+
 
 ## World of Women Series (24×24)
 
@@ -478,19 +515,6 @@ red magenta (330°).
 ![](all-caps/cap_240.png)
 ![](all-caps/cap_300.png)
 ![](all-caps/cap_330.png)
-
-
-
-## More Series (24×24)
-
-_New species, new attributes_
-
-Demon (male / female) ![](more/demon-male.png) ![](more/demon-female.png),
-Vampire (male / female) ![](more/vampire-male.png) ![](more/vampire-female.png),
-Orc (male / female) ![](more/orc-male.png) ![](more/orc-female.png),
-Skeleton (male / female) ![](more/skeleton-male.png) ![](more/skeleton-female.png),
-Mummy (male / female) ![](more/mummy-male.png) ![](more/mummy-female.png),
-Robot (male / female) ![](more/robot-male.png) ![](more/robot-female.png)
 
 
 
