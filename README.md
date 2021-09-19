@@ -316,6 +316,13 @@ Attributes (by category and a-z):
 
 _Is orange the new black?_
 
+Afro (m/f)  ![](hair/m/afro.png) ![](hair/f/afro.png)
+
+Big (m/f)   ![](hair/m/big.png) ![](hair/f/big.png)
+
+Bob (m/f)   ![](hair/f/bob.png)
+
+Buzz Cut (m/f)   ![](hair/m/buzzcut.png) ![](hair/f/buzzcut.png)
 
 Clown (m/f)  ![](hair/m/clown.png) ![](hair/f/clown.png)
 
@@ -325,6 +332,12 @@ Frumpy (m/f)   ![](hair/m/frumpy.png) ![](hair/f/frumpy.png)
 
 Half Shaved (f)  ![](hair/f/halfshaved.png)
 
+Heart (f)  ![](hair/f/heart.png)
+
+Long (m)  ![](hair/m/long.png)
+
+Long Curly (f)  ![](hair/f/longcurly.png)
+
 Messy (m/f)  ![](hair/m/messy.png) ![](hair/f/messy.png)
 
 Mohawk (m/f)  ![](hair/m/mohawk.png)  ![](hair/f/mohawk.png)
@@ -332,6 +345,8 @@ Mohawk (m/f)  ![](hair/m/mohawk.png)  ![](hair/f/mohawk.png)
 Peak Spike (m)  ![](hair/m/peakspike.png)
 
 Pigtails (f)  ![](hair/f/pigtails.png)
+
+Pixie (f) ![](hair/f/pixie.png)
 
 Short (f) ![](hair/f/short.png)
 
