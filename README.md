@@ -160,9 +160,10 @@ Attributes (by category and a-z):
 - Ears -
   Earring (m/f)
    ![](basic/m/earring.png) ![](basic/f/earring.png)
-- Mouth -
+- Mouth (Teeth) -
   Buck Teeth (m)
-   ![](basic/m/buckteeth.png),
+   ![](basic/m/buckteeth.png)
+- Mouth (Emotion) -
   Frown (m)
    ![](basic/m/frown.png),
   Smile (m)
