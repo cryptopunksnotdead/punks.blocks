@@ -880,34 +880,217 @@ Straight 2 (f)  ![](hair/f/black/straight2.png)
   <br>
 
 
+Stringy (m/f)  ![](hair/m/black/stringy.png) ![](hair/f/black/stringy.png)
+
+  ![](hair/m/brown/stringy.png)
+  ![](hair/m/darkred/stringy.png)
+  ![](hair/m/orange/stringy.png)
+  ![](hair/m/red/stringy.png)
+  ![](hair/m/pink/stringy.png)
+  ![](hair/m/purple/stringy.png)
+  ![](hair/m/blue/stringy.png)
+  ![](hair/m/periwinkle/stringy.png)
+  ![](hair/m/lightblue/stringy.png)
+  ![](hair/m/lightgreen/stringy.png)
+  ![](hair/m/green/stringy.png)
+  ![](hair/m/teal/stringy.png)
+  ![](hair/m/blonde/stringy.png)
+  ![](hair/m/silver/stringy.png)
+  ![](hair/m/white/stringy.png)
+  <br>
+  ![](hair/f/brown/stringy.png)
+  ![](hair/f/darkred/stringy.png)
+  ![](hair/f/orange/stringy.png)
+  ![](hair/f/red/stringy.png)
+  ![](hair/f/pink/stringy.png)
+  ![](hair/f/purple/stringy.png)
+  ![](hair/f/blue/stringy.png)
+  ![](hair/f/periwinkle/stringy.png)
+  ![](hair/f/lightblue/stringy.png)
+  ![](hair/f/lightgreen/stringy.png)
+  ![](hair/f/green/stringy.png)
+  ![](hair/f/teal/stringy.png)
+  ![](hair/f/blonde/stringy.png)
+  ![](hair/f/silver/stringy.png)
+  ![](hair/f/white/stringy.png)
+  <br>
 
 
-Stringy (m/f) ![](hair/m/stringy.png) ![](hair/f/stringy.png)
+Widow's Peak (m)  ![](hair/m/black/widowspeak.png)
 
-Widow's Peak (m)  ![](hair/m/widowspeak.png)
+  ![](hair/m/brown/widowspeak.png)
+  ![](hair/m/darkred/widowspeak.png)
+  ![](hair/m/orange/widowspeak.png)
+  ![](hair/m/red/widowspeak.png)
+  ![](hair/m/pink/widowspeak.png)
+  ![](hair/m/purple/widowspeak.png)
+  ![](hair/m/blue/widowspeak.png)
+  ![](hair/m/periwinkle/widowspeak.png)
+  ![](hair/m/lightblue/widowspeak.png)
+  ![](hair/m/lightgreen/widowspeak.png)
+  ![](hair/m/green/widowspeak.png)
+  ![](hair/m/teal/widowspeak.png)
+  ![](hair/m/blonde/widowspeak.png)
+  ![](hair/m/silver/widowspeak.png)
+  ![](hair/m/white/widowspeak.png)
+  <br>
 
-Wild 1 (m/f)  ![](hair/m/wild1.png) ![](hair/f/wild1.png)  <!-- was Wild Blonde in basic -->
 
-Wild 2 (f)  ![](hair/f/wild2.png)  <!-- was Wild Hair in basic -->
+Wild 1 (m/f)  ![](hair/m/black/wild1.png) ![](hair/f/black/wild1.png)
 
-Wild 3 (f)  ![](hair/f/wild3.png)  <!-- was  Wild White Hair in basic  -->
+  ![](hair/m/brown/wild1.png)
+  ![](hair/m/darkred/wild1.png)
+  ![](hair/m/orange/wild1.png)
+  ![](hair/m/red/wild1.png)
+  ![](hair/m/pink/wild1.png)
+  ![](hair/m/purple/wild1.png)
+  ![](hair/m/blue/wild1.png)
+  ![](hair/m/periwinkle/wild1.png)
+  ![](hair/m/lightblue/wild1.png)
+  ![](hair/m/lightgreen/wild1.png)
+  ![](hair/m/green/wild1.png)
+  ![](hair/m/teal/wild1.png)
+  ![](hair/m/blonde/wild1.png)
+  ![](hair/m/silver/wild1.png)
+  ![](hair/m/white/wild1.png)
+  <br>
+  ![](hair/f/brown/wild1.png)
+  ![](hair/f/darkred/wild1.png)
+  ![](hair/f/orange/wild1.png)
+  ![](hair/f/red/wild1.png)
+  ![](hair/f/pink/wild1.png)
+  ![](hair/f/purple/wild1.png)
+  ![](hair/f/blue/wild1.png)
+  ![](hair/f/periwinkle/wild1.png)
+  ![](hair/f/lightblue/wild1.png)
+  ![](hair/f/lightgreen/wild1.png)
+  ![](hair/f/green/wild1.png)
+  ![](hair/f/teal/wild1.png)
+  ![](hair/f/blonde/wild1.png)
+  ![](hair/f/silver/wild1.png)
+  ![](hair/f/white/wild1.png)
+  <br>
+
+
+Wild 2 (f)  ![](hair/f/black/wild2.png)
+
+  ![](hair/f/brown/wild2.png)
+  ![](hair/f/darkred/wild2.png)
+  ![](hair/f/orange/wild2.png)
+  ![](hair/f/red/wild2.png)
+  ![](hair/f/pink/wild2.png)
+  ![](hair/f/purple/wild2.png)
+  ![](hair/f/blue/wild2.png)
+  ![](hair/f/periwinkle/wild2.png)
+  ![](hair/f/lightblue/wild2.png)
+  ![](hair/f/lightgreen/wild2.png)
+  ![](hair/f/green/wild2.png)
+  ![](hair/f/teal/wild2.png)
+  ![](hair/f/blonde/wild2.png)
+  ![](hair/f/silver/wild2.png)
+  ![](hair/f/white/wild2.png)
+  <br>
+
+
+Wild 3 (f)  ![](hair/f/black/wild3.png)
+
+  ![](hair/f/brown/wild3.png)
+  ![](hair/f/darkred/wild3.png)
+  ![](hair/f/orange/wild3.png)
+  ![](hair/f/red/wild3.png)
+  ![](hair/f/pink/wild3.png)
+  ![](hair/f/purple/wild3.png)
+  ![](hair/f/blue/wild3.png)
+  ![](hair/f/periwinkle/wild3.png)
+  ![](hair/f/lightblue/wild3.png)
+  ![](hair/f/lightgreen/wild3.png)
+  ![](hair/f/green/wild3.png)
+  ![](hair/f/teal/wild3.png)
+  ![](hair/f/blonde/wild3.png)
+  ![](hair/f/silver/wild3.png)
+  ![](hair/f/white/wild3.png)
+  <br>
 
 
 More
 
-Style 1 (m/f)  ![](hair/m/style1.png) ![](hair/f/style1.png)  <!-- was Purple Hair in basic -->
 
-Style 2 (f)  ![](hair/f/style2.png)   <!-- was Blonde Bob in basic -->
+Style 1 (m/f)  ![](hair/m/black/style1.png) ![](hair/f/black/style1.png)
 
-Style 3 (f)  ![](hair/f/style3.png)  <!-- was Dark Hair in basic -->
+  ![](hair/m/brown/style1.png)
+  ![](hair/m/darkred/style1.png)
+  ![](hair/m/orange/style1.png)
+  ![](hair/m/red/style1.png)
+  ![](hair/m/pink/style1.png)
+  ![](hair/m/purple/style1.png)
+  ![](hair/m/blue/style1.png)
+  ![](hair/m/periwinkle/style1.png)
+  ![](hair/m/lightblue/style1.png)
+  ![](hair/m/lightgreen/style1.png)
+  ![](hair/m/green/style1.png)
+  ![](hair/m/teal/style1.png)
+  ![](hair/m/blonde/style1.png)
+  ![](hair/m/silver/style1.png)
+  ![](hair/m/white/style1.png)
+  <br>
+  ![](hair/f/brown/style1.png)
+  ![](hair/f/darkred/style1.png)
+  ![](hair/f/orange/style1.png)
+  ![](hair/f/red/style1.png)
+  ![](hair/f/pink/style1.png)
+  ![](hair/f/purple/style1.png)
+  ![](hair/f/blue/style1.png)
+  ![](hair/f/periwinkle/style1.png)
+  ![](hair/f/lightblue/style1.png)
+  ![](hair/f/lightgreen/style1.png)
+  ![](hair/f/green/style1.png)
+  ![](hair/f/teal/style1.png)
+  ![](hair/f/blonde/style1.png)
+  ![](hair/f/silver/style1.png)
+  ![](hair/f/white/style1.png)
+  <br>
 
 
-<!--
- todo/fix:  use a red pixel color or such
-                 for pixels that will always stay black
-                  and NOT get recolored
-                  e.g. recheck in vampire? and others?
--->
+Style 2 (f)  ![](hair/f/black/style2.png)
+
+  ![](hair/f/brown/style2.png)
+  ![](hair/f/darkred/style2.png)
+  ![](hair/f/orange/style2.png)
+  ![](hair/f/red/style2.png)
+  ![](hair/f/pink/style2.png)
+  ![](hair/f/purple/style2.png)
+  ![](hair/f/blue/style2.png)
+  ![](hair/f/periwinkle/style2.png)
+  ![](hair/f/lightblue/style2.png)
+  ![](hair/f/lightgreen/style2.png)
+  ![](hair/f/green/style2.png)
+  ![](hair/f/teal/style2.png)
+  ![](hair/f/blonde/style2.png)
+  ![](hair/f/silver/style2.png)
+  ![](hair/f/white/style2.png)
+  <br>
+
+
+Style 3 (f)  ![](hair/f/black/style3.png)
+
+  ![](hair/f/brown/style3.png)
+  ![](hair/f/darkred/style3.png)
+  ![](hair/f/orange/style3.png)
+  ![](hair/f/red/style3.png)
+  ![](hair/f/pink/style3.png)
+  ![](hair/f/purple/style3.png)
+  ![](hair/f/blue/style3.png)
+  ![](hair/f/periwinkle/style3.png)
+  ![](hair/f/lightblue/style3.png)
+  ![](hair/f/lightgreen/style3.png)
+  ![](hair/f/green/style3.png)
+  ![](hair/f/teal/style3.png)
+  ![](hair/f/blonde/style3.png)
+  ![](hair/f/silver/style3.png)
+  ![](hair/f/white/style3.png)
+  <br>
+
+
 
 
 ## Rainbow Series (24×24)
