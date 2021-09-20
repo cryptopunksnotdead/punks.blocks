@@ -361,7 +361,7 @@ Straight 2 (f)  ![](hair/f/straight2.png)
 
 Stringy (m/f) ![](hair/m/stringy.png) ![](hair/f/stringy.png)
 
-Widow's Peak (m)  [](hair/m/widowspeak.png)
+Widow's Peak (m)  ![](hair/m/widowspeak.png)
 
 Wild 1 (m/f)  ![](hair/m/wild1.png) ![](hair/f/wild1.png)  <!-- was Wild Blonde in basic -->
 
