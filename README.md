@@ -312,9 +312,10 @@ Attributes (by category and a-z):
 
 
 
+
 ## More Hair Style & Color Series (24×24)
 
-_Is orange the new black?_
+_Is orange the new black? Is white the new blonde?_
 
 Afro (m/f)  ![](hair/m/black/afro.png) ![](hair/f/black/afro.png)
 
@@ -591,30 +592,295 @@ Half Shaved (f)  ![](hair/f/black/halfshaved.png)
   <br>
 
 
+Heart (f)  ![](hair/f/black/heart.png)
 
-Heart (f)  ![](hair/f/heart.png)
+  ![](hair/f/brown/heart.png)
+  ![](hair/f/darkred/heart.png)
+  ![](hair/f/orange/heart.png)
+  ![](hair/f/red/heart.png)
+  ![](hair/f/pink/heart.png)
+  ![](hair/f/purple/heart.png)
+  ![](hair/f/blue/heart.png)
+  ![](hair/f/periwinkle/heart.png)
+  ![](hair/f/lightblue/heart.png)
+  ![](hair/f/lightgreen/heart.png)
+  ![](hair/f/green/heart.png)
+  ![](hair/f/teal/heart.png)
+  ![](hair/f/blonde/heart.png)
+  ![](hair/f/silver/heart.png)
+  ![](hair/f/white/heart.png)
+  <br>
 
-Long (m)  ![](hair/m/long.png)
 
-Long Curly (f)  ![](hair/f/longcurly.png)
+Long (m)  ![](hair/m/black/long.png)
 
-Messy (m/f)  ![](hair/m/messy.png) ![](hair/f/messy.png)
+  ![](hair/m/brown/long.png)
+  ![](hair/m/darkred/long.png)
+  ![](hair/m/orange/long.png)
+  ![](hair/m/red/long.png)
+  ![](hair/m/pink/long.png)
+  ![](hair/m/purple/long.png)
+  ![](hair/m/blue/long.png)
+  ![](hair/m/periwinkle/long.png)
+  ![](hair/m/lightblue/long.png)
+  ![](hair/m/lightgreen/long.png)
+  ![](hair/m/green/long.png)
+  ![](hair/m/teal/long.png)
+  ![](hair/m/blonde/long.png)
+  ![](hair/m/silver/long.png)
+  ![](hair/m/white/long.png)
+  <br>
 
-Mohawk (m/f)  ![](hair/m/mohawk.png)  ![](hair/f/mohawk.png)
 
-Peak Spike (m)  ![](hair/m/peakspike.png)
+Long Curly (f)  ![](hair/f/black/longcurly.png)
 
-Pigtails (f)  ![](hair/f/pigtails.png)
+  ![](hair/f/brown/longcurly.png)
+  ![](hair/f/darkred/longcurly.png)
+  ![](hair/f/orange/longcurly.png)
+  ![](hair/f/red/longcurly.png)
+  ![](hair/f/pink/longcurly.png)
+  ![](hair/f/purple/longcurly.png)
+  ![](hair/f/blue/longcurly.png)
+  ![](hair/f/periwinkle/longcurly.png)
+  ![](hair/f/lightblue/longcurly.png)
+  ![](hair/f/lightgreen/longcurly.png)
+  ![](hair/f/green/longcurly.png)
+  ![](hair/f/teal/longcurly.png)
+  ![](hair/f/blonde/longcurly.png)
+  ![](hair/f/silver/longcurly.png)
+  ![](hair/f/white/longcurly.png)
+  <br>
 
-Pixie (f) ![](hair/f/pixie.png)
 
-Short (m/f) ![](hair/m/short.png) ![](hair/f/short.png)
+Messy (m/f)  ![](hair/m/black/messy.png) ![](hair/f/black/messy.png)
 
-Side (f)  ![](hair/f/side.png)
+  ![](hair/m/brown/messy.png)
+  ![](hair/m/darkred/messy.png)
+  ![](hair/m/orange/messy.png)
+  ![](hair/m/red/messy.png)
+  ![](hair/m/pink/messy.png)
+  ![](hair/m/purple/messy.png)
+  ![](hair/m/blue/messy.png)
+  ![](hair/m/periwinkle/messy.png)
+  ![](hair/m/lightblue/messy.png)
+  ![](hair/m/lightgreen/messy.png)
+  ![](hair/m/green/messy.png)
+  ![](hair/m/teal/messy.png)
+  ![](hair/m/blonde/messy.png)
+  ![](hair/m/silver/messy.png)
+  ![](hair/m/white/messy.png)
+  <br>
+  ![](hair/f/brown/messy.png)
+  ![](hair/f/darkred/messy.png)
+  ![](hair/f/orange/messy.png)
+  ![](hair/f/red/messy.png)
+  ![](hair/f/pink/messy.png)
+  ![](hair/f/purple/messy.png)
+  ![](hair/f/blue/messy.png)
+  ![](hair/f/periwinkle/messy.png)
+  ![](hair/f/lightblue/messy.png)
+  ![](hair/f/lightgreen/messy.png)
+  ![](hair/f/green/messy.png)
+  ![](hair/f/teal/messy.png)
+  ![](hair/f/blonde/messy.png)
+  ![](hair/f/silver/messy.png)
+  ![](hair/f/white/messy.png)
+  <br>
 
-Straight 1 (f)  ![](hair/f/straight1.png)
 
-Straight 2 (f)  ![](hair/f/straight2.png)
+Mohawk (m/f)  ![](hair/m/black/mohawk.png) ![](hair/f/black/mohawk.png)
+
+  ![](hair/m/brown/mohawk.png)
+  ![](hair/m/darkred/mohawk.png)
+  ![](hair/m/orange/mohawk.png)
+  ![](hair/m/red/mohawk.png)
+  ![](hair/m/pink/mohawk.png)
+  ![](hair/m/purple/mohawk.png)
+  ![](hair/m/blue/mohawk.png)
+  ![](hair/m/periwinkle/mohawk.png)
+  ![](hair/m/lightblue/mohawk.png)
+  ![](hair/m/lightgreen/mohawk.png)
+  ![](hair/m/green/mohawk.png)
+  ![](hair/m/teal/mohawk.png)
+  ![](hair/m/blonde/mohawk.png)
+  ![](hair/m/silver/mohawk.png)
+  ![](hair/m/white/mohawk.png)
+  <br>
+  ![](hair/f/brown/mohawk.png)
+  ![](hair/f/darkred/mohawk.png)
+  ![](hair/f/orange/mohawk.png)
+  ![](hair/f/red/mohawk.png)
+  ![](hair/f/pink/mohawk.png)
+  ![](hair/f/purple/mohawk.png)
+  ![](hair/f/blue/mohawk.png)
+  ![](hair/f/periwinkle/mohawk.png)
+  ![](hair/f/lightblue/mohawk.png)
+  ![](hair/f/lightgreen/mohawk.png)
+  ![](hair/f/green/mohawk.png)
+  ![](hair/f/teal/mohawk.png)
+  ![](hair/f/blonde/mohawk.png)
+  ![](hair/f/silver/mohawk.png)
+  ![](hair/f/white/mohawk.png)
+  <br>
+
+
+Peak Spike (m)  ![](hair/m/black/peakspike.png)
+
+  ![](hair/m/brown/peakspike.png)
+  ![](hair/m/darkred/peakspike.png)
+  ![](hair/m/orange/peakspike.png)
+  ![](hair/m/red/peakspike.png)
+  ![](hair/m/pink/peakspike.png)
+  ![](hair/m/purple/peakspike.png)
+  ![](hair/m/blue/peakspike.png)
+  ![](hair/m/periwinkle/peakspike.png)
+  ![](hair/m/lightblue/peakspike.png)
+  ![](hair/m/lightgreen/peakspike.png)
+  ![](hair/m/green/peakspike.png)
+  ![](hair/m/teal/peakspike.png)
+  ![](hair/m/blonde/peakspike.png)
+  ![](hair/m/silver/peakspike.png)
+  ![](hair/m/white/peakspike.png)
+  <br>
+
+
+Pigtails (f)  ![](hair/f/black/pigtails.png)
+
+  ![](hair/f/brown/pigtails.png)
+  ![](hair/f/darkred/pigtails.png)
+  ![](hair/f/orange/pigtails.png)
+  ![](hair/f/red/pigtails.png)
+  ![](hair/f/pink/pigtails.png)
+  ![](hair/f/purple/pigtails.png)
+  ![](hair/f/blue/pigtails.png)
+  ![](hair/f/periwinkle/pigtails.png)
+  ![](hair/f/lightblue/pigtails.png)
+  ![](hair/f/lightgreen/pigtails.png)
+  ![](hair/f/green/pigtails.png)
+  ![](hair/f/teal/pigtails.png)
+  ![](hair/f/blonde/pigtails.png)
+  ![](hair/f/silver/pigtails.png)
+  ![](hair/f/white/pigtails.png)
+  <br>
+
+
+Pixie (f)  ![](hair/f/black/pixie.png)
+
+  ![](hair/f/brown/pixie.png)
+  ![](hair/f/darkred/pixie.png)
+  ![](hair/f/orange/pixie.png)
+  ![](hair/f/red/pixie.png)
+  ![](hair/f/pink/pixie.png)
+  ![](hair/f/purple/pixie.png)
+  ![](hair/f/blue/pixie.png)
+  ![](hair/f/periwinkle/pixie.png)
+  ![](hair/f/lightblue/pixie.png)
+  ![](hair/f/lightgreen/pixie.png)
+  ![](hair/f/green/pixie.png)
+  ![](hair/f/teal/pixie.png)
+  ![](hair/f/blonde/pixie.png)
+  ![](hair/f/silver/pixie.png)
+  ![](hair/f/white/pixie.png)
+  <br>
+
+
+Short (m/f)  ![](hair/m/black/short.png) ![](hair/f/black/short.png)
+
+  ![](hair/m/brown/short.png)
+  ![](hair/m/darkred/short.png)
+  ![](hair/m/orange/short.png)
+  ![](hair/m/red/short.png)
+  ![](hair/m/pink/short.png)
+  ![](hair/m/purple/short.png)
+  ![](hair/m/blue/short.png)
+  ![](hair/m/periwinkle/short.png)
+  ![](hair/m/lightblue/short.png)
+  ![](hair/m/lightgreen/short.png)
+  ![](hair/m/green/short.png)
+  ![](hair/m/teal/short.png)
+  ![](hair/m/blonde/short.png)
+  ![](hair/m/silver/short.png)
+  ![](hair/m/white/short.png)
+  <br>
+  ![](hair/f/brown/short.png)
+  ![](hair/f/darkred/short.png)
+  ![](hair/f/orange/short.png)
+  ![](hair/f/red/short.png)
+  ![](hair/f/pink/short.png)
+  ![](hair/f/purple/short.png)
+  ![](hair/f/blue/short.png)
+  ![](hair/f/periwinkle/short.png)
+  ![](hair/f/lightblue/short.png)
+  ![](hair/f/lightgreen/short.png)
+  ![](hair/f/green/short.png)
+  ![](hair/f/teal/short.png)
+  ![](hair/f/blonde/short.png)
+  ![](hair/f/silver/short.png)
+  ![](hair/f/white/short.png)
+  <br>
+
+
+Side (f)  ![](hair/f/black/side.png)
+
+  ![](hair/f/brown/side.png)
+  ![](hair/f/darkred/side.png)
+  ![](hair/f/orange/side.png)
+  ![](hair/f/red/side.png)
+  ![](hair/f/pink/side.png)
+  ![](hair/f/purple/side.png)
+  ![](hair/f/blue/side.png)
+  ![](hair/f/periwinkle/side.png)
+  ![](hair/f/lightblue/side.png)
+  ![](hair/f/lightgreen/side.png)
+  ![](hair/f/green/side.png)
+  ![](hair/f/teal/side.png)
+  ![](hair/f/blonde/side.png)
+  ![](hair/f/silver/side.png)
+  ![](hair/f/white/side.png)
+  <br>
+
+
+Straight 1 (f)  ![](hair/f/black/straight1.png)
+
+  ![](hair/f/brown/straight1.png)
+  ![](hair/f/darkred/straight1.png)
+  ![](hair/f/orange/straight1.png)
+  ![](hair/f/red/straight1.png)
+  ![](hair/f/pink/straight1.png)
+  ![](hair/f/purple/straight1.png)
+  ![](hair/f/blue/straight1.png)
+  ![](hair/f/periwinkle/straight1.png)
+  ![](hair/f/lightblue/straight1.png)
+  ![](hair/f/lightgreen/straight1.png)
+  ![](hair/f/green/straight1.png)
+  ![](hair/f/teal/straight1.png)
+  ![](hair/f/blonde/straight1.png)
+  ![](hair/f/silver/straight1.png)
+  ![](hair/f/white/straight1.png)
+  <br>
+
+
+Straight 2 (f)  ![](hair/f/black/straight2.png)
+
+  ![](hair/f/brown/straight2.png)
+  ![](hair/f/darkred/straight2.png)
+  ![](hair/f/orange/straight2.png)
+  ![](hair/f/red/straight2.png)
+  ![](hair/f/pink/straight2.png)
+  ![](hair/f/purple/straight2.png)
+  ![](hair/f/blue/straight2.png)
+  ![](hair/f/periwinkle/straight2.png)
+  ![](hair/f/lightblue/straight2.png)
+  ![](hair/f/lightgreen/straight2.png)
+  ![](hair/f/green/straight2.png)
+  ![](hair/f/teal/straight2.png)
+  ![](hair/f/blonde/straight2.png)
+  ![](hair/f/silver/straight2.png)
+  ![](hair/f/white/straight2.png)
+  <br>
+
+
+
 
 Stringy (m/f) ![](hair/m/stringy.png) ![](hair/f/stringy.png)
 
