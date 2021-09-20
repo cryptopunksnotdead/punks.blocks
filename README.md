@@ -234,7 +234,7 @@ Bororo (m/f)  ![](intl/m/bororo.png) ![](intl/f/bororo.png),
 Chichak Helmet (m/f)  ![](intl/m/chichakhelmet.png) ![](intl/f/chichakhelmet.png),
 Chinese Landlords Hat (m/f)  ![](intl/m/chineselandlordshat.png) ![](intl/f/chineselandlordshat.png),
 Chullo (m/f)  ![](intl/m/chullo.png) ![](intl/f/chullo.png),
-Fedora¹ (m/f)  ![](intl/m/fedora2.png) ![](intl/f/fedora2.png),
+Fedora¹ (m/f)  ![](intl/m/fedora.png) ![](intl/f/fedora.png),
 Fez (m/f)  ![](intl/m/fez.png) ![](intl/f/fez.png),
 Fisherman Cap (m/f)  ![](intl/m/fishermancap.png) ![](intl/f/fishermancap.png),
 Flamenco Hat (m/f)  ![](intl/m/flamencohat.png) ![](intl/f/flamencohat.png),
@@ -254,7 +254,7 @@ Royal Cocktail Hat (f)  ![](intl/f/royalcocktailhat.png),
 Sibenik (m/f)  ![](intl/m/sibenik.png) ![](intl/f/sibenik.png),
 Sombrero (m/f)  ![](intl/m/sombrero.png) ![](intl/f/sombrero.png),
 Tam-O-Shanter (m/f)  ![](intl/m/tamoshanter.png) ![](intl/f/tamoshanter.png),
-Top Hat¹ (m/f)  ![](intl/m/tophat2.png) ![](intl/f/tophat2.png),
+Top Hat¹ (m/f)  ![](intl/m/tophat.png) ![](intl/f/tophat.png),
 Trapper Hat (m/f)  ![](intl/m/trapperhat.png) ![](intl/f/trapperhat.png),
 Tuque (m/f)  ![](intl/m/tuque.png) ![](intl/f/tuque.png),
 Turban (m/f)  ![](intl/m/turban.png) ![](intl/f/turban.png),
@@ -286,7 +286,7 @@ Attributes (by category and a-z):
   Frog Hood (m/f) ![](more/m/froghood.png) ![](more/f/froghood.png),
   Jester Hat (m/f) ![](more/m/jesterhat.png) ![](more/f/jesterhat.png),
   Santa Hat (m/f) ![](more/m/santahat.png) ![](more/f/santahat.png),
-  Sombrero¹ (m/f) ![](more/m/sombrero2.png) ![](more/f/sombrero2.png),
+  Sombrero¹ (m/f) ![](more/m/sombrero.png) ![](more/f/sombrero.png),
   Sun Hat (m/f) ![](more/m/sunhat.png) ![](more/f/sunhat.png),
   Superhero Tiara (f) ![](more/f/superherotiara.png)
   Viking Helmet (m/f) ![](more/m/vikinghelmet.png) ![](more/f/vikinghelmet.png),
@@ -328,6 +328,9 @@ Clown (m/f)  ![](hair/m/clown.png) ![](hair/f/clown.png)
 
 Crazy  (m/f)  ![](hair/m/crazy.png) ![](hair/f/crazy.png)
 
+Faux Hawk (m/f)  ![](hair/m/fauxhawk.png)
+
+
 Frumpy (m/f)   ![](hair/m/frumpy.png) ![](hair/f/frumpy.png)
 
 Half Shaved (f)  ![](hair/f/halfshaved.png)
@@ -348,15 +351,17 @@ Pigtails (f)  ![](hair/f/pigtails.png)
 
 Pixie (f) ![](hair/f/pixie.png)
 
-Short (f) ![](hair/f/short.png)
+Short (m/f) ![](hair/m/short.png) ![](hair/f/short.png)
 
 Side (f)  ![](hair/f/side.png)
 
-Straight (f)  ![](hair/f/straight.png)
+Straight 1 (f)  ![](hair/f/straight1.png)
+
+Straight 2 (f)  ![](hair/f/straight2.png)
 
 Stringy (m/f) ![](hair/m/stringy.png) ![](hair/f/stringy.png)
 
-Vampire (m)  ![](hair/m/vampire.png)
+Widow's Peak (m)  [](hair/m/widowspeak.png)
 
 Wild 1 (m/f)  ![](hair/m/wild1.png) ![](hair/f/wild1.png)  <!-- was Wild Blonde in basic -->
 
@@ -380,6 +385,26 @@ Style 3 (f)  ![](hair/f/style3.png)  <!-- was Dark Hair in basic -->
                   and NOT get recolored
                   e.g. recheck in vampire? and others?
 -->
+
+
+## Rainbow Series (24×24)
+
+Rainbow Hair (m/f)
+![](rainbow/m/rainbow-hair.png)
+![](rainbow/f/rainbow-hair.png)
+
+
+
+## Wall Street Bets Series (24×24)
+
+_Power to the punks_
+
+Hair  ![](wallstreetbets/wallstreetbets-hair.png) ![](wallstreetbets/wallstreetbets-hair_dark.png),
+Crazy Hair  ![](wallstreetbets/wallstreetbets-crazyhair.png) ![](wallstreetbets/wallstreetbets-crazyhair_dark.png),
+Regular Shades¹  ![](wallstreetbets/wallstreetbets-regularshades.png)
+Big Shades   ![](wallstreetbets/wallstreetbets-bigshades.png)
+
+¹: From the basic series
 
 
 
@@ -580,19 +605,6 @@ Ape ![](normies/normie_ape.png),
 Zombie  ![](normies/normie_zombie.png),
 Demon  ![](normies/normie_demon.png),
 Skeleton  ![](normies/normie_skeleton.png)
-
-
-
-## Wall Street Bets Series (24×24)
-
-_Power to the punks_
-
-Hair  ![](wallstreetbets/wallstreetbets-hair.png) ![](wallstreetbets/wallstreetbets-hair_dark.png),
-Crazy Hair  ![](wallstreetbets/wallstreetbets-crazyhair.png) ![](wallstreetbets/wallstreetbets-crazyhair_dark.png),
-Regular Shades¹  ![](wallstreetbets/wallstreetbets-regularshades.png)
-Big Shades   ![](wallstreetbets/wallstreetbets-bigshades.png)
-
-¹: From the basic series
 
 
 
