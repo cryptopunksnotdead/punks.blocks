@@ -316,6 +316,81 @@ Attributes (by category and a-z):
 
 _Is orange the new black?_
 
+Afro (m/f)  ![](hair/m/black/afro.png) ![](hair/f/black/afro.png)
+
+  ![](hair/m/brown/afro.png)
+  ![](hair/m/darkred/afro.png)
+  ![](hair/m/orange/afro.png)
+  ![](hair/m/red/afro.png)
+  ![](hair/m/pink/afro.png)
+  ![](hair/m/purple/afro.png)
+  ![](hair/m/blue/afro.png)
+  ![](hair/m/periwinkle/afro.png)
+  ![](hair/m/lightblue/afro.png)
+  ![](hair/m/lightgreen/afro.png)
+  ![](hair/m/green/afro.png)
+  ![](hair/m/teal/afro.png)
+  ![](hair/m/blonde/afro.png)
+  ![](hair/m/silver/afro.png)
+  ![](hair/m/white/afro.png)
+  <br>
+  ![](hair/f/brown/afro.png)
+  ![](hair/f/darkred/afro.png)
+  ![](hair/f/orange/afro.png)
+  ![](hair/f/red/afro.png)
+  ![](hair/f/pink/afro.png)
+  ![](hair/f/purple/afro.png)
+  ![](hair/f/blue/afro.png)
+  ![](hair/f/periwinkle/afro.png)
+  ![](hair/f/lightblue/afro.png)
+  ![](hair/f/lightgreen/afro.png)
+  ![](hair/f/green/afro.png)
+  ![](hair/f/teal/afro.png)
+  ![](hair/f/blonde/afro.png)
+  ![](hair/f/silver/afro.png)
+  ![](hair/f/white/afro.png)
+  <br>
+
+
+Big (m/f)  ![](hair/m/black/big.png) ![](hair/f/black/big.png)
+
+  ![](hair/m/brown/big.png)
+  ![](hair/m/darkred/big.png)
+  ![](hair/m/orange/big.png)
+  ![](hair/m/red/big.png)
+  ![](hair/m/pink/big.png)
+  ![](hair/m/purple/big.png)
+  ![](hair/m/blue/big.png)
+  ![](hair/m/periwinkle/big.png)
+  ![](hair/m/lightblue/big.png)
+  ![](hair/m/lightgreen/big.png)
+  ![](hair/m/green/big.png)
+  ![](hair/m/teal/big.png)
+  ![](hair/m/blonde/big.png)
+  ![](hair/m/silver/big.png)
+  ![](hair/m/white/big.png)
+  <br>
+  ![](hair/f/brown/big.png)
+  ![](hair/f/darkred/big.png)
+  ![](hair/f/orange/big.png)
+  ![](hair/f/red/big.png)
+  ![](hair/f/pink/big.png)
+  ![](hair/f/purple/big.png)
+  ![](hair/f/blue/big.png)
+  ![](hair/f/periwinkle/big.png)
+  ![](hair/f/lightblue/big.png)
+  ![](hair/f/lightgreen/big.png)
+  ![](hair/f/green/big.png)
+  ![](hair/f/teal/big.png)
+  ![](hair/f/blonde/big.png)
+  ![](hair/f/silver/big.png)
+  ![](hair/f/white/big.png)
+  <br>
+
+
+
+
+
 Afro (m/f)  ![](hair/m/afro.png) ![](hair/f/afro.png)
 
 Big (m/f)   ![](hair/m/big.png) ![](hair/f/big.png)
