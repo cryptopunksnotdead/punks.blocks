@@ -1,3 +1,9 @@
+Note: See [**/punks.spritesheet**](https://github.com/cryptopunksnotdead/punks.spritesheet) - 
+The Unicode-Like Universal Code Page for All Punk Archetypes & Attributes - if you are looking for a free to download single all-in-one sprite sheet (image).
+
+---
+
+
 # Punk Building Block Series
 
 
