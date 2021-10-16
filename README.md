@@ -1,4 +1,4 @@
-Note: See [**/punks.spritesheet**](https://github.com/cryptopunksnotdead/punks.spritesheet) - 
+Note: See [**/punks.spritesheet**](https://github.com/cryptopunksnotdead/punks.spritesheet) -
 The Unicode-Like Universal Code Page for All Punk Archetypes & Attributes - if you are looking for a free to download single all-in-one sprite sheet (image).
 
 ---
@@ -1182,24 +1182,46 @@ Alien Apes (Male)
 
 
 
+
 ## All Caps Series (24×24)
 
 _(Baseball) caps in more colors (by degree on the HSL color wheel)_
 
-Caps in red (0°), orange (30°),
-yellow green (90°),
-green (120°),
+Caps in red (0°), orange (30°), yellow (60°),
+yellow green (90°), green (120°),
+cyan green (°150), cyan (°180),
+cyan blue (°210),
 blue (240°),
-magenta (300°),
-red magenta (330°).
+violet (°270),
+magenta (°300) and red magenta (°330).
 
-![](all-caps/cap_0.png)
-![](all-caps/cap_30.png)
-![](all-caps/cap_90.png)
-![](all-caps/cap_120.png)
-![](all-caps/cap_240.png)
-![](all-caps/cap_300.png)
-![](all-caps/cap_330.png)
+
+![](all-caps/m/cap_0.png)
+![](all-caps/m/cap_30.png)
+![](all-caps/m/cap_60.png)
+![](all-caps/m/cap_90.png)
+![](all-caps/m/cap_120.png)
+![](all-caps/m/cap_150.png)
+![](all-caps/m/cap_180.png)
+![](all-caps/m/cap_210.png)
+![](all-caps/m/cap_240.png)
+![](all-caps/m/cap_270.png)
+![](all-caps/m/cap_300.png)
+![](all-caps/m/cap_330.png)
+
+![](all-caps/f/cap_0.png)
+![](all-caps/f/cap_30.png)
+![](all-caps/f/cap_60.png)
+![](all-caps/f/cap_90.png)
+![](all-caps/f/cap_120.png)
+![](all-caps/f/cap_150.png)
+![](all-caps/f/cap_180.png)
+![](all-caps/f/cap_210.png)
+![](all-caps/f/cap_240.png)
+![](all-caps/f/cap_270.png)
+![](all-caps/f/cap_300.png)
+![](all-caps/f/cap_330.png)
+
 
 
 
