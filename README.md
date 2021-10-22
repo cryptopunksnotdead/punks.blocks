@@ -225,6 +225,10 @@ Attributes (by category and a-z):
 
 
 
+
+
+
+
 ## Int'l Headwear Series (24×24)
 
 _New international headwear from around the world_
@@ -357,7 +361,6 @@ Afro (m/f)  ![](hair/m/black/afro.png) ![](hair/f/black/afro.png)
   ![](hair/f/blonde/afro.png)
   ![](hair/f/silver/afro.png)
   ![](hair/f/white/afro.png)
-  <br>
 
 
 Big (m/f)  ![](hair/m/black/big.png) ![](hair/f/black/big.png)
@@ -393,7 +396,7 @@ Big (m/f)  ![](hair/m/black/big.png) ![](hair/f/black/big.png)
   ![](hair/f/blonde/big.png)
   ![](hair/f/silver/big.png)
   ![](hair/f/white/big.png)
-  <br>
+
 
 Bob (f)  ![](hair/f/black/bob.png)
 
@@ -412,7 +415,6 @@ Bob (f)  ![](hair/f/black/bob.png)
   ![](hair/f/blonde/bob.png)
   ![](hair/f/silver/bob.png)
   ![](hair/f/white/bob.png)
-  <br>
 
 
 Buzz Cut (m/f)  ![](hair/m/black/buzzcut.png) ![](hair/f/black/buzzcut.png)
@@ -448,7 +450,6 @@ Buzz Cut (m/f)  ![](hair/m/black/buzzcut.png) ![](hair/f/black/buzzcut.png)
   ![](hair/f/blonde/buzzcut.png)
   ![](hair/f/silver/buzzcut.png)
   ![](hair/f/white/buzzcut.png)
-  <br>
 
 
 Clown (m/f)  ![](hair/m/black/clown.png) ![](hair/f/black/clown.png)
@@ -484,7 +485,6 @@ Clown (m/f)  ![](hair/m/black/clown.png) ![](hair/f/black/clown.png)
   ![](hair/f/blonde/clown.png)
   ![](hair/f/silver/clown.png)
   ![](hair/f/white/clown.png)
-  <br>
 
 
 Crazy (m/f)  ![](hair/m/black/crazy.png) ![](hair/f/black/crazy.png)
@@ -520,7 +520,6 @@ Crazy (m/f)  ![](hair/m/black/crazy.png) ![](hair/f/black/crazy.png)
   ![](hair/f/blonde/crazy.png)
   ![](hair/f/silver/crazy.png)
   ![](hair/f/white/crazy.png)
-  <br>
 
 
 Faux Hawk (m)  ![](hair/m/black/fauxhawk.png)
@@ -540,7 +539,6 @@ Faux Hawk (m)  ![](hair/m/black/fauxhawk.png)
   ![](hair/m/blonde/fauxhawk.png)
   ![](hair/m/silver/fauxhawk.png)
   ![](hair/m/white/fauxhawk.png)
-  <br>
 
 
 Frumpy (m/f)  ![](hair/m/black/frumpy.png) ![](hair/f/black/frumpy.png)
@@ -576,7 +574,6 @@ Frumpy (m/f)  ![](hair/m/black/frumpy.png) ![](hair/f/black/frumpy.png)
   ![](hair/f/blonde/frumpy.png)
   ![](hair/f/silver/frumpy.png)
   ![](hair/f/white/frumpy.png)
-  <br>
 
 
 Half Shaved (f)  ![](hair/f/black/halfshaved.png)
@@ -596,7 +593,6 @@ Half Shaved (f)  ![](hair/f/black/halfshaved.png)
   ![](hair/f/blonde/halfshaved.png)
   ![](hair/f/silver/halfshaved.png)
   ![](hair/f/white/halfshaved.png)
-  <br>
 
 
 Heart (f)  ![](hair/f/black/heart.png)
@@ -616,7 +612,6 @@ Heart (f)  ![](hair/f/black/heart.png)
   ![](hair/f/blonde/heart.png)
   ![](hair/f/silver/heart.png)
   ![](hair/f/white/heart.png)
-  <br>
 
 
 Long (m)  ![](hair/m/black/long.png)
@@ -636,7 +631,6 @@ Long (m)  ![](hair/m/black/long.png)
   ![](hair/m/blonde/long.png)
   ![](hair/m/silver/long.png)
   ![](hair/m/white/long.png)
-  <br>
 
 
 Long Curly (f)  ![](hair/f/black/longcurly.png)
@@ -656,7 +650,6 @@ Long Curly (f)  ![](hair/f/black/longcurly.png)
   ![](hair/f/blonde/longcurly.png)
   ![](hair/f/silver/longcurly.png)
   ![](hair/f/white/longcurly.png)
-  <br>
 
 
 Messy (m/f)  ![](hair/m/black/messy.png) ![](hair/f/black/messy.png)
@@ -692,7 +685,6 @@ Messy (m/f)  ![](hair/m/black/messy.png) ![](hair/f/black/messy.png)
   ![](hair/f/blonde/messy.png)
   ![](hair/f/silver/messy.png)
   ![](hair/f/white/messy.png)
-  <br>
 
 
 Mohawk (m/f)  ![](hair/m/black/mohawk.png) ![](hair/f/black/mohawk.png)
@@ -728,7 +720,6 @@ Mohawk (m/f)  ![](hair/m/black/mohawk.png) ![](hair/f/black/mohawk.png)
   ![](hair/f/blonde/mohawk.png)
   ![](hair/f/silver/mohawk.png)
   ![](hair/f/white/mohawk.png)
-  <br>
 
 
 Peak Spike (m)  ![](hair/m/black/peakspike.png)
@@ -748,7 +739,6 @@ Peak Spike (m)  ![](hair/m/black/peakspike.png)
   ![](hair/m/blonde/peakspike.png)
   ![](hair/m/silver/peakspike.png)
   ![](hair/m/white/peakspike.png)
-  <br>
 
 
 Pigtails (f)  ![](hair/f/black/pigtails.png)
@@ -768,7 +758,6 @@ Pigtails (f)  ![](hair/f/black/pigtails.png)
   ![](hair/f/blonde/pigtails.png)
   ![](hair/f/silver/pigtails.png)
   ![](hair/f/white/pigtails.png)
-  <br>
 
 
 Pixie (f)  ![](hair/f/black/pixie.png)
@@ -788,7 +777,6 @@ Pixie (f)  ![](hair/f/black/pixie.png)
   ![](hair/f/blonde/pixie.png)
   ![](hair/f/silver/pixie.png)
   ![](hair/f/white/pixie.png)
-  <br>
 
 
 Short (m/f)  ![](hair/m/black/short.png) ![](hair/f/black/short.png)
@@ -824,7 +812,6 @@ Short (m/f)  ![](hair/m/black/short.png) ![](hair/f/black/short.png)
   ![](hair/f/blonde/short.png)
   ![](hair/f/silver/short.png)
   ![](hair/f/white/short.png)
-  <br>
 
 
 Side (f)  ![](hair/f/black/side.png)
@@ -844,7 +831,6 @@ Side (f)  ![](hair/f/black/side.png)
   ![](hair/f/blonde/side.png)
   ![](hair/f/silver/side.png)
   ![](hair/f/white/side.png)
-  <br>
 
 
 Straight 1 (f)  ![](hair/f/black/straight1.png)
@@ -864,7 +850,6 @@ Straight 1 (f)  ![](hair/f/black/straight1.png)
   ![](hair/f/blonde/straight1.png)
   ![](hair/f/silver/straight1.png)
   ![](hair/f/white/straight1.png)
-  <br>
 
 
 Straight 2 (f)  ![](hair/f/black/straight2.png)
@@ -884,7 +869,6 @@ Straight 2 (f)  ![](hair/f/black/straight2.png)
   ![](hair/f/blonde/straight2.png)
   ![](hair/f/silver/straight2.png)
   ![](hair/f/white/straight2.png)
-  <br>
 
 
 Stringy (m/f)  ![](hair/m/black/stringy.png) ![](hair/f/black/stringy.png)
@@ -920,7 +904,6 @@ Stringy (m/f)  ![](hair/m/black/stringy.png) ![](hair/f/black/stringy.png)
   ![](hair/f/blonde/stringy.png)
   ![](hair/f/silver/stringy.png)
   ![](hair/f/white/stringy.png)
-  <br>
 
 
 Widow's Peak (m)  ![](hair/m/black/widowspeak.png)
@@ -940,7 +923,6 @@ Widow's Peak (m)  ![](hair/m/black/widowspeak.png)
   ![](hair/m/blonde/widowspeak.png)
   ![](hair/m/silver/widowspeak.png)
   ![](hair/m/white/widowspeak.png)
-  <br>
 
 
 Wild 1 (m/f)  ![](hair/m/black/wild1.png) ![](hair/f/black/wild1.png)
@@ -976,7 +958,6 @@ Wild 1 (m/f)  ![](hair/m/black/wild1.png) ![](hair/f/black/wild1.png)
   ![](hair/f/blonde/wild1.png)
   ![](hair/f/silver/wild1.png)
   ![](hair/f/white/wild1.png)
-  <br>
 
 
 Wild 2 (f)  ![](hair/f/black/wild2.png)
@@ -996,7 +977,6 @@ Wild 2 (f)  ![](hair/f/black/wild2.png)
   ![](hair/f/blonde/wild2.png)
   ![](hair/f/silver/wild2.png)
   ![](hair/f/white/wild2.png)
-  <br>
 
 
 Wild 3 (f)  ![](hair/f/black/wild3.png)
@@ -1016,7 +996,6 @@ Wild 3 (f)  ![](hair/f/black/wild3.png)
   ![](hair/f/blonde/wild3.png)
   ![](hair/f/silver/wild3.png)
   ![](hair/f/white/wild3.png)
-  <br>
 
 
 More
@@ -1055,7 +1034,6 @@ Style 1 (m/f)  ![](hair/m/black/style1.png) ![](hair/f/black/style1.png)
   ![](hair/f/blonde/style1.png)
   ![](hair/f/silver/style1.png)
   ![](hair/f/white/style1.png)
-  <br>
 
 
 Style 2 (f)  ![](hair/f/black/style2.png)
@@ -1075,7 +1053,6 @@ Style 2 (f)  ![](hair/f/black/style2.png)
   ![](hair/f/blonde/style2.png)
   ![](hair/f/silver/style2.png)
   ![](hair/f/white/style2.png)
-  <br>
 
 
 Style 3 (f)  ![](hair/f/black/style3.png)
@@ -1095,7 +1072,6 @@ Style 3 (f)  ![](hair/f/black/style3.png)
   ![](hair/f/blonde/style3.png)
   ![](hair/f/silver/style3.png)
   ![](hair/f/white/style3.png)
-  <br>
 
 
 
@@ -1121,6 +1097,54 @@ Big Shades   ![](wallstreetbets/wallstreetbets-bigshades.png)
 
 ¹: From the basic series
 
+
+## Gold(en) Series (24×24)
+
+_Super-rare golden punks in three variants (shiny, metallic, dark)_
+
+![](gold/male_gold_1.png)
+![](gold/zombie-male_gold_1.png)
+![](gold/ape-male_gold_1.png)
+![](gold/alien-male_gold_1.png)
+![](gold/demon-male_gold_1.png)
+![](gold/skeleton-male_gold_1.png)
+
+![](gold/female_gold_1.png)
+![](gold/zombie-female_gold_1.png)
+![](gold/ape-female_gold_1.png)
+![](gold/alien-female_gold_1.png)
+![](gold/demon-female_gold_1.png)
+![](gold/skeleton-female_gold_1.png)
+<br>
+
+![](gold/male_gold_2.png)
+![](gold/zombie-male_gold_2.png)
+![](gold/ape-male_gold_2.png)
+![](gold/alien-male_gold_2.png)
+![](gold/demon-male_gold_2.png)
+![](gold/skeleton-male_gold_2.png)
+
+![](gold/female_gold_2.png)
+![](gold/zombie-female_gold_2.png)
+![](gold/ape-female_gold_2.png)
+![](gold/alien-female_gold_2.png)
+![](gold/demon-female_gold_2.png)
+![](gold/skeleton-female_gold_2.png)
+<br>
+
+![](gold/male_gold_3.png)
+![](gold/zombie-male_gold_3.png)
+![](gold/ape-male_gold_3.png)
+![](gold/alien-male_gold_3.png)
+![](gold/demon-male_gold_3.png)
+![](gold/skeleton-male_gold_3.png)
+
+![](gold/female_gold_3.png)
+![](gold/zombie-female_gold_3.png)
+![](gold/ape-female_gold_3.png)
+![](gold/alien-female_gold_3.png)
+![](gold/demon-female_gold_3.png)
+![](gold/skeleton-female_gold_3.png)
 
 
 
