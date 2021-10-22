@@ -1100,7 +1100,7 @@ Big Shades   ![](wallstreetbets/wallstreetbets-bigshades.png)
 
 ## Gold(en) Series (24×24)
 
-_Super-rare golden punks in three variants (shiny, metallic, dark)_
+_Super-rare gold(en) punks in three variants (shiny, metallic, dark)_
 
 ![](gold/male_gold_1.png)
 ![](gold/zombie-male_gold_1.png)
