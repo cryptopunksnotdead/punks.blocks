@@ -1107,8 +1107,7 @@ _Super-rare golden punks in three variants (shiny, metallic, dark)_
 ![](gold/ape-male_gold_1.png)
 ![](gold/alien-male_gold_1.png)
 ![](gold/demon-male_gold_1.png)
-![](gold/skeleton-male_gold_1.png)
-
+![](gold/skeleton-male_gold_1.png)  /
 ![](gold/female_gold_1.png)
 ![](gold/zombie-female_gold_1.png)
 ![](gold/ape-female_gold_1.png)
@@ -1122,8 +1121,7 @@ _Super-rare golden punks in three variants (shiny, metallic, dark)_
 ![](gold/ape-male_gold_2.png)
 ![](gold/alien-male_gold_2.png)
 ![](gold/demon-male_gold_2.png)
-![](gold/skeleton-male_gold_2.png)
-
+![](gold/skeleton-male_gold_2.png)  /
 ![](gold/female_gold_2.png)
 ![](gold/zombie-female_gold_2.png)
 ![](gold/ape-female_gold_2.png)
@@ -1137,8 +1135,7 @@ _Super-rare golden punks in three variants (shiny, metallic, dark)_
 ![](gold/ape-male_gold_3.png)
 ![](gold/alien-male_gold_3.png)
 ![](gold/demon-male_gold_3.png)
-![](gold/skeleton-male_gold_3.png)
-
+![](gold/skeleton-male_gold_3.png)  /
 ![](gold/female_gold_3.png)
 ![](gold/zombie-female_gold_3.png)
 ![](gold/ape-female_gold_3.png)
