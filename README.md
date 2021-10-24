@@ -304,10 +304,15 @@ Attributes (by category and a-z):
   Winter Hat (m/f) ![](more/m/winterhat.png) ![](more/f/winterhat.png)
 - Eyes -
   Heart Shades (m/f)  ![](more/m/heartshades.png) ![](more/f/heartshades.png),
-  Laser Eyes (m)      ![](more/m/lasereyes.png),
-  Laser Eyes Gold (m) ![](more/m/lasereyesgold.png),
+  Laser Eyes (m/f)      ![](more/m/lasereyes.png) ![](more/f/lasereyes.png),
+  Laser Eyes Gold (m/f) ![](more/m/lasereyesgold.png) ![](more/f/lasereyesgold.png),
   Ski Googles (m/f)   ![](more/m/skigoogles.png) ![](more/f/skigoogles.png),
   Tears (m/f)         ![](more/m/tears.png) ![](more/f/tears.png)
+- Eyes (Makeup) -
+  Clown Eyes Purple (m/f)  ![](more/m/clowneyes_purple.png) ![](more/f/clowneyes_purple.png)
+- Nose -
+  Clown Nose Blue (m/f) ![](more/m/clownnose_blue.png) ![](more/f/clownnose_blue.png),
+  Clown Nose Green (m/f) ![](more/m/clownnose_green.png) ![](more/f/clownnose_green.png)
 - Ears -
   Silver Earring (m/f) ![](more/m/silverearring.png) ![](more/f/silverearring.png)
 - Mouth (Makeup) -
