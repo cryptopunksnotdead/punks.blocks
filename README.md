@@ -314,6 +314,7 @@ Attributes (by category and a-z):
   Pink Lipstick (f) ![](more/f/pinklipstick.png),
   Red Lipstick (f) ![](more/f/redlipstick.png)
 - Mouth Prop -
+  Bubble Gum (m/f) ![](more/m/bubblegum.png) ![](more/f/bubblegum.png),
   Cigar (m/f) ![](more/m/cigar.png) ![](more/f/cigar.png)
 - Neck Accessory -
   Gold Diamond Necklace (m/f) ![](more/m/golddiamondnecklace.png)  ![](more/f/golddiamondnecklace.png)
@@ -1269,9 +1270,11 @@ Vampire (male / female) ![](more/vampire-male.png) ![](more/vampire-female.png),
 Orc (male / female) ![](more/orc-male.png) ![](more/orc-female.png),
 Skeleton (male / female) ![](more/skeleton-male.png) ![](more/skeleton-female.png),
 Mummy (male / female) ![](more/mummy-male.png) ![](more/mummy-female.png),
-Robot (male / female) ![](more/robot-male.png) ![](more/robot-female.png)
-
-
+Robot (male / female) ![](more/robot-male.png) ![](more/robot-female.png),
+Joker (male / female)  ![](more/joker-male.png) ![](more/joker-female.png),
+Jack-O-Lantern (male / female) ![](more/jack-o-lantern-male.png) ![](more/jack-o-lantern-female.png),
+Scream (male / female) ![](more/scream-male.png) ![](more/scream-female.png),
+Frankenstein (male / female) ![](more/frankenstein-male.png) ![](more/frankenstein-female.png)
 
 
 
