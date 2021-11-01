@@ -226,54 +226,37 @@ Attributes (by category and a-z):
 
 
 
+## Unisize Punk(ette) Series (24×24)
+
+_"Upsized" female archetypes to the same size / dimensions (with same eyes/nose/mouth/ear positions) as male archetypes_
+
+Humans (f)
+![](unisize/human-female_lighter.png)
+![](unisize/human-female_light.png)
+![](unisize/human-female_dark.png)
+![](unisize/human-female_darker.png),
+Zombies (f)
+![](unisize/zombie-female.png),
+Apes (f),
+![](unisize/ape-female.png),
+Aliens (f)
+![](unisize/alien-female.png).
 
 
+Attributes¹ (by category and a-z):
+- Hair -
+  Blonde Bob (f)
+  ![](unisize/f/blondebob.png),
+  Crazy Hair (f)
+  ![](unisize/f/crazyhair.png),
+  Wild Hair (f)
+  ![](unisize/f/wildhair.png)
+- Eyes (Makeup) -
+  Green Eye Shadow (f)
+  ![](unisize/f/greeneyeshadow.png)
 
-## Int'l Headwear Series (24×24)
+¹: "Upsized" (female only) from the basic series
 
-_New international headwear from around the world_
-
-Australian Cork Hat (m/f) ![](intl/m/australiancorkhat.png) ![](intl/f/australiancorkhat.png),
-Ayam (m/f)  ![](intl/m/ayam.png) ![](intl/f/ayam.png),
-Bamboo Hat (m/f)  ![](intl/m/bamboohat.png) ![](intl/f/bamboohat.png),
-Baseball Cap (m/f) ![](intl/m/baseballcap.png) ![](intl/f/baseballcap.png),
-Bear Skin (m/f)  ![](intl/m/bearskin.png) ![](intl/f/bearskin.png),
-Beer Bong (m/f) ![](intl/m/beerbong.png) ![](intl/f/beerbong.png),
-Beret (m/f)  ![](intl/m/beret.png) ![](intl/f/beret.png),
-Boater (m/f)  ![](intl/m/boater.png) ![](intl/f/boater.png),
-Bororo (m/f)  ![](intl/m/bororo.png) ![](intl/f/bororo.png),
-Chichak Helmet (m/f)  ![](intl/m/chichakhelmet.png) ![](intl/f/chichakhelmet.png),
-Chinese Landlords Hat (m/f)  ![](intl/m/chineselandlordshat.png) ![](intl/f/chineselandlordshat.png),
-Chullo (m/f)  ![](intl/m/chullo.png) ![](intl/f/chullo.png),
-Fedora¹ (m/f)  ![](intl/m/fedora.png) ![](intl/f/fedora.png),
-Fez (m/f)  ![](intl/m/fez.png) ![](intl/f/fez.png),
-Fisherman Cap (m/f)  ![](intl/m/fishermancap.png) ![](intl/f/fishermancap.png),
-Flamenco Hat (m/f)  ![](intl/m/flamencohat.png) ![](intl/f/flamencohat.png),
-Flower Crown (m/f)   ![](intl/m/flowercrown.png) ![](intl/f/flowercrown.png),
-Gat (m/f)  ![](intl/m/gat.png) ![](intl/f/gat.png),
-Gaucho (m/f)  ![](intl/m/gaucho.png) ![](intl/f/gaucho.png),
-Hennin (m/f)  ![](intl/m/hennin.png) ![](intl/f/hennin.png),
-Isicholo (m/f)  ![](intl/m/isicholo.png) ![](intl/f/isicholo.png),
-Jaapi (m/f)  ![](intl/m/jaapi.png) ![](intl/f/jaapi.png),
-Keffiyeh (m/f)  ![](intl/m/keffiyeh.png) ![](intl/f/keffiyeh.png),
-Krakowiak (m/f)  ![](intl/m/krakowiak.png) ![](intl/f/krakowiak.png),
-Misango Cap (m/f)  ![](intl/m/misangocap.png) ![](intl/f/misangocap.png),
-Newsboy Cap (m)  ![](intl/m/newsboycap.png),
-Panama Hat (m/f)  ![](intl/m/panamahat.png) ![](intl/f/panamahat.png),
-Rasta (m/f)  ![](intl/m/rasta.png) ![](intl/f/rasta.png),
-Royal Cocktail Hat (f)  ![](intl/f/royalcocktailhat.png),
-Sibenik (m/f)  ![](intl/m/sibenik.png) ![](intl/f/sibenik.png),
-Sombrero (m/f)  ![](intl/m/sombrero.png) ![](intl/f/sombrero.png),
-Tam-O-Shanter (m/f)  ![](intl/m/tamoshanter.png) ![](intl/f/tamoshanter.png),
-Top Hat¹ (m/f)  ![](intl/m/tophat.png) ![](intl/f/tophat.png),
-Trapper Hat (m/f)  ![](intl/m/trapperhat.png) ![](intl/f/trapperhat.png),
-Tuque (m/f)  ![](intl/m/tuque.png) ![](intl/f/tuque.png),
-Turban (m/f)  ![](intl/m/turban.png) ![](intl/f/turban.png),
-Tyrolean (m/f)  ![](intl/m/tyrolean.png) ![](intl/f/tyrolean.png),
-Ushanka (m/f)  ![](intl/m/ushanka.png) ![](intl/f/ushanka.png),
-Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
-
-¹: Alternatives to the basic series
 
 
 
@@ -1097,11 +1080,58 @@ Rainbow Hair (m/f)
 _Power to the punks_
 
 Hair  ![](wallstreetbets/wallstreetbets-hair.png) ![](wallstreetbets/wallstreetbets-hair_dark.png),
-Crazy Hair  ![](wallstreetbets/wallstreetbets-crazyhair.png) ![](wallstreetbets/wallstreetbets-crazyhair_dark.png),
-Regular Shades¹  ![](wallstreetbets/wallstreetbets-regularshades.png)
-Big Shades   ![](wallstreetbets/wallstreetbets-bigshades.png)
+Crazy Hair  ![](wallstreetbets/wallstreetbets-crazyhair.png) ![](wallstreetbets/wallstreetbets-crazyhair_dark.png)
 
-¹: From the basic series
+
+
+
+## Int'l Headwear Series (24×24)
+
+_New international headwear from around the world_
+
+Australian Cork Hat (m/f) ![](intl/m/australiancorkhat.png) ![](intl/f/australiancorkhat.png),
+Ayam (m/f)  ![](intl/m/ayam.png) ![](intl/f/ayam.png),
+Bamboo Hat (m/f)  ![](intl/m/bamboohat.png) ![](intl/f/bamboohat.png),
+Baseball Cap (m/f) ![](intl/m/baseballcap.png) ![](intl/f/baseballcap.png),
+Bear Skin (m/f)  ![](intl/m/bearskin.png) ![](intl/f/bearskin.png),
+Beer Bong (m/f) ![](intl/m/beerbong.png) ![](intl/f/beerbong.png),
+Beret (m/f)  ![](intl/m/beret.png) ![](intl/f/beret.png),
+Boater (m/f)  ![](intl/m/boater.png) ![](intl/f/boater.png),
+Bororo (m/f)  ![](intl/m/bororo.png) ![](intl/f/bororo.png),
+Chichak Helmet (m/f)  ![](intl/m/chichakhelmet.png) ![](intl/f/chichakhelmet.png),
+Chinese Landlords Hat (m/f)  ![](intl/m/chineselandlordshat.png) ![](intl/f/chineselandlordshat.png),
+Chullo (m/f)  ![](intl/m/chullo.png) ![](intl/f/chullo.png),
+Fedora¹ (m/f)  ![](intl/m/fedora.png) ![](intl/f/fedora.png),
+Fez (m/f)  ![](intl/m/fez.png) ![](intl/f/fez.png),
+Fisherman Cap (m/f)  ![](intl/m/fishermancap.png) ![](intl/f/fishermancap.png),
+Flamenco Hat (m/f)  ![](intl/m/flamencohat.png) ![](intl/f/flamencohat.png),
+Flower Crown (m/f)   ![](intl/m/flowercrown.png) ![](intl/f/flowercrown.png),
+Gat (m/f)  ![](intl/m/gat.png) ![](intl/f/gat.png),
+Gaucho (m/f)  ![](intl/m/gaucho.png) ![](intl/f/gaucho.png),
+Hennin (m/f)  ![](intl/m/hennin.png) ![](intl/f/hennin.png),
+Isicholo (m/f)  ![](intl/m/isicholo.png) ![](intl/f/isicholo.png),
+Jaapi (m/f)  ![](intl/m/jaapi.png) ![](intl/f/jaapi.png),
+Keffiyeh (m/f)  ![](intl/m/keffiyeh.png) ![](intl/f/keffiyeh.png),
+Krakowiak (m/f)  ![](intl/m/krakowiak.png) ![](intl/f/krakowiak.png),
+Misango Cap (m/f)  ![](intl/m/misangocap.png) ![](intl/f/misangocap.png),
+Newsboy Cap (m)  ![](intl/m/newsboycap.png),
+Panama Hat (m/f)  ![](intl/m/panamahat.png) ![](intl/f/panamahat.png),
+Rasta (m/f)  ![](intl/m/rasta.png) ![](intl/f/rasta.png),
+Royal Cocktail Hat (f)  ![](intl/f/royalcocktailhat.png),
+Sibenik (m/f)  ![](intl/m/sibenik.png) ![](intl/f/sibenik.png),
+Sombrero (m/f)  ![](intl/m/sombrero.png) ![](intl/f/sombrero.png),
+Tam-O-Shanter (m/f)  ![](intl/m/tamoshanter.png) ![](intl/f/tamoshanter.png),
+Top Hat¹ (m/f)  ![](intl/m/tophat.png) ![](intl/f/tophat.png),
+Trapper Hat (m/f)  ![](intl/m/trapperhat.png) ![](intl/f/trapperhat.png),
+Tuque (m/f)  ![](intl/m/tuque.png) ![](intl/f/tuque.png),
+Turban (m/f)  ![](intl/m/turban.png) ![](intl/f/turban.png),
+Tyrolean (m/f)  ![](intl/m/tyrolean.png) ![](intl/f/tyrolean.png),
+Ushanka (m/f)  ![](intl/m/ushanka.png) ![](intl/f/ushanka.png),
+Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
+
+¹: Alternatives to the basic series
+
+
 
 
 ## Gold(en) Series (24×24)
