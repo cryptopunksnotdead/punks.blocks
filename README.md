@@ -289,12 +289,12 @@ Attributes (by category and a-z):
 - Mouth -
   Mouth (u)
   ![](faceless/u/mouth.png),
-  Mouth -  Darker/Dark/Light (f)
+  Mouth Darker/Dark/Light (f)
   ![](faceless/f/mouth_darker.png)
   ![](faceless/f/mouth_dark.png)
   ![](faceless/f/mouth_light.png)
 - Mouth (Emotion) -
-  Smile - Darker/Dark/Light (f)
+  Smile Darker/Dark/Light (f)
   ![](faceless/f/smile_darker.png)
   ![](faceless/f/smile_dark.png)
   ![](faceless/f/smile_light.png)
