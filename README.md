@@ -259,6 +259,47 @@ Attributes¹ (by category and a-z):
 
 
 
+## Faceless Series (24×24)
+
+_(Unisize) male & female archetypes from scratch / zero. Add your own eyes / nose / mouth_
+
+Humans (m/f)
+![](faceless/human-male_lighter.png)
+![](faceless/human-male_light.png)
+![](faceless/human-male_dark.png)
+![](faceless/human-male_darker.png)
+![](faceless/human-female_lighter.png)
+![](faceless/human-female_light.png)
+![](faceless/human-female_dark.png)
+![](faceless/human-female_darker.png).
+
+Attributes (by category and a-z):
+
+- Eye Brows -
+  Eye Brows (u)
+  ![](faceless/u/eyebrows.png)
+- Eyes -
+  Eyes (u)
+  ![](faceless/u/eyes.png)
+- Nose -
+  Nose (u)
+  ![](faceless/u/nose.png),
+  Nose Small (u)
+  ![](faceless/u/nose_small.png)
+- Mouth -
+  Mouth (u)
+  ![](faceless/u/mouth.png),
+  Mouth -  Darker/Dark/Light (f)
+  ![](faceless/f/mouth_darker)
+  ![](faceless/f/mouth_dark)
+  ![](faceless/f/mouth_light)
+- Mouth (Expression) -
+  Smile - Darker/Dark/light (f)
+  ![](faceless/f/smile_darker)
+  ![](faceless/f/smile_dark)
+  ![](faceless/f/smile_light)
+
+
 
 
 ## More Series (24×24)
