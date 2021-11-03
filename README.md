@@ -261,17 +261,17 @@ Attributes¹ (by category and a-z):
 
 ## Faceless Punk Series (24×24)
 
-_(Unisize) male & female archetypes from scratch / zero. Add your own eyebrows / eyes / nose / mouth_
+_Unisize & unisex archetypes from scratch / zero. Add your own eyebrows / eyes / nose / mouth_
 
-Humans (m/f)
-![](faceless/human-male_lighter.png)
-![](faceless/human-male_light.png)
-![](faceless/human-male_dark.png)
-![](faceless/human-male_darker.png)
-![](faceless/human-female_lighter.png)
-![](faceless/human-female_light.png)
-![](faceless/human-female_dark.png)
-![](faceless/human-female_darker.png).
+Humans (u)
+![](faceless/human-i_lighter.png)
+![](faceless/human-i_light.png)
+![](faceless/human-i_dark.png)
+![](faceless/human-i_darker.png)
+![](faceless/human-ii_lighter.png)
+![](faceless/human-ii_light.png)
+![](faceless/human-ii_dark.png)
+![](faceless/human-ii_darker.png).
 
 Attributes (by category and a-z):
 
