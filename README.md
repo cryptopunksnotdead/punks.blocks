@@ -303,7 +303,7 @@ Attributes (by category and a-z):
 
 
 
-## 1-Bit (Black & White) Series (24×24)
+## 1-Bit (Black & White) Punk Series (24×24)
 
 _1-bit punks in black & white pixels_
 
