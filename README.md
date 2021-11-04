@@ -303,6 +303,68 @@ Attributes (by category and a-z):
 
 
 
+## 1-Bit (Black & White) Series (24×24)
+
+_1-bit punks in black & white pixels_
+
+Humans (u)
+![](1bit/human-i.png)
+![](1bit/human-ii.png).
+
+Attributes (by category and a-z):
+
+- Hats -
+  Bandana (u)          ![](1bit/u/bandana.png),
+  Beanie (u)           ![](1bit/u/beanie.png),
+  Bear Hood (u)        ![](1bit/u/bearhood.png),
+  Cap (u)              ![](1bit/u/cap.png),
+  Cap Forward (u)      ![](1bit/u/capforward.png),
+  Cowboy Hat (u)       ![](1bit/u/cowboyhat.png),
+  Fedora (u)           ![](1bit/u/fedora.png),
+  Headband (u)         ![](1bit/u/headband.png),
+  Knitted Cap (u)      ![](1bit/u/knittedcap.png),
+  Police Cap (u)       ![](1bit/u/policecap.png),
+  Sanata Hat (u)       ![](1bit/u/santahat.png),
+  Sun Hat (u)          ![](1bit/u/sunhat.png),
+  Top Hat (u/f)        ![](1bit/u/tophat.png) ![](1bit/f/tophat.png)
+- Hair -
+  Crazy Hair (u)      ![](1bit/u/crazyhair.png),
+  Frumpy Hair (u)     ![](1bit/u/frumpyhair.png),
+  Messy Hair (u)      ![](1bit/u/messyhair.png),
+  Mohawk (u)          ![](1bit/u/mohawk.png),
+  Peak Spike (u)      ![](1bit/u/peakspike.png)
+- Eyes -
+  3D Glasses (u)       ![](1bit/u/3dglasses.png),
+  Clown Eyes (u)       ![](1bit/u/clowneyes.png),
+  Eyes (u)             ![](1bit/u/eyes.png),
+  Eyes Small (u)       ![](1bit/u/eyes_small.png),
+  Heart Shades (u)     ![](1bit/u/heartshades.png),
+  Laser Eyes (u)       ![](1bit/u/lasereyes.png),
+  Regular Shades (u)   ![](1bit/u/regularshades.png),
+  Small Shades (u)     ![](1bit/u/smallshades.png),
+  VR (u)               ![](1bit/u/vr.png)
+- Nose -
+  Clown Nose (u)       ![](1bit/u/clownnose.png),
+  Nose (u)             ![](1bit/u/nose.png),
+  Nose Small (u)       ![](1bit/u/nose_small.png)
+- Ear -
+  Earring (u)          ![](1bit/u/earring.png)
+- Blemishes -
+  Spots (u)            ![](1bit/u/spots.png)
+- Mouth -
+  Mouth (u)            ![](1bit/u/mouth.png)
+- Mouth (Emotion) -
+  Frown (u)            ![](1bit/u/frown.png),
+  Smile (u)            ![](1bit/u/smile.png)
+- Mouth Prop -
+  Bubble Gum (u)       ![](1bit/u/bubblegum.png),
+  Cigrarette (u)       ![](1bit/u/cigarette.png),
+  Medical Mask (u)     ![](1bit/u/medicalmask.png),
+  Pipe (u)             ![](1bit/u/pipe.png)
+
+
+
+
 
 ## More Series (24×24)
 
@@ -1164,7 +1226,6 @@ Royal Cocktail Hat (f)  ![](intl/f/royalcocktailhat.png),
 Sibenik (m/f)  ![](intl/m/sibenik.png) ![](intl/f/sibenik.png),
 Sombrero (m/f)  ![](intl/m/sombrero.png) ![](intl/f/sombrero.png),
 Tam-O-Shanter (m/f)  ![](intl/m/tamoshanter.png) ![](intl/f/tamoshanter.png),
-Top Hat¹ (m/f)  ![](intl/m/tophat.png) ![](intl/f/tophat.png),
 Trapper Hat (m/f)  ![](intl/m/trapperhat.png) ![](intl/f/trapperhat.png),
 Tuque (m/f)  ![](intl/m/tuque.png) ![](intl/f/tuque.png),
 Turban (m/f)  ![](intl/m/turban.png) ![](intl/f/turban.png),
