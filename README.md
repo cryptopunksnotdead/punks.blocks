@@ -334,34 +334,47 @@ Attributes (by category and a-z):
   Mohawk (u)          ![](1bit/u/mohawk.png),
   Peak Spike (u)      ![](1bit/u/peakspike.png)
 - Eyes -
-  3D Glasses (u)       ![](1bit/u/3dglasses.png),
+  Alien Eyes (u)       ![](1bit/u/alien-eyes.png),
   Clown Eyes (u)       ![](1bit/u/clowneyes.png),
   Eyes (u)             ![](1bit/u/eyes.png),
-  Eyes Small (u)       ![](1bit/u/eyes_small.png),
-  Heart Shades (u)     ![](1bit/u/heartshades.png),
+  Heart Eyes (u)       ![](1bit/u/hearteyes.png),
   Laser Eyes (u)       ![](1bit/u/lasereyes.png),
+  Scream Eyes (u)      ![](1bit/u/scream-eyes.png),
+  Skeleton Eyes (u)    ![](1bit/u/skeleton-eyes.png),
+  Zombie Eyes (u)      ![](1bit/u/zombie-eyes.png)
+- Eyes (Eyewar) -
+  3D Glasses (u)       ![](1bit/u/3dglasses.png),
   Regular Shades (u)   ![](1bit/u/regularshades.png),
   Small Shades (u)     ![](1bit/u/smallshades.png),
   VR (u)               ![](1bit/u/vr.png)
 - Nose -
+  Ape Nose (u)         ![](1bit/u/ape-nose.png),
   Clown Nose (u)       ![](1bit/u/clownnose.png),
   Nose (u)             ![](1bit/u/nose.png),
-  Nose Small (u)       ![](1bit/u/nose_small.png)
+  Nose Small (u)       ![](1bit/u/nose_small.png),
+  Nose Up (u)          ![](1bit/u/nose_up.png),
+  Nose Up Big (u)      ![](1bit/u/nose_up_big.png)
 - Ear -
   Earring (u)          ![](1bit/u/earring.png)
 - Blemishes -
   Spots (u)            ![](1bit/u/spots.png)
 - Mouth -
-  Mouth (u)            ![](1bit/u/mouth.png)
+  Mouth (u)            ![](1bit/u/mouth.png),
+  Mouth Big (u)        ![](1bit/u/mouth_big.png),
+  Scream Mouth (u)     ![](1bit/u/scream-mouth.png),
+  Skeleton Mouth (u)   ![](1bit/u/skeleton-mouth.png),
+  Zombie Mouth (u)     ![](1bit/u/zombie-mouth.png)
 - Mouth (Emotion) -
   Frown (u)            ![](1bit/u/frown.png),
-  Smile (u)            ![](1bit/u/smile.png)
+  Smile (u)            ![](1bit/u/smile.png),
+  Smile Big (u)        ![](1bit/u/smile_big.png)
 - Mouth Prop -
   Bubble Gum (u)       ![](1bit/u/bubblegum.png),
   Cigrarette (u)       ![](1bit/u/cigarette.png),
   Medical Mask (u)     ![](1bit/u/medicalmask.png),
   Pipe (u)             ![](1bit/u/pipe.png)
-
+- Misc -
+  Ape Front (u)        ![](1bit/u/ape-front)
 
 
 
