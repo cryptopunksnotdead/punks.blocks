@@ -333,6 +333,11 @@ Attributes (by category and a-z):
   Messy Hair (u)      ![](1bit/u/messyhair.png),
   Mohawk (u)          ![](1bit/u/mohawk.png),
   Peak Spike (u)      ![](1bit/u/peakspike.png)
+- Eyes (Eyewear) -
+  3D Glasses (u)       ![](1bit/u/3dglasses.png),
+  Regular Shades (u)   ![](1bit/u/regularshades.png),
+  Small Shades (u)     ![](1bit/u/smallshades.png),
+  VR (u)               ![](1bit/u/vr.png)
 - Eyes -
   Alien Eyes (u)       ![](1bit/u/alien-eyes.png),
   Clown Eyes (u)       ![](1bit/u/clowneyes.png),
@@ -342,11 +347,6 @@ Attributes (by category and a-z):
   Scream Eyes (u)      ![](1bit/u/scream-eyes.png),
   Skeleton Eyes (u)    ![](1bit/u/skeleton-eyes.png),
   Zombie Eyes (u)      ![](1bit/u/zombie-eyes.png)
-- Eyes (Eyewar) -
-  3D Glasses (u)       ![](1bit/u/3dglasses.png),
-  Regular Shades (u)   ![](1bit/u/regularshades.png),
-  Small Shades (u)     ![](1bit/u/smallshades.png),
-  VR (u)               ![](1bit/u/vr.png)
 - Nose -
   Ape Nose (u)         ![](1bit/u/ape-nose.png),
   Clown Nose (u)       ![](1bit/u/clownnose.png),
@@ -374,7 +374,7 @@ Attributes (by category and a-z):
   Medical Mask (u)     ![](1bit/u/medicalmask.png),
   Pipe (u)             ![](1bit/u/pipe.png)
 - Misc -
-  Ape Front (u)        ![](1bit/u/ape-front)
+  Ape Front (u)        ![](1bit/u/ape-front.png)
 
 
 
