@@ -226,25 +226,6 @@ Attributes (by category and a-z):
 
 
 
-## More Species Series (24×24)
-
-_New species_
-
-Demon (male / female) ![](more/demon-male.png) ![](more/demon-female.png),
-Vampire (male / female) ![](more/vampire-male.png) ![](more/vampire-female.png),
-Orc (male / female) ![](more/orc-male.png) ![](more/orc-female.png),
-Skeleton (male / female) ![](more/skeleton-male.png) ![](more/skeleton-female.png),
-Mummy (male / female) ![](more/mummy-male.png) ![](more/mummy-female.png),
-Robot (male / female) ![](more/robot-male.png) ![](more/robot-female.png),
-Joker (male / female)  ![](more/joker-male.png) ![](more/joker-female.png),
-Jack-O-Lantern (male / female) ![](more/jack-o-lantern-male.png) ![](more/jack-o-lantern-female.png),
-Scream (male / female) ![](more/scream-male.png) ![](more/scream-female.png),
-Frankenstein (male / female) ![](more/frankenstein-male.png) ![](more/frankenstein-female.png)
-
-
-
-
-
 ## Unisize Punk(ette) Series (24×24)
 
 _"Upsized" female archetypes to the same size / dimensions (with same eyes/nose/mouth/ear positions) as male archetypes_
@@ -254,32 +235,12 @@ Humans (f)
 ![](unisize/human-female_light.png)
 ![](unisize/human-female_dark.png)
 ![](unisize/human-female_darker.png),
-Zombies (f)
+Zombies (f),
 ![](unisize/zombie-female.png),
 Apes (f),
 ![](unisize/ape-female.png),
 Aliens (f)
-![](unisize/alien-female.png),
-Demon (f)
-![](unisize/demon-female.png),
-Frankenstein (f)
-![](unisize/frankenstein-female.png),
-Jack-O-Lantern (f)
-![](unisize/jack-o-lantern-female.png),
-Joker (f)
-![](unisize/joker-female.png),
-Mummy (f)
-![](unisize/mummy-female.png),
-Orc (f)
-![](unisize/orc-female.png),
-Robot (f)
-![](unisize/robot-female.png),
-Scream (f)
-![](unisize/scream-female.png),
-Skeleton (f)
-![](unisize/skeleton-female.png),
-Vampire (f)
-![](unisize/vampire-female.png).
+![](unisize/alien-female.png).
 
 
 
@@ -1323,6 +1284,7 @@ Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
 
 
 
+
 ## Planet of the Apes Series (24×24)
 
 _The rise of more new punk apes_
@@ -1332,6 +1294,23 @@ Ape Zombie (male) ![](planet-apes/ape-zombie-male.png),
 Ape Alien (male) ![](planet-apes/ape-alien-male.png)
 
 ¹: From the basic series
+
+
+
+## More Species Series (24×24)
+
+_New species_
+
+Demon (male / female) ![](more/demon-male.png) ![](unisize/demon-female.png) ![](more/demon-female.png),
+Vampire (male / female) ![](more/vampire-male.png) ![](unisize/vampire-female.png) ![](more/vampire-female.png),
+Orc (male / female) ![](more/orc-male.png) ![](unisize/orc-female.png) ![](more/orc-female.png),
+Skeleton (male / female) ![](more/skeleton-male.png) ![](unisize/skeleton-female.png) ![](more/skeleton-female.png),
+Mummy (male / female) ![](more/mummy-male.png) ![](unisize/mummy-female.png) ![](more/mummy-female.png),
+Robot (male / female) ![](more/robot-male.png)  ![](unisize/robot-female.png) ![](more/robot-female.png),
+Joker (male / female)  ![](more/joker-male.png) ![](unisize/joker-female.png) ![](more/joker-female.png),
+Jack-O-Lantern (male / female) ![](more/jack-o-lantern-male.png) ![](unisize/jack-o-lantern-female.png) ![](more/jack-o-lantern-female.png),
+Scream (male / female) ![](more/scream-male.png)  ![](unisize/scream-female.png) ![](more/scream-female.png),
+Frankenstein (male / female) ![](more/frankenstein-male.png)  ![](unisize/frankenstein-female.png) ![](more/frankenstein-female.png)
 
 
 
@@ -1352,7 +1331,7 @@ _Super-rare gold(en) punks in three variants (shiny, metallic, dark)_
 ![](gold/alien-female_gold_1.png)
 ![](gold/demon-female_gold_1.png)
 ![](gold/skeleton-female_gold_1.png)
-<br>
+
 
 ![](gold/male_gold_2.png)
 ![](gold/zombie-male_gold_2.png)
@@ -1366,7 +1345,7 @@ _Super-rare gold(en) punks in three variants (shiny, metallic, dark)_
 ![](gold/alien-female_gold_2.png)
 ![](gold/demon-female_gold_2.png)
 ![](gold/skeleton-female_gold_2.png)
-<br>
+
 
 ![](gold/male_gold_3.png)
 ![](gold/zombie-male_gold_3.png)
