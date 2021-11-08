@@ -226,6 +226,25 @@ Attributes (by category and a-z):
 
 
 
+## More Species Series (24×24)
+
+_New species_
+
+Demon (male / female) ![](more/demon-male.png) ![](more/demon-female.png),
+Vampire (male / female) ![](more/vampire-male.png) ![](more/vampire-female.png),
+Orc (male / female) ![](more/orc-male.png) ![](more/orc-female.png),
+Skeleton (male / female) ![](more/skeleton-male.png) ![](more/skeleton-female.png),
+Mummy (male / female) ![](more/mummy-male.png) ![](more/mummy-female.png),
+Robot (male / female) ![](more/robot-male.png) ![](more/robot-female.png),
+Joker (male / female)  ![](more/joker-male.png) ![](more/joker-female.png),
+Jack-O-Lantern (male / female) ![](more/jack-o-lantern-male.png) ![](more/jack-o-lantern-female.png),
+Scream (male / female) ![](more/scream-male.png) ![](more/scream-female.png),
+Frankenstein (male / female) ![](more/frankenstein-male.png) ![](more/frankenstein-female.png)
+
+
+
+
+
 ## Unisize Punk(ette) Series (24×24)
 
 _"Upsized" female archetypes to the same size / dimensions (with same eyes/nose/mouth/ear positions) as male archetypes_
@@ -240,7 +259,28 @@ Zombies (f)
 Apes (f),
 ![](unisize/ape-female.png),
 Aliens (f)
-![](unisize/alien-female.png).
+![](unisize/alien-female.png),
+Demon (f)
+![](unisize/demon-female.png),
+Frankenstein (f)
+![](unisize/frankenstein-female.png),
+Jack-O-Lantern (f)
+![](unisize/jack-o-lantern-female.png),
+Joker (f)
+![](unisize/joker-female.png),
+Mummy (f)
+![](unisize/mummy-female.png),
+Orc (f)
+![](unisize/orc-female.png),
+Robot (f)
+![](unisize/robot-female.png),
+Scream (f)
+![](unisize/scream-female.png),
+Skeleton (f)
+![](unisize/skeleton-female.png),
+Vampire (f)
+![](unisize/vampire-female.png).
+
 
 
 Attributes¹ (by category and a-z):
@@ -259,6 +299,7 @@ Attributes¹ (by category and a-z):
 
 
 
+
 ## Faceless Punk Series (24×24)
 
 _Unisize & unisex archetypes from scratch / zero. Add your own eyebrows / eyes / nose / mouth_
@@ -274,6 +315,8 @@ Humans (u)
 ![](faceless/human-ii_light.png)
 ![](faceless/human-ii_dark.png)
 ![](faceless/human-ii_darker.png).
+
+
 
 Attributes (by category and a-z):
 
@@ -309,7 +352,28 @@ _1-bit punks in black & white pixels_
 
 Humans (u)
 ![](1bit/human-i.png)
-![](1bit/human-ii.png).
+![](1bit/human-ii.png),
+Alien (u)
+![](1bit/alien-i.png)
+![](1bit/alien-ii.png),
+Demon (u)
+![](1bit/demon-i.png)
+![](1bit/demon-ii.png),
+Frankenstein (u)
+![](1bit/frankenstein-i.png)
+![](1bit/frankenstein-ii.png),
+Orc (u)
+![](1bit/orc-i.png)
+![](1bit/orc-ii.png),
+Robot (u)
+![](1bit/robot-i.png)
+![](1bit/robot-ii.png),
+Vampire (u)
+![](1bit/vampire-i.png)
+![](1bit/vampire-ii.png).
+
+
+
 
 Attributes (by category and a-z):
 
@@ -344,6 +408,8 @@ Attributes (by category and a-z):
   Eyes (u)             ![](1bit/u/eyes.png),
   Heart Eyes (u)       ![](1bit/u/hearteyes.png),
   Laser Eyes (u)       ![](1bit/u/lasereyes.png),
+  Orc Eyes (u)         ![](1bit/u/orc-eyes.png),
+  Robot Eyes (u)       ![](1bit/u/robot-eyes.png),
   Scream Eyes (u)      ![](1bit/u/scream-eyes.png),
   Skeleton Eyes (u)    ![](1bit/u/skeleton-eyes.png),
   Zombie Eyes (u)      ![](1bit/u/zombie-eyes.png)
@@ -353,7 +419,8 @@ Attributes (by category and a-z):
   Nose (u)             ![](1bit/u/nose.png),
   Nose Small (u)       ![](1bit/u/nose_small.png),
   Nose Up (u)          ![](1bit/u/nose_up.png),
-  Nose Up Big (u)      ![](1bit/u/nose_up_big.png)
+  Nose Up Big (u)      ![](1bit/u/nose_up_big.png),
+  Orc Nose (u)         ![](1bit/u/orc-nose.png)
 - Ear -
   Earring (u)          ![](1bit/u/earring.png)
 - Blemishes -
@@ -361,8 +428,13 @@ Attributes (by category and a-z):
 - Mouth -
   Mouth (u)            ![](1bit/u/mouth.png),
   Mouth Big (u)        ![](1bit/u/mouth_big.png),
+  Orc Mouth (u)        ![](1bit/u/orc-mouth.png),
+  Orc Mouth Small (u)  ![](1bit/u/orc-mouth_small.png),
+  Robot Mouth (u)      ![](1bit/u/robot-mouth.png),
   Scream Mouth (u)     ![](1bit/u/scream-mouth.png),
   Skeleton Mouth (u)   ![](1bit/u/skeleton-mouth.png),
+  Vampire Mouth (u)    ![](1bit/u/vampire-mouth.png),
+  Vampire Mouth Small (u) ![](1bit/u/vampire-mouth_small.png),
   Zombie Mouth (u)     ![](1bit/u/zombie-mouth.png)
 - Mouth (Emotion) -
   Frown (u)            ![](1bit/u/frown.png),
@@ -1251,6 +1323,19 @@ Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
 
 
 
+## Planet of the Apes Series (24×24)
+
+_The rise of more new punk apes_
+
+Ape (male¹,/female¹) ![](planet-apes/ape-male.png) ![](planet-apes/ape-female.png),
+Ape Zombie (male) ![](planet-apes/ape-zombie-male.png),
+Ape Alien (male) ![](planet-apes/ape-alien-male.png)
+
+¹: From the basic series
+
+
+
+
 ## Gold(en) Series (24×24)
 
 _Super-rare gold(en) punks in three variants (shiny, metallic, dark)_
@@ -1397,36 +1482,6 @@ magenta (°300) and red magenta (°330).
 ![](all-caps/f/cap_330.png)
 
 
-
-
-
-## Planet of the Apes Series (24×24)
-
-_The rise of more new punk apes_
-
-Ape (male¹,/female¹) ![](planet-apes/ape-male.png) ![](planet-apes/ape-female.png),
-Ape Zombie (male) ![](planet-apes/ape-zombie-male.png),
-Ape Alien (male) ![](planet-apes/ape-alien-male.png)
-
-¹: From the basic series
-
-
-
-## More Species Series (24×24)
-
-_New species_
-
-
-Demon (male / female) ![](more/demon-male.png) ![](more/demon-female.png),
-Vampire (male / female) ![](more/vampire-male.png) ![](more/vampire-female.png),
-Orc (male / female) ![](more/orc-male.png) ![](more/orc-female.png),
-Skeleton (male / female) ![](more/skeleton-male.png) ![](more/skeleton-female.png),
-Mummy (male / female) ![](more/mummy-male.png) ![](more/mummy-female.png),
-Robot (male / female) ![](more/robot-male.png) ![](more/robot-female.png),
-Joker (male / female)  ![](more/joker-male.png) ![](more/joker-female.png),
-Jack-O-Lantern (male / female) ![](more/jack-o-lantern-male.png) ![](more/jack-o-lantern-female.png),
-Scream (male / female) ![](more/scream-male.png) ![](more/scream-female.png),
-Frankenstein (male / female) ![](more/frankenstein-male.png) ![](more/frankenstein-female.png)
 
 
 
