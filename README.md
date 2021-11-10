@@ -435,7 +435,8 @@ Attributes (by category and a-z):
   Sun Hat (m/f) ![](more/m/sunhat.png) ![](more/f/sunhat.png),
   Superhero Tiara (f) ![](more/f/superherotiara.png)
   Viking Helmet (m/f) ![](more/m/vikinghelmet.png) ![](more/f/vikinghelmet.png),
-  Winter Hat (m/f) ![](more/m/winterhat.png) ![](more/f/winterhat.png)
+  Winter Hat (m/f) ![](more/m/winterhat.png) ![](more/f/winterhat.png),
+  Wizard Hat (m) ![](more/m/wizardhat.png)
 - Eyes -
   Heart Shades (m/f)  ![](more/m/heartshades.png) ![](more/f/heartshades.png),
   Laser Eyes (m/f)      ![](more/m/lasereyes.png) ![](more/f/lasereyes.png),
@@ -1304,6 +1305,7 @@ _New species_
 Demon (male / female) ![](more/demon-male.png) ![](unisize/demon-female.png) ![](more/demon-female.png),
 Vampire (male / female) ![](more/vampire-male.png) ![](unisize/vampire-female.png) ![](more/vampire-female.png),
 Orc (male / female) ![](more/orc-male.png) ![](unisize/orc-female.png) ![](more/orc-female.png),
+Ghost (male / female) ![](more/ghost-male.png) ![](unisize/ghost-female.png) ![](more/ghost-female.png),
 Skeleton (male / female) ![](more/skeleton-male.png) ![](unisize/skeleton-female.png) ![](more/skeleton-female.png),
 Mummy (male / female) ![](more/mummy-male.png) ![](unisize/mummy-female.png) ![](more/mummy-female.png),
 Robot (male / female) ![](more/robot-male.png)  ![](unisize/robot-female.png) ![](more/robot-female.png),
