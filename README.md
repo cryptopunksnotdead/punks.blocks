@@ -412,6 +412,29 @@ Attributes (by category and a-z):
 
 
 
+## All Natural Punk Series (24×24)
+
+_More skin is the new black_
+
+Human (male/female) ![](natural/human-male_lighter.png)
+             ![](natural/human-male_light.png)
+             ![](natural/human-male_dark.png)
+             ![](natural/human-male_darker.png)
+             ![](natural/human-female_lighter.png)
+             ![](natural/human-female_light.png)
+             ![](natural/human-female_dark.png)
+             ![](natural/human-female_darker.png),
+Alien (male) ![](natural/alien-male.png)
+              ![](natural/alien-male_(ape).png),
+Ape (male)   ![](natural/ape-male.png),
+Zombie (male)  ![](natural/zombie-male.png)
+               ![](natural/zombie-male_(ape).png),
+Skeleton (male)  ![](natural/skeleton-male.png),
+Demon (male)     ![](natural/demon-male.png)
+
+
+
+
 ## More Series (24×24)
 
 _New hat, eyes, ears & more_
@@ -1523,23 +1546,6 @@ Party Pink ![](world-women/lipstick-party_pink.png),
 Passion Red ![](world-women/lipstick-passion_red.png),
 Burgundy ![](world-women/lipstick-burgundy.png),
 
-
-
-## All Natural Series (24×24)
-
-_More skin is the new black_
-
-Human (male) ![](natural/human-male-lighter-natural.png)
-             ![](natural/human-male-light-natural.png)
-             ![](natural/human-male-dark-natural.png)
-             ![](natural/human-male-darker-natural.png),
-Alien (male) ![](natural/alien-male-natural.png)
-              ![](natural/ape-alien-male-natural.png),
-Ape (male)   ![](natural/ape-male-natural.png),
-Zombie (male)  ![](natural/zombie-male-natural.png)
-               ![](natural/ape-zombie-male-natural.png),
-Skeleton (male)  ![](natural/skeleton-male-natural.png),
-Demon (male)     ![](natural/demon-male-natural.png)
 
 
 
