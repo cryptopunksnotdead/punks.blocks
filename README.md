@@ -1487,6 +1487,40 @@ magenta (°300) and red magenta (°330).
 
 
 
+## Fast Food Series (24×24)
+
+_(Baseball) caps & more in fast food chain styles & colors
+
+
+- Caps -
+  Br (m/f) ![](fastfood/m/cap-br.png)
+           ![](fastfood/f/cap-br.png),
+  Brk (m) ![](fastfood/m/cap-brk.png),
+  Castle (m) ![](fastfood/m/cap-castle.png),
+  Dom (m) ![](fastfood/m/cap-dom.png),
+  Dunk (m) ![](fastfood/m/cap-dunk.png),
+  Hut (m) ![](fastfood/m/cap-hut.png),
+  Jack (m) ![](fastfood/m/cap-jack.png),
+  Kentucky (m/f) ![](fastfood/m/cap-kentucky.png)
+                 ![](fastfood/f/cap-kentucky.png),
+  Mcd (m) ![](fastfood/m/cap-mcd-black.png)
+          ![](fastfood/m/cap-mcd-gray.png)
+          ![](fastfood/m/cap-mcd-red.png)
+          ![](fastfood/m/cap-mcd-red_flipped.png)
+          ![](fastfood/m/cap-mcd-white.png),
+  Sub (m) ![](fastfood/m/cap-sub.png),
+  W (m/f) ![](fastfood/m/cap-w_flipped.png)
+          ![](fastfood/f/cap-w.png)
+- Cowboy Hats -
+  Mcd (m) ![](fastfood/m/cowboy-mcd-red.png)
+- Safari Hats -
+  Kentucky (m) ![](fastfood/m/safari-kentucky.png)
+- Bucket Hats -
+  Mcd (m) ![](fastfood/m/bucket-mcd-red.png)
+- Crowns -
+  Brk (m) ![](fastfood/m/crown-brk.png)
+
+
 
 
 ## World of Women Series (24×24)
