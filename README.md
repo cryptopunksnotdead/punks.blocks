@@ -1489,7 +1489,7 @@ magenta (°300) and red magenta (°330).
 
 ## Fast Food Series (24×24)
 
-_(Baseball) caps & more in fast food chain styles & colors
+_(Baseball) caps & more in fast food chain styles & colors_
 
 
 - Caps -
