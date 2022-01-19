@@ -1493,32 +1493,50 @@ _(Baseball) caps & more in fast food chain styles & colors_
 
 
 - Caps -
-  Br (m/f) ![](fastfood/m/cap-br.png)
-           ![](fastfood/f/cap-br.png),
-  Brk (m) ![](fastfood/m/cap-brk.png),
-  Castle (m) ![](fastfood/m/cap-castle.png),
-  Dom (m) ![](fastfood/m/cap-dom.png),
-  Dunk (m) ![](fastfood/m/cap-dunk.png),
-  Hut (m) ![](fastfood/m/cap-hut.png),
-  Jack (m) ![](fastfood/m/cap-jack.png),
-  Kentucky (m/f) ![](fastfood/m/cap-kentucky.png)
-                 ![](fastfood/f/cap-kentucky.png),
-  Mcd (m) ![](fastfood/m/cap-mcd-black.png)
-          ![](fastfood/m/cap-mcd-gray.png)
-          ![](fastfood/m/cap-mcd-red.png)
-          ![](fastfood/m/cap-mcd-red_flipped.png)
-          ![](fastfood/m/cap-mcd-white.png),
-  Sub (m) ![](fastfood/m/cap-sub.png),
-  W (m/f) ![](fastfood/m/cap-w_flipped.png)
-          ![](fastfood/f/cap-w.png)
+  Baskin-Robbins (m/f) ![](fastfood/m/cap-br.png) ![](fastfood/m/cap-br_flipped.png)
+                       ![](fastfood/f/cap-br.png) ![](fastfood/f/cap-br_flipped.png),
+  Burger King (m/f) ![](fastfood/m/cap-brk.png) ![](fastfood/m/cap-brk_flipped.png)
+                    ![](fastfood/f/cap-brk.png) ![](fastfood/f/cap-brk_flipped.png),
+  White Castle (m/f) ![](fastfood/m/cap-castle.png) ![](fastfood/m/cap-castle_flipped.png)
+                     ![](fastfood/f/cap-castle.png) ![](fastfood/f/cap-castle_flipped.png),
+  Domino's Pizza (m/f) ![](fastfood/m/cap-dom.png) ![](fastfood/m/cap-dom_flipped.png)
+                       ![](fastfood/f/cap-dom.png) ![](fastfood/f/cap-dom_flipped.png),
+  Dunkin' Donuts (m/f) ![](fastfood/m/cap-dunk.png) ![](fastfood/m/cap-dunk_flipped.png)
+                       ![](fastfood/f/cap-dunk.png) ![](fastfood/f/cap-dunk_flipped.png),
+  Pizza Hut (m/f) ![](fastfood/m/cap-hut.png) ![](fastfood/m/cap-hut_flipped.png)
+                  ![](fastfood/f/cap-hut.png) ![](fastfood/f/cap-hut_flipped.png),
+  Jack in the Box (m/f) ![](fastfood/m/cap-jack.png) ![](fastfood/m/cap-jack_flipped.png)
+                        ![](fastfood/f/cap-jack.png) ![](fastfood/f/cap-jack_flipped.png),
+  Kentucky Fried Chicken (m/f) ![](fastfood/m/cap-kentucky.png) ![](fastfood/m/cap-kentucky_flipped.png)
+                               ![](fastfood/f/cap-kentucky.png) ![](fastfood/f/cap-kentucky_flipped.png),
+  McDonald's (m/f) ![](fastfood/m/cap-m-black.png)
+                   ![](fastfood/m/cap-m-black_flipped.png)
+          ![](fastfood/m/cap-m-gray.png)
+          ![](fastfood/m/cap-m-gray_flipped.png)
+          ![](fastfood/m/cap-m-red.png)
+          ![](fastfood/m/cap-m-red_flipped.png)
+          ![](fastfood/m/cap-m-white.png)
+          ![](fastfood/m/cap-m-white_flipped.png)
+          ![](fastfood/m/cap-m-black.png)
+                   ![](fastfood/f/cap-m-black_flipped.png)
+          ![](fastfood/f/cap-m-gray.png)
+          ![](fastfood/f/cap-m-gray_flipped.png)
+          ![](fastfood/f/cap-m-red.png)
+          ![](fastfood/f/cap-m-red_flipped.png)
+          ![](fastfood/f/cap-m-white.png)
+          ![](fastfood/f/cap-m-white_flipped.png),
+  Subway (m/f) ![](fastfood/m/cap-sub.png) ![](fastfood/m/cap-sub_flipped.png)
+               ![](fastfood/f/cap-sub.png) ![](fastfood/f/cap-sub_flipped.png),
+  Wendy's (m/f) ![](fastfood/m/cap-w.png) ![](fastfood/m/cap-w_flipped.png)
+                ![](fastfood/f/cap-w.png) ![](fastfood/f/cap-w_flipped.png)
 - Cowboy Hats -
-  Mcd (m) ![](fastfood/m/cowboy-mcd-red.png)
+  McDonald's (m) ![](fastfood/m/cowboy-m-red.png)
 - Safari Hats -
-  Kentucky (m) ![](fastfood/m/safari-kentucky.png)
+  Kentucky Fried Chicken (m) ![](fastfood/m/safari-kentucky.png)
 - Bucket Hats -
-  Mcd (m) ![](fastfood/m/bucket-mcd-red.png)
+  McDonald's (m) ![](fastfood/m/bucket-m-red.png)
 - Crowns -
-  Brk (m) ![](fastfood/m/crown-brk.png)
+  Burger King (m) ![](fastfood/m/crown-brk.png)
 
 
 
