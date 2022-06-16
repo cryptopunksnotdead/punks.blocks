@@ -78,7 +78,7 @@ Attributes (by category and a-z):
   Frumpy Hair (m/f)
   ![](basic/m/frumpyhair.png) ![](basic/f/frumpyhair.png),
   Half Shaved (m/f)
-  ![](basic/m/halfshaved.png) ![](basic/f/halfshaved.png),
+  ![](basic/m/halfshaved.png) ![](basic/f/halfshaved.png) ![](basic/f/halfshaved2.png),
   Messy Hair (m/f)
   ![](basic/m/messyhair.png) ![](basic/f/messyhair.png),
   Mohawk (m/f)
@@ -93,8 +93,6 @@ Attributes (by category and a-z):
   ![](basic/m/peakspike.png) ![](basic/f/peakspike.png),
   Pigtails (f)
   ![](basic/f/pigtails.png),
-  Pink With Hat (f)
-  ![](basic/f/pinkwithhat.png),
   Purple Hair (m/f)
   ![](basic/m/purplehair.png) ![](basic/f/purplehair.png) ![](basic/f/purplehair2.png),
   Red Mohawk (f)
@@ -117,6 +115,11 @@ Attributes (by category and a-z):
   ![](basic/m/wildhair.png) ![](basic/f/wildhair.png),
   Wild White Hair (m/f)
   ![](basic/m/wildwhitehair.png) ![](basic/f/wildwhitehair.png) ![](basic/f/wildwhitehair2.png)
+- (Hair+Hat) Combo -
+  Black With Headband (f)
+  ![](basic/f/blackwithheadband.png),
+  Pink With Hat (f)
+  ![](basic/f/pinkwithhat.png)
 - Eyes -
   3D Glasses (m/f)
    ![](basic/m/3dglasses.png) ![](basic/f/3dglasses.png),
