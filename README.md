@@ -67,18 +67,18 @@ Attributes (by category and a-z):
 - Hair -
   Blonde Bob (f)
   ![](basic/f/blondebob.png),
-  Blonde Short (f)
-  ![](basic/f/blondeshort.png) ![](basic/f/blondeshort2.png),
+  Blonde Short (m/f)
+  ![](basic/m/blondeshort.png) ![](basic/f/blondeshort.png) ![](basic/f/blondeshort2.png),
   Clown Hair Green (m/f)
   ![](basic/m/clownhairgreen.png) ![](basic/f/clownhairgreen.png) ![](basic/f/clownhairgreen2.png),
   Crazy Hair (m/f)
   ![](basic/m/crazyhair.png) ![](basic/f/crazyhair.png),
   Dark Hair (f)
-  ![](basic/f/darkhair.png) ![](basic/f/darkhair.png2),
+  ![](basic/f/darkhair.png) ![](basic/f/darkhair2.png),
   Frumpy Hair (m/f)
   ![](basic/m/frumpyhair.png) ![](basic/f/frumpyhair.png),
-  Half Shaved (f)
-  ![](basic/f/halfshaved.png),
+  Half Shaved (m/f)
+  ![](basic/m/halfshaved.png) ![](basic/f/halfshaved.png),
   Messy Hair (m/f)
   ![](basic/m/messyhair.png) ![](basic/f/messyhair.png),
   Mohawk (m/f)
@@ -89,8 +89,8 @@ Attributes (by category and a-z):
   ![](basic/m/mohawkthin.png) ![](basic/f/mohawkthin.png),
   Orange Side (m/f)
   ![](basic/m/orangeside.png) ![](basic/f/orangeside.png) ![](basic/f/orangeside2.png),
-  Peak Spike (m)
-  ![](basic/m/peakspike.png),
+  Peak Spike (m/f)
+  ![](basic/m/peakspike.png) ![](basic/f/peakspike.png),
   Pigtails (f)
   ![](basic/f/pigtails.png),
   Pink With Hat (f)
