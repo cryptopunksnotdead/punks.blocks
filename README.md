@@ -47,7 +47,7 @@ Attributes (by category and a-z):
   Cowboy Hat (m/f)
   ![](basic/m/cowboyhat.png) ![](basic/f/cowboyhat.png),
   Do-rag (m/f)
-  ![](basic/m/dorag.png) ![](basic/f/dorag.png),
+  ![](basic/m/dorag.png) ![](basic/f/dorag.png) ![](basic/f/dorag2.png),
   Fedora (m/f)
   ![](basic/m/fedora.png) ![](basic/f/fedora.png),
   Headband (m/f)
@@ -56,8 +56,8 @@ Attributes (by category and a-z):
   ![](basic/m/hoodie.png) ![](basic/f/hoodie.png),
   Knitted Cap (m/f)
   ![](basic/m/knittedcap.png) ![](basic/f/knittedcap.png),
-  Pilot Helmet (f)
-  ![](basic/f/pilothelmet.png),
+  Pilot Helmet (m/f)
+  ![](basic/m/pilothelmet.png) ![](basic/f/pilothelmet.png),
   Police Cap (m/f)
   ![](basic/m/policecap.png) ![](basic/f/policecap.png),
   Tassle Hat (f)
@@ -114,11 +114,11 @@ Attributes (by category and a-z):
   Vampire Hair (m)
   ![](basic/m/vampirehair.png),
   Wild Blonde (f)
-  ![](basic/f/wildblonde.png),
+  ![](basic/m/wildblonde.png) ![](basic/f/wildblonde.png) ![](basic/f/wildblonde2.png),
   Wild Hair (m/f)
   ![](basic/m/wildhair.png) ![](basic/f/wildhair.png),
-  Wild White Hair (f)
-  ![](basic/f/wildwhitehair.png)
+  Wild White Hair (m/f)
+  ![](basic/m/wildwhitehair.png) ![](basic/f/wildwhitehair.png)
 - Eyes -
   3D Glasses (m/f)
    ![](basic/m/3dglasses.png) ![](basic/f/3dglasses.png),
