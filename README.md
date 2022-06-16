@@ -141,8 +141,8 @@ Attributes (by category and a-z):
   ![](basic/m/smallshades.png) ![](basic/f/smallshades.png),
   VR (m/f)
   ![](basic/m/vr.png) ![](basic/f/vr.png),
-  Welding Goggles (f)
-  ![](basic/f/weldinggoggles.png)
+  Welding Goggles (m/f)
+  ![](basic/m/weldinggoggles.png) ![](basic/f/weldinggoggles.png)
 - Eyes (Makeup) -
   Blue Eye Shadow (f)
   ![](basic/f/blueeyeshadow.png),
@@ -163,7 +163,9 @@ Attributes (by category and a-z):
    ![](basic/m/spots.png) ![](basic/f/spots.png)
 - Nose -
   Clown Nose (m/f)
-   ![](basic/m/clownnose.png) ![](basic/f/clownnose.png)
+   ![](basic/m/clownnose.png) ![](basic/f/clownnose.png),
+  Piercing (m/f)
+   ![](basic/m/piercing.png) ![](basic/f/piercing.png)
 - Ears -
   Earring (m/f)
    ![](basic/m/earring.png) ![](basic/f/earring.png)
@@ -185,6 +187,8 @@ Attributes (by category and a-z):
 - Mouth Prop -
   Cigarette (m/f)
    ![](basic/m/cigarette.png) ![](basic/f/cigarette.png),
+  Gas Mask (m/f)
+   ![](basic/m/gasmask.png) ![](basic/f/gasmask.png),
   Medical Mask (m/f)
    ![](basic/m/medicalmask.png) ![](basic/f/medicalmask.png),
   Pipe (m/f)
@@ -217,8 +221,8 @@ Attributes (by category and a-z):
   Shadow Beard (m)
    ![](basic/m/shadowbeard.png)
 - Neck Accessory -
-  Choker (f)
-   ![](basic/f/choker.png),
+  Choker (m/f)
+   ![](basic/m/choker.png) ![](basic/f/choker.png),
   Gold Chain (m/f)
    ![](basic/m/goldchain.png) ![](basic/f/goldchain.png),
   Silver Chain (m/f)
