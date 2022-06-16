@@ -455,12 +455,10 @@ _New hat, eyes, ears & more_
 
 Attributes (by category and a-z):
 - Hat -
-  Bear Hood (m/f) ![](more/m/bearhood.png) ![](more/f/bearhood.png),
   Birthday Hat (m/f) ![](more/m/birthdayhat.png) ![](more/f/birthdayhat.png),
   Bow (f)  ![](more/f/bow.png),
   Crown (m/f) ![](more/m/crown.png) ![](more/f/crown.png),
   Flowers (f)  ![](more/f/flowers.png),
-  Frog Hood (m/f) ![](more/m/froghood.png) ![](more/f/froghood.png),
   Jester Hat (m/f) ![](more/m/jesterhat.png) ![](more/f/jesterhat.png),
   Santa Hat (m/f) ![](more/m/santahat.png) ![](more/f/santahat.png),
   Sombrero¹ (m/f) ![](more/m/sombrero.png) ![](more/f/sombrero.png),
@@ -490,6 +488,10 @@ Attributes (by category and a-z):
   Cigar (m/f) ![](more/m/cigar.png) ![](more/f/cigar.png)
 - Neck Accessory -
   Gold Diamond Necklace (m/f) ![](more/m/golddiamondnecklace.png)  ![](more/f/golddiamondnecklace.png)
+- Clothes -
+  Bear Hood (m/f) ![](more/m/bearhood.png) ![](more/f/bearhood.png),
+  Frog Hood (m/f) ![](more/m/froghood.png) ![](more/f/froghood.png)
+
 
 ¹: Alternative to the int'l headwear series
 
