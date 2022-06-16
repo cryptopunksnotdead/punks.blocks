@@ -52,31 +52,29 @@ Attributes (by category and a-z):
   ![](basic/m/fedora.png) ![](basic/f/fedora.png),
   Headband (m/f)
   ![](basic/m/headband.png) ![](basic/f/headband.png),
-  Hoodie (m/f)
-  ![](basic/m/hoodie.png) ![](basic/f/hoodie.png),
   Knitted Cap (m/f)
   ![](basic/m/knittedcap.png) ![](basic/f/knittedcap.png),
   Pilot Helmet (m/f)
   ![](basic/m/pilothelmet.png) ![](basic/f/pilothelmet.png),
   Police Cap (m/f)
   ![](basic/m/policecap.png) ![](basic/f/policecap.png),
-  Tassle Hat (f)
-  ![](basic/f/tasslehat.png),
-  Tiara (f)
-  ![](basic/f/tiara.png),
+  Tassle Hat (m/f)
+  ![](basic/m/tasslehat.png) ![](basic/f/tasslehat.png),
+  Tiara (m/f)
+  ![](basic/m/tiara.png) ![](basic/f/tiara.png),
   Top Hat (m/f)
   ![](basic/m/tophat.png) ![](basic/f/tophat.png)
 - Hair -
   Blonde Bob (f)
   ![](basic/f/blondebob.png),
   Blonde Short (f)
-  ![](basic/f/blondeshort.png),
+  ![](basic/f/blondeshort.png) ![](basic/f/blondeshort2.png),
   Clown Hair Green (m/f)
-  ![](basic/m/clownhairgreen.png) ![](basic/f/clownhairgreen.png),
+  ![](basic/m/clownhairgreen.png) ![](basic/f/clownhairgreen.png) ![](basic/f/clownhairgreen2.png),
   Crazy Hair (m/f)
   ![](basic/m/crazyhair.png) ![](basic/f/crazyhair.png),
   Dark Hair (f)
-  ![](basic/f/darkhair.png),
+  ![](basic/f/darkhair.png) ![](basic/f/darkhair.png2),
   Frumpy Hair (m/f)
   ![](basic/m/frumpyhair.png) ![](basic/f/frumpyhair.png),
   Half Shaved (f)
@@ -98,7 +96,7 @@ Attributes (by category and a-z):
   Pink With Hat (f)
   ![](basic/f/pinkwithhat.png),
   Purple Hair (m/f)
-  ![](basic/m/purplehair.png) ![](basic/f/purplehair.png),
+  ![](basic/m/purplehair.png) ![](basic/f/purplehair.png) ![](basic/f/purplehair2.png),
   Red Mohawk (f)
   ![](basic/f/redmohawk.png),
   Shaved Head (m/f)
@@ -118,7 +116,7 @@ Attributes (by category and a-z):
   Wild Hair (m/f)
   ![](basic/m/wildhair.png) ![](basic/f/wildhair.png),
   Wild White Hair (m/f)
-  ![](basic/m/wildwhitehair.png) ![](basic/f/wildwhitehair.png)
+  ![](basic/m/wildwhitehair.png) ![](basic/f/wildwhitehair.png) ![](basic/f/wildwhitehair2.png)
 - Eyes -
   3D Glasses (m/f)
    ![](basic/m/3dglasses.png) ![](basic/f/3dglasses.png),
@@ -222,6 +220,10 @@ Attributes (by category and a-z):
    ![](basic/m/goldchain.png) ![](basic/f/goldchain.png),
   Silver Chain (m/f)
    ![](basic/m/silverchain.png) ![](basic/f/silverchain.png)
+- Clothes -
+  Hoodie (m/f)
+  ![](basic/m/hoodie.png) ![](basic/f/hoodie.png)
+
 
 
 
