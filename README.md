@@ -89,8 +89,8 @@ Attributes (by category and a-z):
   ![](basic/m/mohawkdark.png) ![](basic/f/mohawkdark.png),
   Mohawk Thin (m/f)
   ![](basic/m/mohawkthin.png) ![](basic/f/mohawkthin.png),
-  Orange Side (f)
-  ![](basic/f/orangeside.png),
+  Orange Side (m/f)
+  ![](basic/m/orangeside.png) ![](basic/f/orangeside.png) ![](basic/f/orangeside2.png),
   Peak Spike (m)
   ![](basic/m/peakspike.png),
   Pigtails (f)
@@ -106,14 +106,14 @@ Attributes (by category and a-z):
   Straight Hair (f)
   ![](basic/f/straighthair.png),
   Straight Hair Blonde (f)
-  ![](basic/f/straighthairblonde.png),
+  ![](basic/f/straighthairblonde.png) ![](basic/f/straighthairblonde2.png),
   Straight Hair Dark (f)
   ![](basic/f/straighthairdark.png),
   Stringy Hair (m/f)
   ![](basic/m/stringyhair.png) ![](basic/f/stringyhair.png),
-  Vampire Hair (m)
-  ![](basic/m/vampirehair.png),
-  Wild Blonde (f)
+  Vampire Hair (m/f)
+  ![](basic/m/vampirehair.png) ![](basic/f/vampirehair.png),
+  Wild Blonde (m/f)
   ![](basic/m/wildblonde.png) ![](basic/f/wildblonde.png) ![](basic/f/wildblonde2.png),
   Wild Hair (m/f)
   ![](basic/m/wildhair.png) ![](basic/f/wildhair.png),
