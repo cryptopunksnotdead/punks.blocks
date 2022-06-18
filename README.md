@@ -275,12 +275,10 @@ Attributes¹ (by category and a-z):
 _Unisize & unisex archetypes from scratch / zero. Add your own eyebrows / eyes / nose / mouth_
 
 Humans (u)
-![](faceless/human-i_white.png)
 ![](faceless/human-i_lighter.png)
 ![](faceless/human-i_light.png)
 ![](faceless/human-i_dark.png)
 ![](faceless/human-i_darker.png)
-![](faceless/human-ii_white.png)
 ![](faceless/human-ii_lighter.png)
 ![](faceless/human-ii_light.png)
 ![](faceless/human-ii_dark.png)
