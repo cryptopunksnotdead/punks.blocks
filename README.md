@@ -90,7 +90,7 @@ Attributes (by category and a-z):
   Orange Side (m/f)
   ![](basic/m/orangeside.png) ![](basic/f/orangeside.png) ![](basic/f/orangeside2.png),
   Peak Spike (m/f)
-  ![](basic/m/peakspike.png) ![](basic/f/peakspike.png),
+  ![](basic/m/peakspike.png) ![](basic/f/peakspike.png) ![](basic/f/peakspike2.png),
   Pigtails (f)
   ![](basic/f/pigtails.png),
   Purple Hair (m/f)
@@ -108,7 +108,7 @@ Attributes (by category and a-z):
   Stringy Hair (m/f)
   ![](basic/m/stringyhair.png) ![](basic/f/stringyhair.png),
   Vampire Hair (m/f)
-  ![](basic/m/vampirehair.png) ![](basic/f/vampirehair.png),
+  ![](basic/m/vampirehair.png) ![](basic/f/vampirehair.png) ![](basic/f/vampirehair2.png),
   Wild Blonde (m/f)
   ![](basic/m/wildblonde.png) ![](basic/f/wildblonde.png) ![](basic/f/wildblonde2.png),
   Wild Hair (m/f)
@@ -350,7 +350,6 @@ Attributes (by category and a-z):
 - Hats -
   Bandana (u)          ![](1bit/u/bandana.png),
   Beanie (u)           ![](1bit/u/beanie.png),
-  Bear Hood (u)        ![](1bit/u/bearhood.png),
   Cap (u)              ![](1bit/u/cap.png),
   Cap Forward (u)      ![](1bit/u/capforward.png),
   Cowboy Hat (u)       ![](1bit/u/cowboyhat.png),
@@ -417,6 +416,8 @@ Attributes (by category and a-z):
   Pipe (u)             ![](1bit/u/pipe.png)
 - Misc -
   Ape Front (u)        ![](1bit/u/ape-front.png)
+- Clothes -
+  Bear Hood (u)        ![](1bit/u/bearhood.png)
 
 
 
