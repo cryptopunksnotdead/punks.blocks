@@ -55,30 +55,30 @@ Attributes (by category and a-z):
   Knitted Cap (m/f)
   ![](basic/m/knittedcap.png) ![](basic/f/knittedcap.png),
   Pilot Helmet (m/f)
-  ![](basic/m/pilothelmet.png) ![](basic/f/pilothelmet.png),
+  ![](basic/m/pilothelmet.png) ![](basic/m/pilothelmet2.png) ![](basic/f/pilothelmet.png),
   Police Cap (m/f)
   ![](basic/m/policecap.png) ![](basic/f/policecap.png),
   Tassle Hat (m/f)
-  ![](basic/m/tasslehat.png) ![](basic/f/tasslehat.png),
+  ![](basic/m/tasslehat.png) ![](basic/m/tasslehat2.png) ![](basic/f/tasslehat.png),
   Tiara (m/f)
-  ![](basic/m/tiara.png) ![](basic/f/tiara.png),
+  ![](basic/m/tiara.png) ![](basic/m/tiara2.png) ![](basic/f/tiara.png),
   Top Hat (m/f)
   ![](basic/m/tophat.png) ![](basic/f/tophat.png)
 - Hair -
-  Blonde Bob (f)
-  ![](basic/f/blondebob.png),
+  Blonde Bob (m/f)
+  ![](basic/m/blondebob.png) ![](basic/f/blondebob.png),
   Blonde Short (m/f)
-  ![](basic/m/blondeshort.png) ![](basic/f/blondeshort.png) ![](basic/f/blondeshort2.png),
+  ![](basic/m/blondeshort.png) ![](basic/m/blondeshort2.png) ![](basic/f/blondeshort.png) ![](basic/f/blondeshort2.png),
   Clown Hair Green (m/f)
   ![](basic/m/clownhairgreen.png) ![](basic/f/clownhairgreen.png) ![](basic/f/clownhairgreen2.png),
   Crazy Hair (m/f)
   ![](basic/m/crazyhair.png) ![](basic/f/crazyhair.png),
-  Dark Hair (f)
-  ![](basic/f/darkhair.png) ![](basic/f/darkhair2.png),
+  Dark Hair (m/f)
+  ![](basic/m/darkhair.png) ![](basic/f/darkhair.png) ![](basic/f/darkhair2.png),
   Frumpy Hair (m/f)
   ![](basic/m/frumpyhair.png) ![](basic/f/frumpyhair.png),
   Half Shaved (m/f)
-  ![](basic/m/halfshaved.png) ![](basic/f/halfshaved.png) ![](basic/f/halfshaved2.png),
+  ![](basic/m/halfshaved.png) ![](basic/m/halfshaved2.png) ![](basic/f/halfshaved.png) ![](basic/f/halfshaved2.png),
   Messy Hair (m/f)
   ![](basic/m/messyhair.png) ![](basic/f/messyhair.png),
   Mohawk (m/f)
@@ -88,38 +88,38 @@ Attributes (by category and a-z):
   Mohawk Thin (m/f)
   ![](basic/m/mohawkthin.png) ![](basic/f/mohawkthin.png),
   Orange Side (m/f)
-  ![](basic/m/orangeside.png) ![](basic/f/orangeside.png) ![](basic/f/orangeside2.png),
+  ![](basic/m/orangeside.png) ![](basic/m/orangeside2.png) ![](basic/f/orangeside.png) ![](basic/f/orangeside2.png),
   Peak Spike (m/f)
   ![](basic/m/peakspike.png) ![](basic/f/peakspike.png) ![](basic/f/peakspike2.png),
-  Pigtails (f)
-  ![](basic/f/pigtails.png),
+  Pigtails (m/f)
+  ![](basic/m/pigtails.png) ![](basic/f/pigtails.png),
   Purple Hair (m/f)
   ![](basic/m/purplehair.png) ![](basic/f/purplehair.png) ![](basic/f/purplehair2.png),
-  Red Mohawk (f)
-  ![](basic/f/redmohawk.png),
+  Red Mohawk (m/f)
+  ![](basic/m/redmohawk.png) ![](basic/f/redmohawk.png),
   Shaved Head (m/f)
   ![](basic/m/shavedhead.png) ![](basic/f/shavedhead.png),
-  Straight Hair (f)
-  ![](basic/f/straighthair.png),
-  Straight Hair Blonde (f)
-  ![](basic/f/straighthairblonde.png) ![](basic/f/straighthairblonde2.png),
-  Straight Hair Dark (f)
-  ![](basic/f/straighthairdark.png),
+  Straight Hair (m/f)
+  ![](basic/m/straighthair.png) ![](basic/f/straighthair.png),
+  Straight Hair Blonde (m/f)
+  ![](basic/m/straighthairblonde.png) ![](basic/f/straighthairblonde.png) ![](basic/f/straighthairblonde2.png),
+  Straight Hair Dark (m/f)
+  ![](basic/m/straighthairdark.png) ![](basic/f/straighthairdark.png),
   Stringy Hair (m/f)
   ![](basic/m/stringyhair.png) ![](basic/f/stringyhair.png),
   Vampire Hair (m/f)
   ![](basic/m/vampirehair.png) ![](basic/f/vampirehair.png) ![](basic/f/vampirehair2.png),
   Wild Blonde (m/f)
-  ![](basic/m/wildblonde.png) ![](basic/f/wildblonde.png) ![](basic/f/wildblonde2.png),
+  ![](basic/m/wildblonde.png) ![](basic/m/wildblonde2.png) ![](basic/f/wildblonde.png) ![](basic/f/wildblonde2.png),
   Wild Hair (m/f)
   ![](basic/m/wildhair.png) ![](basic/f/wildhair.png),
   Wild White Hair (m/f)
-  ![](basic/m/wildwhitehair.png) ![](basic/f/wildwhitehair.png) ![](basic/f/wildwhitehair2.png)
+  ![](basic/m/wildwhitehair.png) ![](basic/m/wildwhitehair2.png) ![](basic/f/wildwhitehair.png) ![](basic/f/wildwhitehair2.png)
 - (Hair+Hat) Combo -
-  Black With Headband (f)
-  ![](basic/f/blackwithheadband.png),
-  Pink With Hat (f)
-  ![](basic/f/pinkwithhat.png)
+  Black With Headband (m/f)
+  ![](basic/m/blackwithheadband.png) ![](basic/f/blackwithheadband.png),
+  Pink With Hat (m/f)
+  ![](basic/m/pinkwithhat.png) ![](basic/f/pinkwithhat.png)
 - Eyes -
   3D Glasses (m/f)
    ![](basic/m/3dglasses.png) ![](basic/f/3dglasses.png),
@@ -222,7 +222,7 @@ Attributes (by category and a-z):
    ![](basic/m/shadowbeard.png)
 - Neck Accessory -
   Choker (m/f)
-   ![](basic/m/choker.png) ![](basic/f/choker.png),
+   ![](basic/m/choker.png) ![](basic/m/choker2.png) ![](basic/f/choker.png),
   Gold Chain (m/f)
    ![](basic/m/goldchain.png) ![](basic/f/goldchain.png),
   Silver Chain (m/f)
