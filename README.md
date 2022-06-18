@@ -1851,7 +1851,7 @@ Let's try the red (0°) variant.
 Let's make - a super rare alien
 ![](alien-invasion/alien-male.png)
 with a cap
-![](all-caps/cap_0.png)
+![](all-caps/m/cap_0.png)
 from scratch:
 
 ```
@@ -1873,7 +1873,7 @@ $ magick convert punk2890_0.png -filter point -resize 400% punk2890_0x4.png
 ![](i/punk2890_0@4x.png)
 
 
-Or try the blue (240°) ![](all-caps/cap_240.png) variant - `cap_240.png`:
+Or try the blue (240°) ![](all-caps/m/cap_240.png) variant - `cap_240.png`:
 
 ![](i/punk2890_240.png)   2x, 4x:
 ![](i/punk2890_240@2x.png)
@@ -1886,7 +1886,7 @@ Or try the blue (240°) ![](all-caps/cap_240.png) variant - `cap_240.png`:
 Or let's make a (light skintone) human punk
 ![](basic/human-male_light.png)
 with a red (0°) cap
-![](all-caps/cap_0.png)
+![](all-caps/m/cap_0.png)
 and a smile
 ![](basic/m/smile.png)
 from scratch:
@@ -1911,7 +1911,7 @@ $ magick convert human_light.png -filter point -resize 200% human_lightx2.png
 
 
 Or try the dark skintone ![](basic/human-male_dark.png) variant - `human-male_dark.png` -
-with a green (120°) cap ![](all-caps/cap_120.png)  - `cap_120.png`:
+with a green (120°) cap ![](all-caps/m/cap_120.png)  - `cap_120.png`:
 
 
 <!--
