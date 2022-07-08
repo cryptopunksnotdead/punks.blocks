@@ -489,6 +489,23 @@ Attributes (by category and a-z):
   Clown Nose Green (m/f) ![](more/m/clownnose_green.png) ![](more/f/clownnose_green.png)
 - Ears -
   Silver Earring (m/f) ![](more/m/silverearring.png) ![](more/f/silverearring.png)
+- (Covid) Masks -
+  White (m/f)  ![](mask/m/white.png) ![](mask/f/white.png),
+  Yellow (m/f)  ![](mask/m/yellow.png) ![](mask/f/yellow.png),
+  Pink (m/f)   ![](mask/m/pink.png) ![](mask/f/pink.png),
+  Rainbow (m/f)  ![](mask/m/rainbow.png) ![](mask/f/rainbow.png),
+  Blue (m/f)  ![](mask/m/blue.png) ![](mask/f/blue.png),
+  Black (m/f)  ![](mask/m/black.png) ![](mask/f/black.png),
+  Cloth White (m/f)  ![](mask/m/cloth_white.png) ![](mask/f/cloth_white.png),
+  Cloth Green (m/f)   ![](mask/m/cloth_green.png) ![](mask/f/cloth_green.png),
+  Cloth Orange (m/f)  ![](mask/m/cloth_orange.png) ![](mask/f/cloth_orange.png),
+  Cloth Red (m/f)    ![](mask/m/cloth_red.png) ![](mask/f/cloth_red.png),
+  Cloth Brown (m/f)  ![](mask/m/cloth_brown.png) ![](mask/f/cloth_brown.png),
+  Cloth Purple (m/f) ![](mask/m/cloth_purple.png) ![](mask/f/cloth_purple.png),
+  Cloth Blue (m/f)   ![](mask/m/cloth_blue.png) ![](mask/f/cloth_blue.png),
+  KN-95 (m/f)  ![](mask/m/kn-95.png) ![](mask/f/kn-95.png),
+  KN-95 Yellow (m/f) ![](mask/m/kn-95_yellow.png) ![](mask/f/kn-95_yellow.png),
+  KN-95 Black (m/f)  ![](mask/m/kn-95_black.png) ![](mask/f/kn-95_black.png)
 - Mouth (Makeup) -
   Pink Lipstick (f) ![](more/f/pinklipstick.png),
   Red Lipstick (f) ![](more/f/redlipstick.png)
