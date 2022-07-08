@@ -64,7 +64,7 @@ Apes (m) ![](marcs/ape_marc.png) ![](marcs/pink_ape_marc.png) ![](marcs/golden_a
 Aliens (m)  ![](marcs/alien_marc.png) ![](marcs/green_alien_marc.png),
 Demons (m) ![](marcs/demon_marc1.png) ![](marcs/demon_marc2.png),
 Orc (m)   ![](marcs/orc_marc.png),
-Skeleton (m) ![](marcs/skeleton_marc.png),
+Skeleton (m) ![](marcs/skeleton_marc.png)
 
 
 
