@@ -458,6 +458,16 @@ Attributes (by category and a-z):
   Bow (f)  ![](more/f/bow.png),
   Crown (m/f) ![](more/m/crown.png) ![](more/f/crown.png),
   Flowers (f)  ![](more/f/flowers.png),
+  Headbands (m)    ![](more/m/headband-brazil.png)
+   ![](more/m/headband-canada.png)
+   ![](more/m/headband-france.png)
+   ![](more/m/headband-germany.png)
+   ![](more/m/headband-ireland.png)
+   ![](more/m/headband-italy.png)
+   ![](more/m/headband-japan.png)
+   ![](more/m/headband-mexico.png)
+   ![](more/m/headband-nigeria.png)
+   ![](more/m/headband-pride.png),
   Jester Hat (m/f) ![](more/m/jesterhat.png) ![](more/f/jesterhat.png),
   Santa Hat (m/f) ![](more/m/santahat.png) ![](more/f/santahat.png),
   Sombrero¹ (m/f) ![](more/m/sombrero.png) ![](more/f/sombrero.png),
