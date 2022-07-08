@@ -8,21 +8,22 @@ The Unicode-Like Universal Code Page for All Punk Archetypes & Attributes - if y
 
 
 
+
 ## Basic Punk Series (24×24)
 
 _Formerly known as ~Original Matt & John's® CryptoPunks~_
 
-Humans (m/f)
+Humans (m/f) - 4 skin tones (albino/light/mid/dark)  <br>
 ![](basic/human-male_lighter.png)
 ![](basic/human-male_light.png)
 ![](basic/human-male_dark.png)
-![](basic/human-male_darker.png)
+![](basic/human-male_darker.png)  <br>
 ![](basic/human-female_lighter.png)
 ![](basic/human-female_light.png)
 ![](basic/human-female_dark.png)
-![](basic/human-female_darker.png)  - 4 skin tones (albino/light/mid/dark)
+![](basic/human-female_darker.png)
 
-Humans (m/f)
+Humans (m/f) - 10 (dr. ellis) monk¹ skin tones (01/02/03/04/05/06/07/08/09/10)  <br>
 ![](monk/male_01.png)
 ![](monk/male_02.png)
 ![](monk/male_03.png)
@@ -32,7 +33,7 @@ Humans (m/f)
 ![](monk/male_07.png)
 ![](monk/male_08.png)
 ![](monk/male_09.png)
-![](monk/male_10.png)
+![](monk/male_10.png)  <br>
 ![](monk/female_01.png)
 ![](monk/female_02.png)
 ![](monk/female_03.png)
@@ -42,7 +43,10 @@ Humans (m/f)
 ![](monk/female_07.png)
 ![](monk/female_08.png)
 ![](monk/female_09.png)
-![](monk/female_10.png) - 10 (dr. ellis) monk skin tones (01/02/03/04/05/06/07/08/09/10) - see [Skin Tone Research @ Google A.I.](https://skintone.google/) for background reading.
+![](monk/female_10.png)
+
+¹: See [Skin Tone Research @ Google A.I.](https://skintone.google/) for background reading.
+
 
 
 More -
