@@ -1388,7 +1388,25 @@ Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
 
 _The rise of more new punk apes_
 
-Ape (male¹,/female¹) ![](planet-apes/ape-male.png) ![](planet-apes/ape-female.png),
+Ape (male,/female) ![](basic/ape-male.png)¹ ![](basic/ape-female.png)¹ -
+![](planet-apes/ape-male-black.png)
+![](planet-apes/ape-male-gray.png)
+![](planet-apes/ape-male-dark_brown.png)
+![](planet-apes/ape-male-brown.png)
+![](planet-apes/ape-male-golden_brown.png)
+![](planet-apes/ape-male-cheetah.png)
+![](planet-apes/ape-male-blue.png)
+![](planet-apes/ape-male-dmt.png)
+![](planet-apes/ape-male-pink.png)
+![](planet-apes/ape-male-red.png)
+![](planet-apes/ape-male-tan.png)
+![](planet-apes/ape-male-cream.png)
+![](planet-apes/ape-male-white.png)
+![](planet-apes/ape-male-noise.png)
+![](planet-apes/ape-male-trippy.png)
+![](planet-apes/ape-male-solid_gold.png)
+![](planet-apes/ape-male-bot.png)
+![](planet-apes/ape-male-death_bot.png),
 Ape Zombie (male) ![](planet-apes/ape-zombie-male.png),
 Ape Alien (male) ![](planet-apes/ape-alien-male.png)
 
