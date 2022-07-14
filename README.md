@@ -1388,7 +1388,7 @@ Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
 
 _The rise of more new punk apes_
 
-Ape (male,/female) ![](basic/ape-male.png)¹ ![](basic/ape-female.png)¹ -
+Ape (male,/female) ![](basic/ape-male.png) ![](basic/ape-female.png)¹ -
 ![](planet-apes/ape-male-black.png)
 ![](planet-apes/ape-male-gray.png)
 ![](planet-apes/ape-male-dark_brown.png)
