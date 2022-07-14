@@ -1413,6 +1413,25 @@ Scream (male / female) ![](more/scream-male.png)  ![](unisize/scream-female.png)
 Frankenstein (male / female) ![](more/frankenstein-male.png)  ![](unisize/frankenstein-female.png) ![](more/frankenstein-female.png)
 
 
+Cyborgs  (male / female)
+![](cyborgs/cyborg-male1.png)
+![](cyborgs/cyborg-male2.png)
+![](cyborgs/cyborg-male3.png)
+![](cyborgs/cyborg-male4.png)
+![](cyborgs/cyborg-female1.png)
+![](cyborgs/cyborg-female2.png)
+![](cyborgs/cyborg-female3.png)
+![](cyborgs/cyborg-female4.png),
+Metal (male / female )
+![](cyborgs/cyborg-male-metal.png)
+![](cyborgs/cyborg-female-metal.png),
+Ape (male)
+![](cyborgs/cyborg-ape.png),
+Metal (male)
+![](cyborgs/cyborg-ape-metal.png)
+
+
+
 
 
 ## Gold(en) Series (24×24)
