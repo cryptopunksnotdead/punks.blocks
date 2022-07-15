@@ -301,25 +301,29 @@ Attributes (by category and a-z):
   Chinstrap (m)
    ![](basic/m/chinstrap.png),
   Front Beard (m)
+   ![](basic/m/frontbearddark.png)
    ![](basic/m/frontbeard.png),
-  Front Beard Dark (m)
-   ![](basic/m/frontbearddark.png),
   Goat (m)
    ![](basic/m/goat.png),
   Handlebars (m)
    ![](basic/m/handlebars.png),
   Luxurious Beard (m)
-   ![](basic/m/luxuriousbeard.png),
+   ![](basic/m/luxuriousbeard.png)
+   ![](basic/m/luxurious_white_beard.png),
+  Messy Beard (m)
+   ![](basic/m/messy_white_beard.png),
   Mustache (m)
    ![](basic/m/mustache.png),
   Muttonchops (m)
    ![](basic/m/muttonchops.png),
   Normal Beard (m)
-   ![](basic/m/normalbeard.png),
-  Normal Beard Black (m)
-   ![](basic/m/normalbeardblack.png),
+   ![](basic/m/normalbeardblack.png)
+   ![](basic/m/normalbeard.png)
+   ![](basic/m/normal_white_beard.png),
   Shadow Beard (m)
-   ![](basic/m/shadowbeard.png)
+   ![](basic/m/shadowbeard.png),
+  Short Beard (m)
+   ![](basic/m/short_white_beard.png)
 - Neck Accessory -
   Choker (m/f)
    ![](basic/m/choker.png) ![](basic/m/choker2.png) ![](basic/f/choker.png),
@@ -580,6 +584,7 @@ Attributes (by category and a-z):
   Heart Shades (m/f)  ![](more/m/heartshades.png) ![](more/f/heartshades.png),
   Laser Eyes (m/f)      ![](more/m/lasereyes.png) ![](more/f/lasereyes.png),
   Laser Eyes Gold (m/f) ![](more/m/lasereyesgold.png) ![](more/f/lasereyesgold.png),
+  Laser Eyes Blue (m)  ![](more/m/lasereyes-blue.png),
   Ski Googles (m/f)   ![](more/m/skigoogles.png) ![](more/f/skigoogles.png),
   Tears (m/f)         ![](more/m/tears.png) ![](more/f/tears.png)
 - Eyes (Makeup) -
@@ -1456,6 +1461,12 @@ Saudis - Shemagh (& Agal)  (m)  ![](saudis/m/white_shemagh.png)
   ![](saudis/m/red_shemagh_crown.png),
  Niquab (f)  ![](saudis/f/niquab-black.png)
   ![](saudis/f/niquab-blue.png)
+
+Jews  - Hats (m)  ![](jews/m/hat1.png)
+  ![](jews/m/hat2.png)
+  ![](jews/m/hat3.png)
+  ![](jews/m/hat4.png)
+  ![](jews/m/hat5.png)
 
 
 ¹: Alternatives to the basic series
