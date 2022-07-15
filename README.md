@@ -234,7 +234,9 @@ Attributes (by category and a-z):
   Nerd Glasses (m/f)
   ![](basic/m/nerdglasses.png) ![](basic/f/nerdglasses.png),
   Regular Shades (m/f)
-  ![](basic/m/regularshades.png) ![](basic/f/regularshades.png),
+  ![](basic/m/regularshades.png)
+  ![](basic/m/regularshades-reflective.png)
+  ![](basic/f/regularshades.png),
   Small Shades (m/f)
   ![](basic/m/smallshades.png) ![](basic/f/smallshades.png),
   VR (m/f)
@@ -1389,9 +1391,12 @@ Rainbow Hair (m/f)
 
 _Power to the punks_
 
-Hair  ![](wallstreetbets/wallstreetbets-hair.png) ![](wallstreetbets/wallstreetbets-hair_dark.png),
-Crazy Hair  ![](wallstreetbets/wallstreetbets-crazyhair.png) ![](wallstreetbets/wallstreetbets-crazyhair_dark.png)
-
+Hair  ![](wallstreetbets/wallstreetbets-hair1.png)
+  ![](wallstreetbets/wallstreetbets-hair2.png)
+  ![](wallstreetbets/wallstreetbets-hair3.png)
+  ![](wallstreetbets/wallstreetbets-hair1_dark.png)
+  ![](wallstreetbets/wallstreetbets-hair2_dark.png)
+  ![](wallstreetbets/wallstreetbets-hair3_dark.png)
 
 
 
@@ -1437,6 +1442,21 @@ Turban (m/f)  ![](intl/m/turban.png) ![](intl/f/turban.png),
 Tyrolean (m/f)  ![](intl/m/tyrolean.png) ![](intl/f/tyrolean.png),
 Ushanka (m/f)  ![](intl/m/ushanka.png) ![](intl/f/ushanka.png),
 Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
+
+
+Saudis - Shemagh (& Agal)  (m)  ![](saudis/m/white_shemagh.png)
+  ![](saudis/m/white_shemagh_agal.png)
+  ![](saudis/m/white_shemagh_gold_agal.png)
+  ![](saudis/m/white_shemagh_stylish_gold_agal.png)
+  ![](saudis/m/white_shemagh_crown.png)
+  ![](saudis/m/brown_shemagh_agal.png)
+  ![](saudis/m/brown_shemagh_crown.png)
+  ![](saudis/m/red_shemagh.png)
+  ![](saudis/m/red_shemagh_agal.png)
+  ![](saudis/m/red_shemagh_crown.png),
+ Niquab (f)  ![](saudis/f/niquab-black.png)
+  ![](saudis/f/niquab-blue.png)
+
 
 ¹: Alternatives to the basic series
 
